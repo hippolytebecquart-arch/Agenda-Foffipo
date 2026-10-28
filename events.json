@@ -1,93 +1,104 @@
 {
-  "updatedAt": "2026-10-28T10:51:07.560607+00:00",
+  "updatedAt": "2026-10-28T18:00:08.804328+00:00",
   "events": [
     {
-      "title": "Wazemmes fait son GRRR",
-      "date": "mer. 28 octobre 2026 · 13 h 30",
-      "place": "Wazemmes",
+      "title": "La jam du musical",
+      "date": "mer. 28 octobre 2026 · 19 h 00",
+      "place": "le musical",
       "town": "Lille",
       "kind": "culture",
-      "url": "https://openagenda.com/wazemmes/events/98528569_wazemmes-fait-son-grrr",
-      "source": "Ville de Lille",
-      "age": "Âge conseillé à vérifier",
-      "description": "Pour Halloween, frissonnez dans le quartier grâce à un parcours plein de surprises !"
+      "url": "https://openagenda.com/max-fb100003037778845/events/66021222_la-jam-du-musical-8447486",
+      "source": "Office de Tourisme de la Métropole Européenne de Lille",
+      "age": "Âge indiqué : 18–99 ans",
+      "description": "-TOUS NIVEAUX - TOUS STYLES -SUR PLACE : batterie, clavier, micros, sono, guitare, basse, ampli"
     },
     {
-      "title": "Atelier création d'un carnet animé",
-      "date": "mer. 28 octobre 2026 · 14 h 00",
+      "title": "St So fête l'Oktoberfest !",
+      "date": "mer. 28 octobre 2026 · 19 h 00",
+      "place": "Le Bistrot de St So",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/bistrot-de-st-so/events/19764813_st-so-fete-loktoberfest",
+      "source": "Ville de Lille",
+      "age": "Âge conseillé à vérifier",
+      "description": "Ambiance Bavière !"
+    },
+    {
+      "title": "Soirée polyglotte",
+      "date": "mer. 28 octobre 2026 · 20 h 00",
+      "place": "Tir Na Nog",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/ville-de-lille/events/78048199_soiree-polyglotte-4784910",
+      "source": "Ville de Lille",
+      "age": "Âge indiqué : 18–99 ans",
+      "description": "Café Polyglotte au Tir Na Nog – Échange linguistique gratuit"
+    },
+    {
+      "title": "Guy2BezBar",
+      "date": "mer. 28 octobre 2026 · 20 h 00",
+      "place": "L'Aéronef",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/la-culture-en-continu/events/5128590_guy2bezbar-1567225",
+      "source": "Ville de Lille",
+      "age": "Âge conseillé à vérifier",
+      "description": "Retour du rappeur Guy2BezBar !"
+    },
+    {
+      "title": "Mohamed Dali présente : Bitchin Bajas + L'objet",
+      "date": "mer. 28 octobre 2026 · 20 h 00",
+      "place": "La malterie",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/ville-de-lille/events/37485024_mohamed-dali-presente-bitchin-bajas-lobjet",
+      "source": "Ville de Lille",
+      "age": "Âge conseillé à vérifier",
+      "description": "Concert ambient & krautrock ! Mohamed Dali présente Bitchin Bajas (Chicago) et L'Objet (Lille) pour une soirée psyché et hypnotique."
+    },
+    {
+      "title": "Mohamed Dali présente : Bitchin Bajas + L'objet",
+      "date": "mer. 28 octobre 2026 · 20 h 00",
+      "place": "La malterie",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/la-culture-en-continu/events/40526388_mohamed-dali-presente-bitchin-bajas-lobjet-9685062",
+      "source": "Ville de Lille",
+      "age": "Âge conseillé à vérifier",
+      "description": "Concert ambient & krautrock ! Mohamed Dali présente Bitchin Bajas (Chicago) et L'Objet (Lille) pour une soirée psyché et hypnotique."
+    },
+    {
+      "title": "Les aides pour alléger ses factures d'énergie",
+      "date": "jeu. 29 octobre 2026 · 10 h 00",
+      "place": "Maison Lill'Âges",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/ville-de-lille/events/39159832_les-aides-pour-alleger-ses-factures-denergie",
+      "source": "Ville de Lille",
+      "age": "Âge conseillé à vérifier",
+      "description": "Connaître ses éco-droits !"
+    },
+    {
+      "title": "Atelier calligraphie chinoise",
+      "date": "jeu. 29 octobre 2026 · 10 h 00",
       "place": "La pouponnière",
       "town": "Lille",
       "kind": "culture",
-      "url": "https://openagenda.com/ville-de-lille/events/66448310_atelier-de-pratique-artistique-creation-dun-carnet-anime-9423678",
+      "url": "https://openagenda.com/ville-de-lille/events/44300736_atelier-de-pratique-artistique-calligraphie-chinoise-5904152",
       "source": "Ville de Lille",
-      "age": "Âge indiqué : 8–99 ans",
+      "age": "Âge indiqué : 10–99 ans",
       "description": "Cet automne, la Pouponnière vous invite à vivre des expériences, partager des rencontres et découvrir des projets où les histoires d’hier nourrissent les créations d’aujourd’hui."
     },
     {
-      "title": "Atelier Halloween",
-      "date": "mer. 28 octobre 2026 · 14 h 00",
-      "place": "Médiathèque Till L'Espiègle",
-      "town": "Villeneuve-d'Ascq",
-      "kind": "culture",
-      "url": "https://openagenda.com/mediatheque-de-villeneuve-dascq/events/77105143_atelier-halloween-8701673",
-      "source": "Le réseau des bibliothèques et médiathèques de la MEL",
-      "age": "Âge conseillé à vérifier",
-      "description": "Rendez-vous mercredi 28 octobre de 14h à 17h à la médiathèque pour un atelier sur le thème d'Halloween !"
-    },
-    {
-      "title": "Atelier création d'un carnet animé",
-      "date": "mer. 28 octobre 2026 · 14 h 00",
+      "title": "Atelier calligraphie chinoise",
+      "date": "jeu. 29 octobre 2026 · 10 h 00",
       "place": "La pouponnière",
       "town": "Lille",
       "kind": "culture",
-      "url": "https://openagenda.com/la-culture-en-continu/events/79259615_atelier-de-pratique-artistique-creation-dun-carnet-anime-4462247",
+      "url": "https://openagenda.com/la-culture-en-continu/events/77128472_atelier-de-pratique-artistique-calligraphie",
       "source": "Ville de Lille",
-      "age": "Âge indiqué : 8–99 ans",
+      "age": "Âge indiqué : 10–99 ans",
       "description": "Cet automne, la Pouponnière vous invite à vivre des expériences, partager des rencontres et découvrir des projets où les histoires d’hier nourrissent les créations d’aujourd’hui."
-    },
-    {
-      "title": "Je réussis mon projet solaire photovoltaïque",
-      "date": "mer. 28 octobre 2026 · 14 h 00",
-      "place": "La Maison de l'Habitat Durable",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/mhd/events/54164743_je-reussis-mon-projet-solaire-photovoltaique-6821275",
-      "source": "Ville de Lille",
-      "age": "Âge conseillé à vérifier",
-      "description": "Atelier"
-    },
-    {
-      "title": "Panique !! - Jeune public",
-      "date": "mer. 28 octobre 2026 · 15 h 00",
-      "place": "Théâtre Charcot",
-      "town": "Marcq-en-Barœul",
-      "kind": "culture",
-      "url": "https://openagenda.com/ville-de-marcq-en-baroeul/events/22266459_panique-jeune-public",
-      "source": "Ville de Marcq-en-Baroeul",
-      "age": "Âge conseillé à vérifier",
-      "description": "Panique !! - Jeune public"
-    },
-    {
-      "title": "« Parcours des sens au musée ! »",
-      "date": "mer. 28 octobre 2026 · 15 h 00",
-      "place": "Musée de l'Hospice Comtesse",
-      "town": "Lille",
-      "kind": "baby",
-      "url": "https://openagenda.com/hospice-comtesse/events/68354010_parcours-des-sens-au-musee",
-      "source": "Ville de Lille",
-      "age": "Âge indiqué : 6–9 ans",
-      "description": "Un \"Destination musée\" interactif et sensoriel !"
-    },
-    {
-      "title": "Atelier Gravure - au Mini-Lab / Le MHN fait le Mur",
-      "date": "mer. 28 octobre 2026 · 15 h 00",
-      "place": "Maison Folie Moulins",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/mhn/events/14644833_atelier-gravure-au-mini-lab",
-      "source": "Ville de Lille",
-      "age": "Âge indiqué : 7–12 ans",
-      "description": "En se basant sur des modèles d'illustrations animalières, chaque participant·e sélectionnera une espèce à styliser, gravera son dessin à la pointe sèche sur sa plaque, puis l'imprimera."
     },
     {
       "title": "Créer une BD numérique",
@@ -101,15 +112,257 @@
       "description": "Atelier informatique de 7 à 11 ans"
     },
     {
+      "title": "V.I.B. Very Important Baby",
+      "date": "jeu. 29 octobre 2026 · 10 h 00",
+      "place": "Médiathèque André Malraux",
+      "town": "Tourcoing",
+      "kind": "baby",
+      "url": "https://openagenda.com/reseau-des-idees-mediatheques-de-tourcoing/events/77095755_vib-very-important-baby-747052",
+      "source": "Le réseau des bibliothèques et médiathèques de la MEL",
+      "age": "Âge indiqué : 0–3 ans",
+      "description": "Des jeux, des livres, une musique douce et une bibliothécaire aux petits soins auprès des plus jeunes et de leurs parents. Tous les jeudis, de 10h à 11h30."
+    },
+    {
+      "title": "Le Trésor des Éléments - marionnettes tous publics",
+      "date": "jeu. 29 octobre 2026 · 10 h 30",
+      "place": "Le Spotlight de Lille",
+      "town": "Lille",
+      "kind": "baby",
+      "url": "https://openagenda.com/ville-de-lille/events/20387995_le-tresor-des-elements-marionnettes-tous-publics",
+      "source": "Ville de Lille",
+      "age": "Âge indiqué : 2–99 ans",
+      "description": "Spectacle de marionnettes à fils pour enfants et familles par une compagnie originaire des Hauts-de-France en activité depuis plus de 40 ans."
+    },
+    {
+      "title": "Atelier  monotype",
+      "date": "jeu. 29 octobre 2026 · 14 h 00",
+      "place": "La pouponnière",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/ville-de-lille/events/15765084_atelier-de-pratique-artistique-monotype-2702043",
+      "source": "Ville de Lille",
+      "age": "Âge indiqué : 12–99 ans",
+      "description": "Cet automne, la Pouponnière vous invite à vivre des expériences, partager des rencontres et découvrir des projets où les histoires d’hier nourrissent les créations d’aujourd’hui."
+    },
+    {
+      "title": "Atelier monotype",
+      "date": "jeu. 29 octobre 2026 · 14 h 00",
+      "place": "La Pouponnière",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/lapouponniere/events/21069912_atelier-de-pratique-artistique-monotype",
+      "source": "Ville de Lille",
+      "age": "Âge indiqué : 12–99 ans",
+      "description": "Cet automne, la Pouponnière vous invite à vivre des expériences, partager des rencontres et découvrir des projets où les histoires d’hier nourrissent les créations d’aujourd’hui."
+    },
+    {
+      "title": "Atelier monotype",
+      "date": "jeu. 29 octobre 2026 · 14 h 00",
+      "place": "La pouponnière",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/la-culture-en-continu/events/80758245_atelier-de-pratique-artistique-monotype-3528337",
+      "source": "Ville de Lille",
+      "age": "Âge indiqué : 12–99 ans",
+      "description": "Cet automne, la Pouponnière vous invite à vivre des expériences, partager des rencontres et découvrir des projets où les histoires d’hier nourrissent les créations d’aujourd’hui."
+    },
+    {
+      "title": "Atelier citrouille",
+      "date": "jeu. 29 octobre 2026 · 14 h 00",
+      "place": "Médiathèque Till L'Espiègle",
+      "town": "Villeneuve-d'Ascq",
+      "kind": "culture",
+      "url": "https://openagenda.com/mediatheque-de-villeneuve-dascq/events/20097430_atelier-citrouille-934185",
+      "source": "Le réseau des bibliothèques et médiathèques de la MEL",
+      "age": "Âge indiqué : 10–99 ans",
+      "description": "Rendez-vous jeudi 29 octobre de 14h à 17h à la médiathèque pour un atelier citrouille !"
+    },
+    {
+      "title": "Atelier - Crée ton portrait de dino !",
+      "date": "jeu. 29 octobre 2026 · 15 h 00",
+      "place": "Médiathèque du Faubourg de Béthune",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/mhn/events/45001791_atelier-cree-ton-portrait-de-dino-3514932",
+      "source": "Le réseau des bibliothèques et médiathèques de la MEL",
+      "age": "Âge indiqué : 4–6 ans",
+      "description": "Viens expérimenter les encres de couleurs en créant le portrait du Mégalosaure !"
+    },
+    {
+      "title": "Coco",
+      "date": "jeu. 29 octobre 2026 · 18 h 00",
+      "place": "Orchestre National de Lille",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/ville-de-lille/events/10885986_coco-8644113",
+      "source": "Ville de Lille",
+      "age": "Âge conseillé à vérifier",
+      "description": "En version française"
+    },
+    {
+      "title": "Réunion publique participative",
+      "date": "jeu. 29 octobre 2026 · 18 h 00",
+      "place": "Salle Frida",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/bois-blancs/events/19986128_reunion-publique-participative-5389148",
+      "source": "Ville de Lille",
+      "age": "Âge conseillé à vérifier",
+      "description": "Un moment convivial, ouvert à tous, pour échanger sur les différentes façons de s’impliquer dans la vie de son quartier et de sa ville."
+    },
+    {
+      "title": "Rouge noir et ignorant",
+      "date": "jeu. 29 octobre 2026 · 20 h 00",
+      "place": "Théâtre du Nord",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/la-culture-en-continu/events/45566535_rouge-noir-et-ignorant-318087",
+      "source": "Ville de Lille",
+      "age": "Âge indiqué : 15–99 ans",
+      "description": "Esquisse des élèves en mise en scène de l’École du Nord"
+    },
+    {
+      "title": "Shii Foo Miix",
+      "date": "jeu. 29 octobre 2026 · 20 h 00",
+      "place": "Le Bistrot de St So",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/bistrot-de-st-so/events/35406657_shii-foo-miix-1448",
+      "source": "Ville de Lille",
+      "age": "Âge conseillé à vérifier",
+      "description": "Cezar Làzaro + Soulboys vs Rudeboys"
+    },
+    {
+      "title": "Deuxième vague de froid spécial scène française : Lovataraxx + Years of Shame + St . Python",
+      "date": "jeu. 29 octobre 2026 · 20 h 00",
+      "place": "La malterie",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/la-culture-en-continu/events/66579238_deuxieme-vague-de-froid-special-scene-francaise-lovataraxx-years-of-shame-st-python-2003445",
+      "source": "Ville de Lille",
+      "age": "Âge conseillé à vérifier",
+      "description": "Cerbère Coryphée présente la deuxième vague de froid sur la scène française ! Lovataraxx, Years of Shame et St . Python débarquent pour une soirée post-punk et synth-wave mémorable."
+    },
+    {
+      "title": "Deuxième vague de froid spécial scène française : Lovataraxx + Years of Shame + St . Python",
+      "date": "jeu. 29 octobre 2026 · 20 h 00",
+      "place": "La malterie",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/ville-de-lille/events/78451633_deuxieme-vague-de-froid-special-scene-francaise-lovataraxx-years-of-shame-st-python",
+      "source": "Ville de Lille",
+      "age": "Âge conseillé à vérifier",
+      "description": "Cerbère Coryphée présente la deuxième vague de froid sur la scène française ! Lovataraxx, Years of Shame et St . Python débarquent pour une soirée post-punk et synth-wave mémorable."
+    },
+    {
+      "title": "[ANNULÉ] Concert : Bianca Costa",
+      "date": "jeu. 29 octobre 2026 · 20 h 00",
+      "place": "FLOW - Centre Eurorégional des Cultures Urbaines",
+      "town": "Lille",
+      "kind": "baby",
+      "url": "https://openagenda.com/flow/events/14479024_concert-bianca-costa",
+      "source": "Ville de Lille",
+      "age": "Âge indiqué : 0–99 ans",
+      "description": "[ANNULÉ] Après la sortie de son dernier album \"Gringa\", Bianca Costa, artiste montante du paysage musical français, part en tournée."
+    },
+    {
+      "title": "Bianca Costa",
+      "date": "jeu. 29 octobre 2026 · 20 h 00",
+      "place": "Le Flow",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/ville-de-lille/events/40844327_bianca-costa-4287082",
+      "source": "Ville de Lille",
+      "age": "Âge conseillé à vérifier",
+      "description": "Retrouvez Bianca Costa, l’artiste qui fusionne pop urbaine et rythmes solaires, pour la sortie de son premier album « Gringa »."
+    },
+    {
+      "title": "Josman",
+      "date": "jeu. 29 octobre 2026 · 20 h 00",
+      "place": "Zénith de Lille",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/ville-de-lille/events/98426546_josman-8624486",
+      "source": "Ville de Lille",
+      "age": "Âge conseillé à vérifier",
+      "description": "Retrouvez Josman, le rappeur indépendant à l’esthétique radicale, pour son DPC Tour. Un show visuel et sonore puissant qui confirme son statut de figure majeure du rap français."
+    },
+    {
+      "title": "Atelier couronnes de feuilles",
+      "date": "ven. 30 octobre 2026 · 14 h 00",
+      "place": "Médiathèque Till L'Espiègle",
+      "town": "Villeneuve-d'Ascq",
+      "kind": "culture",
+      "url": "https://openagenda.com/mediatheque-de-villeneuve-dascq/events/7655614_atelier-couronnes-de-feuilles",
+      "source": "Le réseau des bibliothèques et médiathèques de la MEL",
+      "age": "Âge conseillé à vérifier",
+      "description": "Rendez-vous vendredi 30 octobre de 14h à 17h à la médiathèque pour un atelier créatif !"
+    },
+    {
+      "title": "Atelier Pop-up - La forêt en diorama",
+      "date": "ven. 30 octobre 2026 · 15 h 00",
+      "place": "Médiathèque Bois Blancs",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/mhn/events/94398624_atelier-pop-up-la-foret-en-diorama-9956964",
+      "source": "Le réseau des bibliothèques et médiathèques de la MEL",
+      "age": "Âge indiqué : 7–99 ans",
+      "description": "L’autrice-illustratrice Océane Azeau vous invite à dessiner ces animaux et à les mettre en scène dans une forêt de papier sous la forme d’un petit diorama."
+    },
+    {
+      "title": "Carte blanche à Norahliv",
+      "date": "sam. 31 octobre 2026 · 10 h 00",
+      "place": "Médiathèque Jean-Lévy - Lille",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/bml/events/73144213_carte-blanche-a-norahliv",
+      "source": "Le réseau des bibliothèques et médiathèques de la MEL",
+      "age": "Âge conseillé à vérifier",
+      "description": "Venez découvrir l'univers graphique horrifique de Norahliv !"
+    },
+    {
+      "title": "Ciné-club à la médiathèque",
+      "date": "sam. 31 octobre 2026 · 10 h 00",
+      "place": "Médiathèque Till L'Espiègle",
+      "town": "Villeneuve-d'Ascq",
+      "kind": "culture",
+      "url": "https://openagenda.com/mediatheque-de-villeneuve-dascq/events/68377984_cine-club-a-la-mediatheque-8352711",
+      "source": "Le réseau des bibliothèques et médiathèques de la MEL",
+      "age": "Âge indiqué : 15–99 ans",
+      "description": "Rendez-vous samedi 31 octobre à 10h pour un ciné-club à la médiathèque !"
+    },
+    {
+      "title": "Journée de l'horreur",
+      "date": "sam. 31 octobre 2026 · 14 h 00",
+      "place": "Médiathèque Lille Wazemmes",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/bml/events/61533374_journee-de-lhorreur",
+      "source": "Le réseau des bibliothèques et médiathèques de la MEL",
+      "age": "Âge conseillé à vérifier",
+      "description": "La machiavélique équipe de la médiathèque vous a préparé tout un programme à vous glacer le sang !"
+    },
+    {
       "title": "Jeu vidéo à la bibliothèque",
       "date": "sam. 31 octobre 2026 · 14 h 30",
       "place": "Médiathèque de Lille-Moulins",
       "town": "Lille",
       "kind": "culture",
       "url": "https://openagenda.com/bml/events/25787584_jeu-video-a-la-bibliotheque-9274554",
-      "source": "Lille-Moulins",
+      "source": "Le réseau des bibliothèques et médiathèques de la MEL",
       "age": "Âge indiqué : 7–99 ans",
       "description": "Un espace dédié vous attend pour jouer à plusieurs et prendre part à des tournois."
+    },
+    {
+      "title": "Horreur à la médiathèque !",
+      "date": "sam. 31 octobre 2026 · 14 h 30",
+      "place": "Médiathèque Lille Wazemmes",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/bml/events/5120033_horreur-a-la-mediatheque",
+      "source": "Le réseau des bibliothèques et médiathèques de la MEL",
+      "age": "Âge indiqué : 5–99 ans",
+      "description": "La machiavélique équipe de la médiathèque vous a préparé tout un programme à vous glacer le sang !"
     },
     {
       "title": "Kilikili: Lectures d'Halloween",
@@ -189,6 +442,17 @@
       "description": "Toute la journée, la Médiathèque organise une grande vente pour vous permettre d'acheter à de tout petits prix des livres, des disques, des vinyles et des revues retirés de ses collections ou issus…"
     },
     {
+      "title": "Gang des dévoreurs",
+      "date": "sam. 7 novembre 2026 · 15 h 00",
+      "place": "Médiathèque La Corderie",
+      "town": "Marcq-en-Barœul",
+      "kind": "culture",
+      "url": "https://openagenda.com/reseau-des-bibliotheques-et-mediatheques-de-la-mel/events/78190737_gang-des-devoreurs-8525998",
+      "source": "La Corderie",
+      "age": "Âge indiqué : 8–12 ans",
+      "description": "Club de lecture des 8-12 ans"
+    },
+    {
       "title": "De l’hôpital médiéval au musée d’art et d’histoire de Lille",
       "date": "sam. 7 novembre 2026 · 15 h 00",
       "place": "Musée de l'Hospice Comtesse",
@@ -198,6 +462,17 @@
       "source": "Vieux-Lille",
       "age": "Âge indiqué : 10–99 ans",
       "description": "Laissez-vous conter l’histoire singulière de ce musée chargé d’histoire(s)"
+    },
+    {
+      "title": "Felice Beato, pionnier de la photographie au Japon",
+      "date": "sam. 7 novembre 2026 · 15 h 00",
+      "place": "Médiathèque Jean Lévy",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/bml/events/89525764_felice-beato-pionnier-de-la-photographie-au-japon",
+      "source": "Lille-Centre",
+      "age": "Âge indiqué : 18–99 ans",
+      "description": "Une conférence autour de la photographie"
     },
     {
       "title": "Chambre à Part",
@@ -354,6 +629,17 @@
       "description": "ou la véritable histoire des poupées russes"
     },
     {
+      "title": "Kilikili, la lecture d’histoires pour les petits",
+      "date": "mer. 18 novembre 2026 · 10 h 30",
+      "place": "Médiathèque Jean Lévy",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/bml/events/34616093_kilikili-la-lecture-dhistoires-pour-les-petits-9424864",
+      "source": "Lille-Centre",
+      "age": "Âge indiqué : 4–7 ans",
+      "description": "Vous explorez avec votre bibliothécaire des albums, contes et légendes pour les enfants de 4 à 7 ans. Ce temps de lecture prépare vos enfants au plaisir de lire et laisse une place à l’imaginaire !"
+    },
+    {
       "title": "Mon bestiaire étoilé !",
       "date": "mer. 18 novembre 2026 · 15 h 00",
       "place": "Musée de l'Hospice Comtesse",
@@ -385,6 +671,28 @@
       "source": "Vieux-Lille",
       "age": "Âge conseillé à vérifier",
       "description": "Les jam sessions du Conservatoire sont de retour à la malterie !"
+    },
+    {
+      "title": "Journée d'étude du festival \"D'un pays l'autre\"",
+      "date": "jeu. 19 novembre 2026 · 09 h 00",
+      "place": "Médiathèque Jean Lévy",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/bml/events/56386807_journee-detude-du-festival-dun-pays-lautre",
+      "source": "Lille-Centre",
+      "age": "Âge indiqué : 18–99 ans",
+      "description": "Dans le cadre du festival de traduction \"D'un pays l'autre\" se déroulant du mercredi 18 au dimanche 22 novembre 2026 organisé par les éditions de la contre-allée."
+    },
+    {
+      "title": "La bibliothèque idéale de Guillaume Contré",
+      "date": "ven. 20 novembre 2026 · 12 h 30",
+      "place": "Médiathèque Jean Lévy",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/bml/events/23310387_la-bibliotheque-ideale-de-guillaume-contre",
+      "source": "Lille-Centre",
+      "age": "Âge indiqué : 18–99 ans",
+      "description": "Dans le cadre du festival de traduction \"D'un pays l'autre\" se déroulant du mercredi 18 au dimanche 22 novembre 2026 organisé par les éditions de la contre-allée."
     },
     {
       "title": "Dernières folies. Vieillesse et santé mentale (19e-20e siècle)",
