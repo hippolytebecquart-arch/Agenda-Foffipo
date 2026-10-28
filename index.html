@@ -160,6 +160,7 @@ function frenchEventSort(s){
 }
 eventData=seededEvents.sort((a,b)=>frenchEventSort(a.date)-frenchEventSort(b.date));
 renderEvents();
+loadWeather(); // Lance la météo dès l’ouverture du site.
 $('#eventStatus').textContent='Programmation préchargée depuis les agendas officiels consultés (mise à jour : 27 octobre 2026). Les horaires et disponibilités peuvent changer ; les dates passées ne sont pas automatiquement masquées.';
 /* Menus déroulants indépendants pour chaque grande catégorie */
 document.querySelectorAll('main.grid > .card').forEach((card,index)=>{
