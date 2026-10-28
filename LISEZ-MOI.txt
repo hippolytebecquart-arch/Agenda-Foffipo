@@ -1,0 +1,12 @@
+# Fichiers pour l’actualisation automatique
+
+1. Remplacer le fichier `index.html` actuel par celui fourni ici.
+2. Ajouter `events.json` à la racine du dépôt.
+3. Ajouter le fichier `scripts/update_events.py`.
+4. Ajouter le fichier `.github/workflows/update-events.yml`.
+5. Vérifier que le secret `OPENAGENDA_API_KEY` existe dans Settings → Secrets and variables → Actions.
+6. Dans l’onglet Actions, ouvrir « Actualiser les événements OpenAgenda » puis cliquer sur Run workflow pour le premier test.
+
+Le workflow s’exécute deux fois par jour (vers 7 h 17 et 19 h 17, heure UTC, avec possibles retards de GitHub). Il récupère des événements publiés depuis les agendas OpenAgenda qu’il trouve autour de la métropole lilloise. La couverture dépend des agendas qui publient effectivement sur OpenAgenda. Les programmations des salles peuvent nécessiter leurs propres flux officiels.
+
+Ne jamais mettre la clé dans le HTML ou dans un commit. Le script utilise le secret GitHub uniquement pendant l’exécution.

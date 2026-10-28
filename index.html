@@ -212,4 +212,24 @@ function renderMonthlyTodo(){
 renderMonthlyTodo();
 </script>
 
+<script>
+
+/* Charge les événements actualisés par GitHub Actions lorsqu'ils sont disponibles. */
+(async function loadGeneratedEvents(){
+  try {
+    const response = await fetch('./events.json?ts=' + Date.now(), {cache:'no-store'});
+    if (!response.ok) return;
+    const payload = await response.json();
+    if (!payload || !Array.isArray(payload.events) || payload.events.length === 0) return;
+    eventData = payload.events;
+    renderEvents();
+    const stamp = payload.updatedAt ? new Date(payload.updatedAt).toLocaleString('fr-FR') : '';
+    const status = document.querySelector('#eventStatus');
+    if (status) status.textContent = 'Événements OpenAgenda actualisés automatiquement' + (stamp ? ' · dernière mise à jour : ' + stamp : '') + '. Vérifiez les informations sur la source officielle avant de vous déplacer.';
+  } catch (error) {
+    console.info('Le fichier events.json n’est pas encore disponible ; affichage de secours conservé.', error);
+  }
+})();
+
+</script>
 </body></html>
