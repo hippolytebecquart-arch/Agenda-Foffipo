@@ -1,72 +1,6 @@
 {
-  "updatedAt": "2026-10-28T18:00:08.804328+00:00",
+  "updatedAt": "2026-10-29T05:59:15.936260+00:00",
   "events": [
-    {
-      "title": "La jam du musical",
-      "date": "mer. 28 octobre 2026 · 19 h 00",
-      "place": "le musical",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/max-fb100003037778845/events/66021222_la-jam-du-musical-8447486",
-      "source": "Office de Tourisme de la Métropole Européenne de Lille",
-      "age": "Âge indiqué : 18–99 ans",
-      "description": "-TOUS NIVEAUX - TOUS STYLES -SUR PLACE : batterie, clavier, micros, sono, guitare, basse, ampli"
-    },
-    {
-      "title": "St So fête l'Oktoberfest !",
-      "date": "mer. 28 octobre 2026 · 19 h 00",
-      "place": "Le Bistrot de St So",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/bistrot-de-st-so/events/19764813_st-so-fete-loktoberfest",
-      "source": "Ville de Lille",
-      "age": "Âge conseillé à vérifier",
-      "description": "Ambiance Bavière !"
-    },
-    {
-      "title": "Soirée polyglotte",
-      "date": "mer. 28 octobre 2026 · 20 h 00",
-      "place": "Tir Na Nog",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/ville-de-lille/events/78048199_soiree-polyglotte-4784910",
-      "source": "Ville de Lille",
-      "age": "Âge indiqué : 18–99 ans",
-      "description": "Café Polyglotte au Tir Na Nog – Échange linguistique gratuit"
-    },
-    {
-      "title": "Guy2BezBar",
-      "date": "mer. 28 octobre 2026 · 20 h 00",
-      "place": "L'Aéronef",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/la-culture-en-continu/events/5128590_guy2bezbar-1567225",
-      "source": "Ville de Lille",
-      "age": "Âge conseillé à vérifier",
-      "description": "Retour du rappeur Guy2BezBar !"
-    },
-    {
-      "title": "Mohamed Dali présente : Bitchin Bajas + L'objet",
-      "date": "mer. 28 octobre 2026 · 20 h 00",
-      "place": "La malterie",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/ville-de-lille/events/37485024_mohamed-dali-presente-bitchin-bajas-lobjet",
-      "source": "Ville de Lille",
-      "age": "Âge conseillé à vérifier",
-      "description": "Concert ambient & krautrock ! Mohamed Dali présente Bitchin Bajas (Chicago) et L'Objet (Lille) pour une soirée psyché et hypnotique."
-    },
-    {
-      "title": "Mohamed Dali présente : Bitchin Bajas + L'objet",
-      "date": "mer. 28 octobre 2026 · 20 h 00",
-      "place": "La malterie",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/la-culture-en-continu/events/40526388_mohamed-dali-presente-bitchin-bajas-lobjet-9685062",
-      "source": "Ville de Lille",
-      "age": "Âge conseillé à vérifier",
-      "description": "Concert ambient & krautrock ! Mohamed Dali présente Bitchin Bajas (Chicago) et L'Objet (Lille) pour une soirée psyché et hypnotique."
-    },
     {
       "title": "Les aides pour alléger ses factures d'énergie",
       "date": "jeu. 29 octobre 2026 · 10 h 00",
@@ -299,6 +233,17 @@
       "description": "Rendez-vous vendredi 30 octobre de 14h à 17h à la médiathèque pour un atelier créatif !"
     },
     {
+      "title": "Visite-atelier Lutherie sauvage",
+      "date": "ven. 30 octobre 2026 · 14 h 30",
+      "place": "Maison Folie Hospice d'Havré",
+      "town": "Tourcoing",
+      "kind": "culture",
+      "url": "https://openagenda.com/maison-folie-hospice-d-havre/events/58219084_visite-atelier-lutherie-sauvage",
+      "source": "Tourcoing Tourisme",
+      "age": "Âge indiqué : 6–99 ans",
+      "description": "Fabriquez votre propre instrument de musique lors d’un atelier de lutherie sauvage, puis faites-le résonner au sein d’un mini « Big Band »."
+    },
+    {
       "title": "Atelier Pop-up - La forêt en diorama",
       "date": "ven. 30 octobre 2026 · 15 h 00",
       "place": "Médiathèque Bois Blancs",
@@ -464,17 +409,6 @@
       "description": "Laissez-vous conter l’histoire singulière de ce musée chargé d’histoire(s)"
     },
     {
-      "title": "Felice Beato, pionnier de la photographie au Japon",
-      "date": "sam. 7 novembre 2026 · 15 h 00",
-      "place": "Médiathèque Jean Lévy",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/bml/events/89525764_felice-beato-pionnier-de-la-photographie-au-japon",
-      "source": "Lille-Centre",
-      "age": "Âge indiqué : 18–99 ans",
-      "description": "Une conférence autour de la photographie"
-    },
-    {
       "title": "Chambre à Part",
       "date": "dim. 8 novembre 2026 · 11 h 00",
       "place": "Auditorium du Conservatoire de Lille",
@@ -629,17 +563,6 @@
       "description": "ou la véritable histoire des poupées russes"
     },
     {
-      "title": "Kilikili, la lecture d’histoires pour les petits",
-      "date": "mer. 18 novembre 2026 · 10 h 30",
-      "place": "Médiathèque Jean Lévy",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/bml/events/34616093_kilikili-la-lecture-dhistoires-pour-les-petits-9424864",
-      "source": "Lille-Centre",
-      "age": "Âge indiqué : 4–7 ans",
-      "description": "Vous explorez avec votre bibliothécaire des albums, contes et légendes pour les enfants de 4 à 7 ans. Ce temps de lecture prépare vos enfants au plaisir de lire et laisse une place à l’imaginaire !"
-    },
-    {
       "title": "Mon bestiaire étoilé !",
       "date": "mer. 18 novembre 2026 · 15 h 00",
       "place": "Musée de l'Hospice Comtesse",
@@ -671,28 +594,6 @@
       "source": "Vieux-Lille",
       "age": "Âge conseillé à vérifier",
       "description": "Les jam sessions du Conservatoire sont de retour à la malterie !"
-    },
-    {
-      "title": "Journée d'étude du festival \"D'un pays l'autre\"",
-      "date": "jeu. 19 novembre 2026 · 09 h 00",
-      "place": "Médiathèque Jean Lévy",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/bml/events/56386807_journee-detude-du-festival-dun-pays-lautre",
-      "source": "Lille-Centre",
-      "age": "Âge indiqué : 18–99 ans",
-      "description": "Dans le cadre du festival de traduction \"D'un pays l'autre\" se déroulant du mercredi 18 au dimanche 22 novembre 2026 organisé par les éditions de la contre-allée."
-    },
-    {
-      "title": "La bibliothèque idéale de Guillaume Contré",
-      "date": "ven. 20 novembre 2026 · 12 h 30",
-      "place": "Médiathèque Jean Lévy",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/bml/events/23310387_la-bibliotheque-ideale-de-guillaume-contre",
-      "source": "Lille-Centre",
-      "age": "Âge indiqué : 18–99 ans",
-      "description": "Dans le cadre du festival de traduction \"D'un pays l'autre\" se déroulant du mercredi 18 au dimanche 22 novembre 2026 organisé par les éditions de la contre-allée."
     },
     {
       "title": "Dernières folies. Vieillesse et santé mentale (19e-20e siècle)",
