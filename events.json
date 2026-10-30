@@ -1,93 +1,27 @@
 {
-  "updatedAt": "2026-10-29T18:02:27.025019+00:00",
+  "updatedAt": "2026-10-30T06:00:09.920212+00:00",
   "events": [
     {
-      "title": "Sublime Tour : Luther & Rounhaa",
-      "date": "jeu. 29 octobre 2026 · 20 h 00",
-      "place": "La Condition Publique - Roubaix",
-      "town": "Roubaix",
-      "kind": "culture",
-      "url": "https://openagenda.com/la-condition-publique/events/48615185_sublime-tour-luther-and-rounhaa",
-      "source": "Office de Tourisme de Roubaix",
-      "age": "Âge conseillé à vérifier",
-      "description": "Le SUBLIME TOUR est de retour à Roubaix et Lille en octobre avec Luther & Rounhaa à La Condition Publique le jeudi 18 juin 2025."
-    },
-    {
-      "title": "Rouge noir et ignorant",
-      "date": "jeu. 29 octobre 2026 · 20 h 00",
-      "place": "Théâtre du Nord",
+      "title": "Auto-rénovation accompagnée : la ventilation",
+      "date": "ven. 30 octobre 2026 · 14 h 00",
+      "place": "Lille",
       "town": "Lille",
       "kind": "culture",
-      "url": "https://openagenda.com/la-culture-en-continu/events/45566535_rouge-noir-et-ignorant-318087",
-      "source": "Ville de Lille",
-      "age": "Âge indiqué : 15–99 ans",
-      "description": "Esquisse des élèves en mise en scène de l’École du Nord"
-    },
-    {
-      "title": "Shii Foo Miix",
-      "date": "jeu. 29 octobre 2026 · 20 h 00",
-      "place": "Le Bistrot de St So",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/bistrot-de-st-so/events/35406657_shii-foo-miix-1448",
+      "url": "https://openagenda.com/mhd/events/61123113_auto-renovation-accompagnee-la-ventilation",
       "source": "Ville de Lille",
       "age": "Âge conseillé à vérifier",
-      "description": "Cezar Làzaro + Soulboys vs Rudeboys"
+      "description": "Atelier"
     },
     {
-      "title": "Deuxième vague de froid spécial scène française : Lovataraxx + Years of Shame + St . Python",
-      "date": "jeu. 29 octobre 2026 · 20 h 00",
-      "place": "La malterie",
+      "title": "Atelier avec l'artiste Hideyuki Ishibashi",
+      "date": "ven. 30 octobre 2026 · 14 h 00",
+      "place": "Espace Le Carré",
       "town": "Lille",
       "kind": "culture",
-      "url": "https://openagenda.com/la-culture-en-continu/events/66579238_deuxieme-vague-de-froid-special-scene-francaise-lovataraxx-years-of-shame-st-python-2003445",
+      "url": "https://openagenda.com/la-culture-en-continu/events/67220581_atelier-avec-lartiste-hideyuki-ishibashi",
       "source": "Ville de Lille",
-      "age": "Âge conseillé à vérifier",
-      "description": "Cerbère Coryphée présente la deuxième vague de froid sur la scène française ! Lovataraxx, Years of Shame et St . Python débarquent pour une soirée post-punk et synth-wave mémorable."
-    },
-    {
-      "title": "Deuxième vague de froid spécial scène française : Lovataraxx + Years of Shame + St . Python",
-      "date": "jeu. 29 octobre 2026 · 20 h 00",
-      "place": "La malterie",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/ville-de-lille/events/78451633_deuxieme-vague-de-froid-special-scene-francaise-lovataraxx-years-of-shame-st-python",
-      "source": "Ville de Lille",
-      "age": "Âge conseillé à vérifier",
-      "description": "Cerbère Coryphée présente la deuxième vague de froid sur la scène française ! Lovataraxx, Years of Shame et St . Python débarquent pour une soirée post-punk et synth-wave mémorable."
-    },
-    {
-      "title": "[ANNULÉ] Concert : Bianca Costa",
-      "date": "jeu. 29 octobre 2026 · 20 h 00",
-      "place": "FLOW - Centre Eurorégional des Cultures Urbaines",
-      "town": "Lille",
-      "kind": "baby",
-      "url": "https://openagenda.com/flow/events/14479024_concert-bianca-costa",
-      "source": "Ville de Lille",
-      "age": "Âge indiqué : 0–99 ans",
-      "description": "[ANNULÉ] Après la sortie de son dernier album \"Gringa\", Bianca Costa, artiste montante du paysage musical français, part en tournée."
-    },
-    {
-      "title": "Bianca Costa",
-      "date": "jeu. 29 octobre 2026 · 20 h 00",
-      "place": "Le Flow",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/ville-de-lille/events/40844327_bianca-costa-4287082",
-      "source": "Ville de Lille",
-      "age": "Âge conseillé à vérifier",
-      "description": "Retrouvez Bianca Costa, l’artiste qui fusionne pop urbaine et rythmes solaires, pour la sortie de son premier album « Gringa »."
-    },
-    {
-      "title": "Josman",
-      "date": "jeu. 29 octobre 2026 · 20 h 00",
-      "place": "Zénith de Lille",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/ville-de-lille/events/98426546_josman-8624486",
-      "source": "Ville de Lille",
-      "age": "Âge conseillé à vérifier",
-      "description": "Retrouvez Josman, le rappeur indépendant à l’esthétique radicale, pour son DPC Tour. Un show visuel et sonore puissant qui confirme son statut de figure majeure du rap français."
+      "age": "Âge indiqué : 8–18 ans",
+      "description": "Dans le cadre de sa programmation, Hideyuki Ishibashi propose un atelier de découverte d’une expérience photographique et optique inspirée de l’exposition."
     },
     {
       "title": "Atelier couronnes de feuilles",
@@ -110,6 +44,17 @@
       "source": "Wattrelos Tourisme",
       "age": "Âge indiqué : 16–99 ans",
       "description": "Vous pensez connaître la Grand'Place sur le bout des doigts ? Ne croyez pas tout ce qu'on raconte et jouer à \"info\" ou \"intox\" lors de cette visite."
+    },
+    {
+      "title": "\" Chantier \"  / Luis Meyer",
+      "date": "ven. 30 octobre 2026 · 14 h 30",
+      "place": "Espace Edouard Pignon",
+      "town": "Lille",
+      "kind": "baby",
+      "url": "https://openagenda.com/bois-blancs/events/56833372_chantier-luis-meyer",
+      "source": "Ville de Lille",
+      "age": "Âge indiqué : 3–99 ans",
+      "description": "« Atelier à l'air libre » et « support » sont des définitions du mot                    « Chantier ». Cette exposition fait référence à la brique, aux murs urbains et à la cartographie."
     },
     {
       "title": "Visite-atelier Lutherie sauvage",
@@ -288,17 +233,6 @@
       "description": "Laissez-vous conter l’histoire singulière de ce musée chargé d’histoire(s)"
     },
     {
-      "title": "Felice Beato, pionnier de la photographie au Japon",
-      "date": "sam. 7 novembre 2026 · 15 h 00",
-      "place": "Médiathèque Jean Lévy",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/bml/events/89525764_felice-beato-pionnier-de-la-photographie-au-japon",
-      "source": "Lille-Centre",
-      "age": "Âge indiqué : 18–99 ans",
-      "description": "Une conférence autour de la photographie"
-    },
-    {
       "title": "Chambre à Part",
       "date": "dim. 8 novembre 2026 · 11 h 00",
       "place": "Auditorium du Conservatoire de Lille",
@@ -308,6 +242,17 @@
       "source": "Vieux-Lille",
       "age": "Âge conseillé à vérifier",
       "description": "Correspondances"
+    },
+    {
+      "title": "Cuisine libanaise avec Mieline | Au restaurant Mieline",
+      "date": "dim. 8 novembre 2026 · 14 h 00",
+      "place": "Restaurant Mieline",
+      "town": "Roubaix",
+      "kind": "culture",
+      "url": "https://openagenda.com/institut-du-monde-arabe-tourcoing/events/69519704_cuisine-libanaise-avec-mieline-or-au-restaurant-mieline",
+      "source": "Institut du monde arabe-Tourcoing",
+      "age": "Âge indiqué : 12–99 ans",
+      "description": "Avec la cheffe cuisinière Mieline, apprenez à préparer des plats traditionnels. N'oubliez pas vos contenants pour repartir avec vos préparations."
     },
     {
       "title": "Un dimanche au coeur des histoires",
@@ -387,6 +332,17 @@
       "description": "Une conférence menée par la Société royale historique et archéologique de Courtrai (KGOKK)"
     },
     {
+      "title": "Conférence Citéphilo | Meryem Sebti - Penser le monde avec Avicenne",
+      "date": "sam. 14 novembre 2026 · 15 h 00",
+      "place": "Institut du monde arabe-Tourcoing",
+      "town": "Tourcoing",
+      "kind": "culture",
+      "url": "https://openagenda.com/institut-du-monde-arabe-tourcoing/events/42525046_conference-citephilo-or-meryem-sebti-penser-le-monde-avec-avicenne",
+      "source": "Institut du monde arabe-Tourcoing",
+      "age": "Âge conseillé à vérifier",
+      "description": "Destiné à un public large sans présupposer de formation philosophique préalable, cet ouvrage offre une entrée dans l’une des œuvres les plus influentes de l’histoire de la philosophie."
+    },
+    {
       "title": "Les Drôles de Dames",
       "date": "sam. 14 novembre 2026 · 19 h 00",
       "place": "Maison Folie Moulins",
@@ -442,6 +398,17 @@
       "description": "Atelier de groupe"
     },
     {
+      "title": "Citéphilo | Christian Jambet - L'Ordre de l'être, providence et platonisme dans la philosophie iranienne",
+      "date": "dim. 15 novembre 2026 · 15 h 00",
+      "place": "Institut du monde arabe-Tourcoing",
+      "town": "Tourcoing",
+      "kind": "culture",
+      "url": "https://openagenda.com/institut-du-monde-arabe-tourcoing/events/33293245_citephilo-or-christian-jambet-lordre-de-letre-providence-et-platonisme-dans-la-philosophie-iranienne",
+      "source": "Institut du monde arabe-Tourcoing",
+      "age": "Âge conseillé à vérifier",
+      "description": "Christian Jambet est directeur d’études émérite à l’École pratique des hautes études. Il a consacré une quinzaine de livres et de nombreux articles à la philosophie et à la poésie en terre d’islam."
+    },
+    {
       "title": "Conte Musical Baba Yaga",
       "date": "dim. 15 novembre 2026 · 17 h 00",
       "place": "Auditorium du Conservatoire de Lille",
@@ -451,17 +418,6 @@
       "source": "Vieux-Lille",
       "age": "Âge conseillé à vérifier",
       "description": "ou la véritable histoire des poupées russes"
-    },
-    {
-      "title": "Kilikili, la lecture d’histoires pour les petits",
-      "date": "mer. 18 novembre 2026 · 10 h 30",
-      "place": "Médiathèque Jean Lévy",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/bml/events/34616093_kilikili-la-lecture-dhistoires-pour-les-petits-9424864",
-      "source": "Lille-Centre",
-      "age": "Âge indiqué : 4–7 ans",
-      "description": "Vous explorez avec votre bibliothécaire des albums, contes et légendes pour les enfants de 4 à 7 ans. Ce temps de lecture prépare vos enfants au plaisir de lire et laisse une place à l’imaginaire !"
     },
     {
       "title": "Mon bestiaire étoilé !",
@@ -497,28 +453,6 @@
       "description": "Les jam sessions du Conservatoire sont de retour à la malterie !"
     },
     {
-      "title": "Journée d'étude du festival \"D'un pays l'autre\"",
-      "date": "jeu. 19 novembre 2026 · 09 h 00",
-      "place": "Médiathèque Jean Lévy",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/bml/events/56386807_journee-detude-du-festival-dun-pays-lautre",
-      "source": "Lille-Centre",
-      "age": "Âge indiqué : 18–99 ans",
-      "description": "Dans le cadre du festival de traduction \"D'un pays l'autre\" se déroulant du mercredi 18 au dimanche 22 novembre 2026 organisé par les éditions de la contre-allée."
-    },
-    {
-      "title": "La bibliothèque idéale de Guillaume Contré",
-      "date": "ven. 20 novembre 2026 · 12 h 30",
-      "place": "Médiathèque Jean Lévy",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/bml/events/23310387_la-bibliotheque-ideale-de-guillaume-contre",
-      "source": "Lille-Centre",
-      "age": "Âge indiqué : 18–99 ans",
-      "description": "Dans le cadre du festival de traduction \"D'un pays l'autre\" se déroulant du mercredi 18 au dimanche 22 novembre 2026 organisé par les éditions de la contre-allée."
-    },
-    {
       "title": "Dernières folies. Vieillesse et santé mentale (19e-20e siècle)",
       "date": "ven. 20 novembre 2026 · 17 h 30",
       "place": "Musée de l'Hospice Comtesse",
@@ -528,6 +462,17 @@
       "source": "Vieux-Lille",
       "age": "Âge conseillé à vérifier",
       "description": "Une conférence menée dans le cadre du festival Citéphilo sur le thème « Urgences »"
+    },
+    {
+      "title": "10 ans ! Le Bal des 10 ans | Cérémonie & concert dansant  - Quartet Areski",
+      "date": "ven. 20 novembre 2026 · 18 h 00",
+      "place": "Institut du monde arabe-Tourcoing",
+      "town": "Tourcoing",
+      "kind": "culture",
+      "url": "https://openagenda.com/institut-du-monde-arabe-tourcoing/events/49579491_le-bal-des-10-ans-ceremonie-and-concert-dansant",
+      "source": "Institut du monde arabe-Tourcoing",
+      "age": "Âge conseillé à vérifier",
+      "description": "L’Institut du monde arabe-Tourcoing vous accueille pour célébrer ensemble 10 ans de partage et de culture."
     },
     {
       "title": "Récital de piano de Ryutaro Suzuki",
@@ -563,6 +508,39 @@
       "description": "Atelier Théâtre Ouvert"
     },
     {
+      "title": "Les Monologues de Gaza | Carte blanche au Théâtre du Nord",
+      "date": "sam. 21 novembre 2026 · 15 h 00",
+      "place": "Institut du monde arabe-Tourcoing",
+      "town": "Tourcoing",
+      "kind": "culture",
+      "url": "https://openagenda.com/institut-du-monde-arabe-tourcoing/events/66392034_les-monologues-de-gaza-or-carte-blanche-au-theatre-du-nord",
+      "source": "Institut du monde arabe-Tourcoing",
+      "age": "Âge conseillé à vérifier",
+      "description": "Une lecture polyphonique des voix de la jeunesse gazaouie"
+    },
+    {
+      "title": "Dans la chambre de mes écritures | Carte blanche à Samira El Ayachi",
+      "date": "sam. 21 novembre 2026 · 17 h 00",
+      "place": "Institut du monde arabe-Tourcoing",
+      "town": "Tourcoing",
+      "kind": "culture",
+      "url": "https://openagenda.com/institut-du-monde-arabe-tourcoing/events/25840317_dans-la-chambre-de-mes-ecritures-or-carte-blanche-a-samira-el-ayachi",
+      "source": "Institut du monde arabe-Tourcoing",
+      "age": "Âge conseillé à vérifier",
+      "description": "Pour cette carte blanche exceptionnelle, Samira El Ayachi ouvre son atelier et livre les coulisses de plus de vingt ans de création."
+    },
+    {
+      "title": "10 ans ! Fanfaraï Big Band + Karaoké de bled + Ben Bella Jazz",
+      "date": "sam. 21 novembre 2026 · 19 h 00",
+      "place": "LE GRAND MIX",
+      "town": "Tourcoing",
+      "kind": "culture",
+      "url": "https://openagenda.com/institut-du-monde-arabe-tourcoing/events/77622491_fanfarai-big-band-karaoke-de-bled-ben-bella-jazz",
+      "source": "Institut du monde arabe-Tourcoing",
+      "age": "Âge conseillé à vérifier",
+      "description": "Une soirée festive aux couleurs du monde pour fêter les 10 ans de l’Institut du monde arabe-Tourcoing !"
+    },
+    {
       "title": "Voix de Traverse",
       "date": "sam. 21 novembre 2026 · 19 h 30",
       "place": "maison Folie Wazemmes",
@@ -572,6 +550,28 @@
       "source": "Vieux-Lille",
       "age": "Âge conseillé à vérifier",
       "description": "De l'image à l'écrit, de l'écrit à la voix"
+    },
+    {
+      "title": "Christine Zayed, la Palestine au coeur | Carte blanche à Attacafa",
+      "date": "dim. 22 novembre 2026 · 15 h 00",
+      "place": "Institut du monde arabe-Tourcoing",
+      "town": "Tourcoing",
+      "kind": "culture",
+      "url": "https://openagenda.com/institut-du-monde-arabe-tourcoing/events/82293759_christine-zayed-la-palestine-au-coeur-or-carte-blanche-a-attacafa",
+      "source": "Institut du monde arabe-Tourcoing",
+      "age": "Âge conseillé à vérifier",
+      "description": "Le projet musical de Christine Zayed est une exploration profondément personnelle, enracinée en Palestine, transformée en un langage universel de connexion."
+    },
+    {
+      "title": "Fakir | Carte blanche au Tourcoing Jazz",
+      "date": "dim. 22 novembre 2026 · 17 h 00",
+      "place": "Institut du monde arabe-Tourcoing",
+      "town": "Tourcoing",
+      "kind": "culture",
+      "url": "https://openagenda.com/institut-du-monde-arabe-tourcoing/events/24429578_fakir-or-carte-blanche-au-tourcoing-jazz",
+      "source": "Institut du monde arabe-Tourcoing",
+      "age": "Âge conseillé à vérifier",
+      "description": "Fakir réunit les musiciens Marwan Fakir (violon), Louis Desseigne (guitares et saz) et Pierre-Antoine Despatures (contrebasse)."
     },
     {
       "title": "Kilikili: Chouette, une histoire !",
@@ -629,6 +629,39 @@
       "description": "Une aventure musicale avec les cornistes des classes de Lille - Bienvenue chez Mozart"
     },
     {
+      "title": "Dabkeh palestienienne | Mohammed Alaloul [REPORT]",
+      "date": "sam. 5 décembre 2026 · 15 h 30",
+      "place": "Institut du monde arabe-Tourcoing",
+      "town": "Tourcoing",
+      "kind": "culture",
+      "url": "https://openagenda.com/institut-du-monde-arabe-tourcoing/events/65409492_dabkeh-palestienienne-or-mohammed-alaloul",
+      "source": "Institut du monde arabe-Tourcoing",
+      "age": "Âge indiqué : 12–99 ans",
+      "description": "La dabkeh est une danse populaire traditionnelle palestinienne qui se pratique en groupe lors des moments festifs et des célébrations."
+    },
+    {
+      "title": "Ateliers calligraphie arabe | Ahmad Dari",
+      "date": "dim. 6 décembre 2026 · 13 h 15",
+      "place": "Institut du monde arabe-Tourcoing",
+      "town": "Tourcoing",
+      "kind": "culture",
+      "url": "https://openagenda.com/institut-du-monde-arabe-tourcoing/events/25567405_ateliers-calligraphie-arabe-or-ahmad-dari",
+      "source": "Institut du monde arabe-Tourcoing",
+      "age": "Âge indiqué : 12–99 ans",
+      "description": "À travers cet atelier, le maître calligraphe Ahmad Dari, originaire de Jérusalem, vous initiera aux secrets du calame et à la subtilité des liés et déliés de la calligraphie arabe."
+    },
+    {
+      "title": "Rencontre littéraire | Sophie Fontanel - Shéhérazade et la 602e nuit",
+      "date": "sam. 12 décembre 2026 · 15 h 00",
+      "place": "Théâtre du Nord",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/institut-du-monde-arabe-tourcoing/events/20406388_rencontre-litteraire-or-sophie-fontanel-sheherazade-et-la-602e-nuit",
+      "source": "Institut du monde arabe-Tourcoing",
+      "age": "Âge conseillé à vérifier",
+      "description": "Sophie Fontanel est journaliste. Elle a été rédactrice en chef adjointe de Cosmopolitan, a animé Nulle part ailleurs sur Canal+, puis a été grand reporter à Elle, avant d’entrer à L’Obs."
+    },
+    {
       "title": "Concert des classes de Saxophones des Conservatoires de Lille et Lens",
       "date": "mer. 16 décembre 2026 · 19 h 00",
       "place": "Auditorium du Conservatoire de Lille",
@@ -651,6 +684,28 @@
       "description": "Les jam sessions du Conservatoire sont de retour à la malterie !"
     },
     {
+      "title": "La langue arabe en Europe | Tarek Abouelgamal",
+      "date": "sam. 19 décembre 2026 · 15 h 00",
+      "place": "Institut du monde arabe-Tourcoing",
+      "town": "Tourcoing",
+      "kind": "culture",
+      "url": "https://openagenda.com/institut-du-monde-arabe-tourcoing/events/74626928_la-langue-arabe-en-europe-or-tarek-abouelgamal",
+      "source": "Institut du monde arabe-Tourcoing",
+      "age": "Âge conseillé à vérifier",
+      "description": "À l’occasion de la journée de la langue arabe, célébrée chaque année à l’initiative de l’UNESCO, l’IMA-Tourcoing invite un grand spécialiste, Tarek Abouelgamal."
+    },
+    {
+      "title": "Cours d'initiation à la langue arabe | Tarek Abouelgamal",
+      "date": "sam. 19 décembre 2026 · 16 h 30",
+      "place": "Institut du monde arabe-Tourcoing",
+      "town": "Tourcoing",
+      "kind": "baby",
+      "url": "https://openagenda.com/institut-du-monde-arabe-tourcoing/events/5654038_cours-dinitiation-a-la-langue-arabe-or-tarek-abouelgamal",
+      "source": "Institut du monde arabe-Tourcoing",
+      "age": "Âge indiqué : 0–99 ans",
+      "description": "Lors de ce cours d’intitiation, Tarek Abouelgamal propose de vous donner quelques bases de conversation et les principes généraux qui régissent la langue arabe."
+    },
+    {
       "title": "Concert de Noël",
       "date": "sam. 19 décembre 2026 · 20 h 00",
       "place": "Auditorium du Nouveau Siècle",
@@ -671,6 +726,17 @@
       "source": "Vieux-Lille",
       "age": "Âge indiqué : 16–99 ans",
       "description": "Stage Adultes - session d'automne"
+    },
+    {
+      "title": "Brunch | Street food tunisienne",
+      "date": "dim. 17 janvier 2027 · 13 h 00",
+      "place": "Institut du monde arabe-Tourcoing",
+      "town": "Tourcoing",
+      "kind": "culture",
+      "url": "https://openagenda.com/institut-du-monde-arabe-tourcoing/events/69553608_brunch-or-street-food-tunisienne",
+      "source": "Institut du monde arabe-Tourcoing",
+      "age": "Âge conseillé à vérifier",
+      "description": "La street food tunisienne, une mémoire sociale et culinaire (Ed. Bande-organisée, 2026) est un livre de recettes consacré à ces cuisines populaires."
     },
     {
       "title": "Jam Session",
