@@ -1,215 +1,6 @@
 {
-  "updatedAt": "2026-10-31T05:55:53.358907+00:00",
+  "updatedAt": "2026-10-31T17:49:20.870439+00:00",
   "events": [
-    {
-      "title": "Carte blanche à Norahliv",
-      "date": "sam. 31 octobre 2026 · 10 h 00",
-      "place": "Médiathèque Jean-Lévy - Lille",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/bml/events/73144213_carte-blanche-a-norahliv",
-      "source": "Le réseau des bibliothèques et médiathèques de la MEL",
-      "age": "Âge conseillé à vérifier",
-      "description": "Venez découvrir l'univers graphique horrifique de Norahliv !"
-    },
-    {
-      "title": "Ciné-club à la médiathèque",
-      "date": "sam. 31 octobre 2026 · 10 h 00",
-      "place": "Médiathèque Till L'Espiègle",
-      "town": "Villeneuve-d'Ascq",
-      "kind": "culture",
-      "url": "https://openagenda.com/mediatheque-de-villeneuve-dascq/events/68377984_cine-club-a-la-mediatheque-8352711",
-      "source": "Le réseau des bibliothèques et médiathèques de la MEL",
-      "age": "Âge indiqué : 15–99 ans",
-      "description": "Rendez-vous samedi 31 octobre à 10h pour un ciné-club à la médiathèque !"
-    },
-    {
-      "title": "Le cimetière de Roubaix, un musée à ciel ouvert",
-      "date": "sam. 31 octobre 2026 · 10 h 30",
-      "place": "Place Chaptal à Roubaix",
-      "town": "Roubaix",
-      "kind": "culture",
-      "url": "https://openagenda.com/hello-lille-destination/events/33221358_le-cimetiere-de-roubaix-un-musee-a-ciel-ouvert-2319518",
-      "source": "Wattrelos Tourisme",
-      "age": "Âge conseillé à vérifier",
-      "description": "Découvrez le cimetière de Roubaix et ses 316 chapelles funéraires, témoignage unique du passé industriel de la ville et de ses grandes figures."
-    },
-    {
-      "title": "Visite découverte sensorielle",
-      "date": "sam. 31 octobre 2026 · 10 h 30",
-      "place": "Ferme Pédagogique Marcel Dhénin",
-      "town": "Lille",
-      "kind": "baby",
-      "url": "https://openagenda.com/nature-lille/events/37846450_visite-decouverte-sensorielle-6350767",
-      "source": "Ville de Lille",
-      "age": "Âge indiqué : 2–99 ans",
-      "description": "Balade nature"
-    },
-    {
-      "title": "Spécial Kids : Wallace & Gromit - Les Inventuriers",
-      "date": "sam. 31 octobre 2026 · 10 h 30",
-      "place": "L'hybride",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/la-culture-en-continu/events/50607706_special-kids-wallace-and-gromit-les-inventuriers-9784216",
-      "source": "Ville de Lille",
-      "age": "Âge indiqué : 5–99 ans",
-      "description": "Wallace et Gromit, indémodables et toujours aussi drôles, dans un programme de courts métrages déployant tout le talent et l’humour du studio britannique mondialement célèbre."
-    },
-    {
-      "title": "La Boum des Monstres !",
-      "date": "sam. 31 octobre 2026 · 14 h 00",
-      "place": "Le Grand Sud",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/le-grand-sud/events/16575369_la-boum-des-monstres",
-      "source": "Ville de Lille",
-      "age": "Âge indiqué : 6–99 ans",
-      "description": "Halloween approche, Le Grand Sud vous invite, petits & grands, à une boum des monstres !"
-    },
-    {
-      "title": "Journée de l'horreur",
-      "date": "sam. 31 octobre 2026 · 14 h 00",
-      "place": "Médiathèque Lille Wazemmes",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/bml/events/61533374_journee-de-lhorreur",
-      "source": "Le réseau des bibliothèques et médiathèques de la MEL",
-      "age": "Âge conseillé à vérifier",
-      "description": "La machiavélique équipe de la médiathèque vous a préparé tout un programme à vous glacer le sang !"
-    },
-    {
-      "title": "Jeu vidéo à la bibliothèque",
-      "date": "sam. 31 octobre 2026 · 14 h 30",
-      "place": "Médiathèque de Lille-Moulins",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/bml/events/25787584_jeu-video-a-la-bibliotheque-9274554",
-      "source": "Le réseau des bibliothèques et médiathèques de la MEL",
-      "age": "Âge indiqué : 7–99 ans",
-      "description": "Un espace dédié vous attend pour jouer à plusieurs et prendre part à des tournois."
-    },
-    {
-      "title": "LARTCONSERVE 2026",
-      "date": "sam. 31 octobre 2026 · 14 h 30",
-      "place": "maison Folie Wazemmes",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/maisons-folie/events/45900241_lartconserve-2026",
-      "source": "Ville de Lille",
-      "age": "Âge conseillé à vérifier",
-      "description": "lartconserve revient les 31 octobre et 1er novembre 2026 à la maison Folie Wazemmes. Expo vente, Performances, Installations, Ateliers découverte pochoirs-graffiti !"
-    },
-    {
-      "title": "Horreur à la médiathèque !",
-      "date": "sam. 31 octobre 2026 · 14 h 30",
-      "place": "Médiathèque Lille Wazemmes",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/bml/events/5120033_horreur-a-la-mediatheque",
-      "source": "Le réseau des bibliothèques et médiathèques de la MEL",
-      "age": "Âge indiqué : 5–99 ans",
-      "description": "La machiavélique équipe de la médiathèque vous a préparé tout un programme à vous glacer le sang !"
-    },
-    {
-      "title": "Les petits curieux : monstrueux palais",
-      "date": "sam. 31 octobre 2026 · 14 h 30",
-      "place": "Palais Rihour",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/ville-dart-et-dhistoire-de-lille/events/39574740_les-petits-curieux-monstrueux-palais",
-      "source": "Ville de Lille",
-      "age": "Âge indiqué : 7–99 ans",
-      "description": "Bienvenue au palais Rihour pour une visite et un atelier monstrueusement chouettes en famille !"
-    },
-    {
-      "title": "Citéphilo - Service public ou barbarie par Arnaud Bontemps",
-      "date": "sam. 31 octobre 2026 · 14 h 30",
-      "place": "Théâtre de la Verrière",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/ville-de-lille/events/94011728_citephilo-service-public-ou-barbarie-par-arnaud-bontemps",
-      "source": "Ville de Lille",
-      "age": "Âge conseillé à vérifier",
-      "description": "Service public ou barbarie par Arnaud Bontemps"
-    },
-    {
-      "title": "Projection mystère",
-      "date": "sam. 31 octobre 2026 · 16 h 00",
-      "place": "Médiathèque Vieux-Lille",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/bml/events/13436130_projection-mystere-4801040",
-      "source": "Ville de Lille",
-      "age": "Âge indiqué : 18–99 ans",
-      "description": "Fin octobre est le moment idéal pour rédécouvrir des classiques de l'horreur."
-    },
-    {
-      "title": "Kilikili: Lectures d'Halloween",
-      "date": "sam. 31 octobre 2026 · 16 h 30",
-      "place": "Médiathèque de Lille-Moulins",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/bml/events/80671028_kilikili-lectures-dhalloween",
-      "source": "Ville de Lille",
-      "age": "Âge indiqué : 4–7 ans",
-      "description": "Viens écouter des histoires de fantômes, de monstres ou d'autres choses qui font peur, ahhhhhh !"
-    },
-    {
-      "title": "La caravane de l'horreur ~ Cie Bakélite",
-      "date": "sam. 31 octobre 2026 · 16 h 30",
-      "place": "Le Grand Bleu",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/bois-blancs/events/21542230_la-caravane-de-lhorreur-cie-bakelite",
-      "source": "Ville de Lille",
-      "age": "Âge indiqué : 10–99 ans",
-      "description": "Dans « campeur », il y a « peur »."
-    },
-    {
-      "title": "2 salles 2 ambiances : Drag Attack Wrestling OU Cumbia Del Infinito",
-      "date": "sam. 31 octobre 2026 · 17 h 00",
-      "place": "Gare Saint Sauveur",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/gare-saint-sauveur/events/93109830_drag-attack-wrestling-cumbia-del-infinito",
-      "source": "Ville de Lille",
-      "age": "Âge conseillé à vérifier",
-      "description": "Une soirée double facette à la Gare Saint Sauveur. Le Drag Attack Wrestling d'une part / La soirée Cumbia del Infinito endiablée de l'autre !"
-    },
-    {
-      "title": "Citéphilo - Manuel de management décomplexé. \nL’art capitaliste de discipliner le travail.",
-      "date": "sam. 31 octobre 2026 · 17 h 00",
-      "place": "Théâtre de la Verrière",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/ville-de-lille/events/63252761_citephilo-manuel-de-management-decomplexe-lart-capitaliste-de-discipliner-le-travail",
-      "source": "Ville de Lille",
-      "age": "Âge conseillé à vérifier",
-      "description": "Manuel de management décomplexé. L’art capitaliste de discipliner le travail par Anthony Galluzzo"
-    },
-    {
-      "title": "Letsgochampslille",
-      "date": "sam. 31 octobre 2026 · 18 h 00",
-      "place": "EuraTechnologies",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/bois-blancs/events/27560134_letsgochampslille",
-      "source": "Ville de Lille",
-      "age": "Âge conseillé à vérifier",
-      "description": "Gala de boxe -  Letsgochampslille 10"
-    },
-    {
-      "title": "Les bars de Wazemmes font leurs planches",
-      "date": "sam. 31 octobre 2026 · 18 h 00",
-      "place": "Halles de Wazemmes",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/wazemmes/events/26231908_les-bars-de-wazemmes-font-leurs-planches",
-      "source": "Ville de Lille",
-      "age": "Âge conseillé à vérifier",
-      "description": "Concours et dégustations !"
-    },
     {
       "title": "La nuit des ombres (EVENEMENT ANNULE)",
       "date": "sam. 31 octobre 2026 · 19 h 00",
@@ -255,6 +46,17 @@
       "description": "La solidarité n'est pas un crime par Sophie Djigo"
     },
     {
+      "title": "Open CP spécial kids",
+      "date": "dim. 1 novembre 2026 · 11 h 00",
+      "place": "La Condition Publique - Roubaix",
+      "town": "Roubaix",
+      "kind": "culture",
+      "url": "https://openagenda.com/la-condition-publique/events/72306731_open-cp-special-kids",
+      "source": "Office de Tourisme de Roubaix",
+      "age": "Âge conseillé à vérifier",
+      "description": "Tous les premiers dimanches du mois, la Condition Publique ouvre ses portes à 11h. Au programme : brunch, expositions, ateliers, jeux de société et plein d'autres surprises à découvrir en famille !"
+    },
+    {
       "title": "Dia de los Muertos à la Micro-Folie",
       "date": "dim. 1 novembre 2026 · 14 h 30",
       "place": "Maison Folie Moulins",
@@ -277,6 +79,39 @@
       "description": "Un parcours ludique et féerique pour découvrir le jardin autrement, entre énigmes, créatures magiques et goûter convivial."
     },
     {
+      "title": "Les Contes à Paillettes",
+      "date": "dim. 1 novembre 2026 · 16 h 30",
+      "place": "La Condition Publique - Roubaix",
+      "town": "Roubaix",
+      "kind": "culture",
+      "url": "https://openagenda.com/la-condition-publique/events/62269262_les-contes-a-paillettes-3221957",
+      "source": "Le réseau des bibliothèques et médiathèques de la MEL",
+      "age": "Âge conseillé à vérifier",
+      "description": "Lectures drag pour enfants et adultes"
+    },
+    {
+      "title": "Exposition \"Le Château des Étoiles\"",
+      "date": "mar. 3 novembre 2026 · 14 h 00",
+      "place": "Médiathèque Vieux-Lille",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/bml/events/42835440_exposition-le-chateau-des-etoiles-7098968",
+      "source": "Le réseau des bibliothèques et médiathèques de la MEL",
+      "age": "Âge conseillé à vérifier",
+      "description": "Et si la conquête des étoiles avait un siècle d'avance ? 1869. Au nom de Sa Majesté, la conquête de l'espace débute, cent ans avant le premier pas de l'homme sur la Lune !"
+    },
+    {
+      "title": "\"Voix du corps. Philosopher autrement \"",
+      "date": "mar. 3 novembre 2026 · 15 h 30",
+      "place": "Médiathèque Jean-Lévy - Lille",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/bml/events/54271691_voix-du-corps-philosopher-autrement",
+      "source": "Le réseau des bibliothèques et médiathèques de la MEL",
+      "age": "Âge conseillé à vérifier",
+      "description": "Comment faire naître et engager une parole à soi quand on est philosophe et femme ?"
+    },
+    {
       "title": "Instants gravés !",
       "date": "mar. 3 novembre 2026 · 18 h 15",
       "place": "Musée de l'Hospice Comtesse",
@@ -297,6 +132,17 @@
       "source": "Vieux-Lille",
       "age": "Âge conseillé à vérifier",
       "description": "Par les élèves de chant lyrique et du Département Théâtre"
+    },
+    {
+      "title": "L'art, un bien en commun",
+      "date": "mer. 4 novembre 2026 · 10 h 00",
+      "place": "médiathèque Lille-Moulins",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/bml/events/46531849_art-et-sante-mentale",
+      "source": "Le réseau des bibliothèques et médiathèques de la MEL",
+      "age": "Âge conseillé à vérifier",
+      "description": "Exposition participative portée par l'assocation Les Partageurs."
     },
     {
       "title": "Tous au Tire-Laine !",
