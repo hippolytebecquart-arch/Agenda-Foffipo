@@ -1,83 +1,6 @@
 {
-  "updatedAt": "2026-10-30T17:56:22.873221+00:00",
+  "updatedAt": "2026-10-31T05:55:53.358907+00:00",
   "events": [
-    {
-      "title": "Rencontre et dédicace avec Émilie Tronche",
-      "date": "ven. 30 octobre 2026 · 19 h 00",
-      "place": "maison Folie Wazemmes",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/maisons-folie/events/11718009_rencontre-et-dedicace-avec-emilie-tronche",
-      "source": "Ville de Lille",
-      "age": "Âge conseillé à vérifier",
-      "description": "Le Bateau Livre organise une méga super rencontre avec **Émilie Tronche** pour la parution de L'été de Bérénice, la suite tant attendue du Journal de Samuel !"
-    },
-    {
-      "title": "Citéphilo - Pierre Rivière. Courant dans le \nmonde comme un rasoir ouvert de Frédéric Laforgue",
-      "date": "ven. 30 octobre 2026 · 19 h 00",
-      "place": "Théâtre de la Verrière",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/ville-de-lille/events/90697739_citephilo-pierre-riviere-courant-dans-le-monde-comme-un-rasoir-ouvert-de-frederic-laforgue",
-      "source": "Ville de Lille",
-      "age": "Âge conseillé à vérifier",
-      "description": "Solo mis en scène par Frédéric Laforgue, d'après le dossier réuni par Michel Foucault"
-    },
-    {
-      "title": "\"Une bonne tête\"",
-      "date": "ven. 30 octobre 2026 · 19 h 30",
-      "place": "Centre Socio-Éducatif",
-      "town": "Wattrelos",
-      "kind": "culture",
-      "url": "https://openagenda.com/ville-de-wattrelos/events/53078812_une-bonne-tete",
-      "source": "Métropole Européenne de Lille",
-      "age": "Âge conseillé à vérifier",
-      "description": "dans le cadre de l'Automne de l'Humour"
-    },
-    {
-      "title": "Tomora",
-      "date": "ven. 30 octobre 2026 · 20 h 00",
-      "place": "L'Aéronef",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/la-culture-en-continu/events/49889907_tomora",
-      "source": "Ville de Lille",
-      "age": "Âge conseillé à vérifier",
-      "description": "La chanteuse Aurora et Tom Rowlands (The Chemical Brothers) ont créé TOMORA"
-    },
-    {
-      "title": "The Jeff Panacloc Compagny",
-      "date": "ven. 30 octobre 2026 · 20 h 00",
-      "place": "Zénith de Lille",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/la-culture-en-continu/events/48479196_the-jeff-panacloc-compagny",
-      "source": "Ville de Lille",
-      "age": "Âge conseillé à vérifier",
-      "description": "Préparez-vous à franchir les portes du bureau secret de Jeff Panacloc et à plonger dans un univers où l’humour flirte avec l’absurde."
-    },
-    {
-      "title": "Citéphilo - L’impossible famille Rivière. \nRetour sur un triple meurtre en 1835 par Jeanne-Favret Saada",
-      "date": "ven. 30 octobre 2026 · 20 h 00",
-      "place": "Théâtre de la Verrière",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/ville-de-lille/events/88693833_citephilo-limpossible-famille-riviere-retour-sur-un-triple-meurtre-en-1835-par-jeanne-favret-saada",
-      "source": "Ville de Lille",
-      "age": "Âge conseillé à vérifier",
-      "description": "Fait suite au spectacle ce même jour à 19h : \"Pierre Rivière. Courant dans le monde comme un rasoir ouvert\""
-    },
-    {
-      "title": "Hoodoo Tones + The Liquidators + Da Ez Shake",
-      "date": "ven. 30 octobre 2026 · 21 h 00",
-      "place": "Gare Saint Sauveur",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/gare-saint-sauveur/events/92076483_hodoo-tones-x-the-liquidators-x-da-ez-shake",
-      "source": "Ville de Lille",
-      "age": "Âge conseillé à vérifier",
-      "description": "1 soirée, 3 groupes pour marquer les esprits"
-    },
     {
       "title": "Carte blanche à Norahliv",
       "date": "sam. 31 octobre 2026 · 10 h 00",
@@ -107,7 +30,7 @@
       "town": "Roubaix",
       "kind": "culture",
       "url": "https://openagenda.com/hello-lille-destination/events/33221358_le-cimetiere-de-roubaix-un-musee-a-ciel-ouvert-2319518",
-      "source": "Office de Tourisme de la Métropole Européenne de Lille",
+      "source": "Wattrelos Tourisme",
       "age": "Âge conseillé à vérifier",
       "description": "Découvrez le cimetière de Roubaix et ses 316 chapelles funéraires, témoignage unique du passé industriel de la ville et de ses grandes figures."
     },
@@ -118,7 +41,7 @@
       "town": "Lille",
       "kind": "baby",
       "url": "https://openagenda.com/nature-lille/events/37846450_visite-decouverte-sensorielle-6350767",
-      "source": "Nature à Lille",
+      "source": "Ville de Lille",
       "age": "Âge indiqué : 2–99 ans",
       "description": "Balade nature"
     },
@@ -217,7 +140,7 @@
       "town": "Lille",
       "kind": "culture",
       "url": "https://openagenda.com/bml/events/13436130_projection-mystere-4801040",
-      "source": "Bibliothèque municipale de Lille",
+      "source": "Ville de Lille",
       "age": "Âge indiqué : 18–99 ans",
       "description": "Fin octobre est le moment idéal pour rédécouvrir des classiques de l'horreur."
     },
@@ -228,7 +151,7 @@
       "town": "Lille",
       "kind": "culture",
       "url": "https://openagenda.com/bml/events/80671028_kilikili-lectures-dhalloween",
-      "source": "Bibliothèque municipale de Lille",
+      "source": "Ville de Lille",
       "age": "Âge indiqué : 4–7 ans",
       "description": "Viens écouter des histoires de fantômes, de monstres ou d'autres choses qui font peur, ahhhhhh !"
     },
@@ -305,7 +228,7 @@
       "town": "Lille",
       "kind": "culture",
       "url": "https://openagenda.com/parc-de-la-citadelle/events/16471390_chouette-nuit-5828899",
-      "source": "Nature à Lille",
+      "source": "Ville de Lille",
       "age": "Âge conseillé à vérifier",
       "description": "Balade naturaliste au Parc de la Citadelle"
     },
@@ -332,17 +255,6 @@
       "description": "La solidarité n'est pas un crime par Sophie Djigo"
     },
     {
-      "title": "Sorcières et compagnie",
-      "date": "dim. 1 novembre 2026 · 14 h 00",
-      "place": "Ferme Pédagogique Marcel Dhénin",
-      "town": "Lille",
-      "kind": "baby",
-      "url": "https://openagenda.com/nature-lille/events/86159063_sorcieres-et-compagnie",
-      "source": "Nature à Lille",
-      "age": "Âge indiqué : 1–99 ans",
-      "description": "Fêtons l'automne"
-    },
-    {
       "title": "Dia de los Muertos à la Micro-Folie",
       "date": "dim. 1 novembre 2026 · 14 h 30",
       "place": "Maison Folie Moulins",
@@ -363,28 +275,6 @@
       "source": "Vieux-Lille",
       "age": "Âge indiqué : 5–99 ans",
       "description": "Un parcours ludique et féerique pour découvrir le jardin autrement, entre énigmes, créatures magiques et goûter convivial."
-    },
-    {
-      "title": "Exposition \"Le Château des Étoiles\"",
-      "date": "mar. 3 novembre 2026 · 14 h 00",
-      "place": "Médiathèque Vieux-Lille",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/bml/events/42835440_exposition-le-chateau-des-etoiles-7098968",
-      "source": "Bibliothèque municipale de Lille",
-      "age": "Âge conseillé à vérifier",
-      "description": "Et si la conquête des étoiles avait un siècle d'avance ? 1869. Au nom de Sa Majesté, la conquête de l'espace débute, cent ans avant le premier pas de l'homme sur la Lune !"
-    },
-    {
-      "title": "\"Voix du corps. Philosopher autrement \"",
-      "date": "mar. 3 novembre 2026 · 15 h 30",
-      "place": "Médiathèque Jean-Lévy - Lille",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/bml/events/54271691_voix-du-corps-philosopher-autrement",
-      "source": "Bibliothèque municipale de Lille",
-      "age": "Âge conseillé à vérifier",
-      "description": "Comment faire naître et engager une parole à soi quand on est philosophe et femme ?"
     },
     {
       "title": "Instants gravés !",
@@ -409,94 +299,6 @@
       "description": "Par les élèves de chant lyrique et du Département Théâtre"
     },
     {
-      "title": "L'art, un bien en commun",
-      "date": "mer. 4 novembre 2026 · 10 h 00",
-      "place": "médiathèque Lille-Moulins",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/bml/events/46531849_art-et-sante-mentale",
-      "source": "Bibliothèque municipale de Lille",
-      "age": "Âge conseillé à vérifier",
-      "description": "Exposition participative portée par l'assocation Les Partageurs."
-    },
-    {
-      "title": "Petite poule rousse",
-      "date": "mer. 4 novembre 2026 · 10 h 30",
-      "place": "Ferme Pédagogique Marcel Dhénin",
-      "town": "Lille",
-      "kind": "baby",
-      "url": "https://openagenda.com/nature-lille/events/563347_petite-poule-rousse",
-      "source": "Nature à Lille",
-      "age": "Âge indiqué : 3–99 ans",
-      "description": "Les animaux de la ferme"
-    },
-    {
-      "title": "Éveil musical à la bibliothèque",
-      "date": "mer. 4 novembre 2026 · 10 h 30",
-      "place": "Médiathèque Vieux-Lille",
-      "town": "Lille",
-      "kind": "baby",
-      "url": "https://openagenda.com/bml/events/44296993_eveil-musical-a-la-bibliotheque-6832783",
-      "source": "Bibliothèque municipale de Lille",
-      "age": "Âge indiqué : 0–3 ans",
-      "description": "Jeux musicaux et jeux de mots (pour les 0-3 ans) !"
-    },
-    {
-      "title": "\"Philosophie de la vieillesse\"",
-      "date": "mer. 4 novembre 2026 · 14 h 15",
-      "place": "Médiathèque Jean-Lévy - Lille",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/bml/events/6135771_philosophie-de-la-vieillesse",
-      "source": "Bibliothèque municipale de Lille",
-      "age": "Âge conseillé à vérifier",
-      "description": "À partir d’une analyse d’écrits de la tradition philosophique et d’une approche nourrie de diverses disciplines, B. Quentin explore dans leur complexité, la vieillesse et l’expérience de vieillir."
-    },
-    {
-      "title": "\"Voir le monde autrement La cécité expliquée aux voyants ou à ceux qui se croient tels\"",
-      "date": "mer. 4 novembre 2026 · 16 h 30",
-      "place": "Médiathèque Jean-Lévy - Lille",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/bml/events/91080664_voir-le-monde-autrement-la-cecite-expliquee-aux-voyants-ou-a-ceux-qui-se-croient-tels",
-      "source": "Bibliothèque municipale de Lille",
-      "age": "Âge conseillé à vérifier",
-      "description": "Pour la philosophie classique, les yeux sont le « symbole de l’âme »,de sorte que la vue semble être la condition indépassable du penser."
-    },
-    {
-      "title": "\"À quoi sert l’histoire de la philosophie ?\"",
-      "date": "jeu. 5 novembre 2026 · 14 h 30",
-      "place": "Médiathèque Jean-Lévy - Lille",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/bml/events/81338812_a-quoi-sert-lhistoire-de-la-philosophie",
-      "source": "Bibliothèque municipale de Lille",
-      "age": "Âge conseillé à vérifier",
-      "description": "L’examen des doctrines du passé occupe une place importante dans l’enseignement de la philosophie en France. Mais à quoi sert l’histoire de la philosophie ?"
-    },
-    {
-      "title": "\"Le vrai du beau. Regards sur la peinture\"",
-      "date": "jeu. 5 novembre 2026 · 16 h 45",
-      "place": "Médiathèque Jean-Lévy - Lille",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/bml/events/52729324_le-vrai-du-beau-regards-sur-la-peinture",
-      "source": "Bibliothèque municipale de Lille",
-      "age": "Âge conseillé à vérifier",
-      "description": "On dit de la philosophie qu’elle nous apprend à vivre. La peinture, elle, en tant qu’art visuel, nous apprendrait à voir. Ou plutôt à regarder."
-    },
-    {
-      "title": "Rencontre avec Réginald Gaillard, poète, éditeur.",
-      "date": "jeu. 5 novembre 2026 · 18 h 15",
-      "place": "Médiathèque de Saint-Maurice Pellevoisin",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/bml/events/58125052_rencontre-avec-reginald-gaillard-poete-editeur",
-      "source": "Bibliothèque municipale de Lille",
-      "age": "Âge indiqué : 18–99 ans",
-      "description": "Comment la poésie transforme notre regard sur le monde."
-    },
-    {
       "title": "Tous au Tire-Laine !",
       "date": "jeu. 5 novembre 2026 · 19 h 00",
       "place": "Le Tire-Laine",
@@ -506,28 +308,6 @@
       "source": "Lille-Moulins",
       "age": "Âge indiqué : 0–99 ans",
       "description": "Le bal de la compagnie"
-    },
-    {
-      "title": "\"Rakky Nouha. La musique et les miettes\"",
-      "date": "jeu. 5 novembre 2026 · 19 h 00",
-      "place": "Médiathèque Jean-Lévy - Lille",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/bml/events/41720632_rakky-nouha-la-musique-et-les-miettes",
-      "source": "Bibliothèque municipale de Lille",
-      "age": "Âge conseillé à vérifier",
-      "description": "Musicienne, compositrice, cheffe d’orchestre de talent, Rakki Nouha se déroba sans cesse aux étiquettes avant de disparaître soudainement en 2025."
-    },
-    {
-      "title": "Eveil des sens",
-      "date": "ven. 6 novembre 2026 · 18 h 00",
-      "place": "Médiathèque Lille Wazemmes",
-      "town": "Lille",
-      "kind": "baby",
-      "url": "https://openagenda.com/bml/events/2968294_eveil-des-sens-4226",
-      "source": "Bibliothèque municipale de Lille",
-      "age": "Âge indiqué : 18–99 ans",
-      "description": "Lecture en lien avec l'exposition Le Boudoir d'Edas"
     },
     {
       "title": "La Grande Braderie de la Médiathèque de Roubaix",
@@ -563,17 +343,6 @@
       "description": "Laissez-vous conter l’histoire singulière de ce musée chargé d’histoire(s)"
     },
     {
-      "title": "Felice Beato, pionnier de la photographie au Japon",
-      "date": "sam. 7 novembre 2026 · 15 h 00",
-      "place": "Médiathèque Jean Lévy",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/bml/events/89525764_felice-beato-pionnier-de-la-photographie-au-japon",
-      "source": "Bibliothèque municipale de Lille",
-      "age": "Âge indiqué : 18–99 ans",
-      "description": "Une conférence autour de la photographie"
-    },
-    {
       "title": "Chambre à Part",
       "date": "dim. 8 novembre 2026 · 11 h 00",
       "place": "Auditorium du Conservatoire de Lille",
@@ -583,6 +352,17 @@
       "source": "Vieux-Lille",
       "age": "Âge conseillé à vérifier",
       "description": "Correspondances"
+    },
+    {
+      "title": "Cuisine libanaise avec Mieline | Au restaurant Mieline",
+      "date": "dim. 8 novembre 2026 · 14 h 00",
+      "place": "Restaurant Mieline",
+      "town": "Roubaix",
+      "kind": "culture",
+      "url": "https://openagenda.com/institut-du-monde-arabe-tourcoing/events/69519704_cuisine-libanaise-avec-mieline-or-au-restaurant-mieline",
+      "source": "Institut du monde arabe-Tourcoing",
+      "age": "Âge indiqué : 12–99 ans",
+      "description": "Avec la cheffe cuisinière Mieline, apprenez à préparer des plats traditionnels. N'oubliez pas vos contenants pour repartir avec vos préparations."
     },
     {
       "title": "Un dimanche au coeur des histoires",
@@ -607,17 +387,6 @@
       "description": "Kahutia naît dans une famille maorie impatiente d’accueillir le premier héritier. Seulement voilà, Kahutia est une fille. Plongez dans une fable féministe & écologique, mêlant marionnettes et ombres."
     },
     {
-      "title": "Rencontre littéraire avec Pauline Ferrari",
-      "date": "ven. 13 novembre 2026 · 18 h 00",
-      "place": "Médiathèque Saint-Maurice Pellevoisin",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/bml/events/92532427_rencontre-litteraire-avec-pauline-ferrari",
-      "source": "Bibliothèque municipale de Lille",
-      "age": "Âge indiqué : 18–99 ans",
-      "description": "Journaliste indépendante dans le cadre de la lutte contre les violences faites aux femmes."
-    },
-    {
       "title": "Récital de harpe classique",
       "date": "ven. 13 novembre 2026 · 20 h 00",
       "place": "Auditorium du Conservatoire de Lille",
@@ -638,17 +407,6 @@
       "source": "Vieux-Lille",
       "age": "Âge conseillé à vérifier",
       "description": "Du 13 au 15 novembre 2026"
-    },
-    {
-      "title": "3e salon du livre journalisme et médias",
-      "date": "sam. 14 novembre 2026 · 10 h 00",
-      "place": "ESJ Lille",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/bml/events/45076416_3e-salon-du-livre-journalisme-et-medias",
-      "source": "Bibliothèque municipale de Lille",
-      "age": "Âge conseillé à vérifier",
-      "description": "Rendez-vous à l'ESJ Lille !"
     },
     {
       "title": "Conférence par Alexandra Luiceanu",
@@ -684,26 +442,15 @@
       "description": "Une conférence menée par la Société royale historique et archéologique de Courtrai (KGOKK)"
     },
     {
-      "title": "Le pouvoir chez les empereurs romains",
+      "title": "Conférence Citéphilo | Meryem Sebti - Penser le monde avec Avicenne",
       "date": "sam. 14 novembre 2026 · 15 h 00",
-      "place": "Médiathèque Jean-Lévy - Lille",
-      "town": "Lille",
+      "place": "Institut du monde arabe-Tourcoing",
+      "town": "Tourcoing",
       "kind": "culture",
-      "url": "https://openagenda.com/bml/events/58276778_le-pouvoir-chez-les-empereurs-romains",
-      "source": "Bibliothèque municipale de Lille",
-      "age": "Âge indiqué : 18–99 ans",
-      "description": "Conférence suivie d'un échange"
-    },
-    {
-      "title": "Atelier collage - crée ton animal steampunk",
-      "date": "sam. 14 novembre 2026 · 16 h 00",
-      "place": "Médiathèque Vieux-Lille",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/bml/events/70802056_atelier-collage-cree-ton-animal-steampunk",
-      "source": "Bibliothèque municipale de Lille",
-      "age": "Âge indiqué : 11–14 ans",
-      "description": "Venez découvrir l'univers steampunk"
+      "url": "https://openagenda.com/institut-du-monde-arabe-tourcoing/events/42525046_conference-citephilo-or-meryem-sebti-penser-le-monde-avec-avicenne",
+      "source": "Institut du monde arabe-Tourcoing",
+      "age": "Âge conseillé à vérifier",
+      "description": "Destiné à un public large sans présupposer de formation philosophique préalable, cet ouvrage offre une entrée dans l’une des œuvres les plus influentes de l’histoire de la philosophie."
     },
     {
       "title": "Les Drôles de Dames",
@@ -761,15 +508,15 @@
       "description": "Atelier de groupe"
     },
     {
-      "title": "Prise de bec",
-      "date": "dim. 15 novembre 2026 · 14 h 30",
-      "place": "Ferme Pédagogique Marcel Dhénin",
-      "town": "Lille",
+      "title": "Citéphilo | Christian Jambet - L'Ordre de l'être, providence et platonisme dans la philosophie iranienne",
+      "date": "dim. 15 novembre 2026 · 15 h 00",
+      "place": "Institut du monde arabe-Tourcoing",
+      "town": "Tourcoing",
       "kind": "culture",
-      "url": "https://openagenda.com/nature-lille/events/85471115_prise-de-bec",
-      "source": "Nature à Lille",
-      "age": "Âge indiqué : 5–99 ans",
-      "description": "Les oiseaux"
+      "url": "https://openagenda.com/institut-du-monde-arabe-tourcoing/events/33293245_citephilo-or-christian-jambet-lordre-de-letre-providence-et-platonisme-dans-la-philosophie-iranienne",
+      "source": "Institut du monde arabe-Tourcoing",
+      "age": "Âge conseillé à vérifier",
+      "description": "Christian Jambet est directeur d’études émérite à l’École pratique des hautes études. Il a consacré une quinzaine de livres et de nombreux articles à la philosophie et à la poésie en terre d’islam."
     },
     {
       "title": "Conte Musical Baba Yaga",
@@ -783,28 +530,6 @@
       "description": "ou la véritable histoire des poupées russes"
     },
     {
-      "title": "Kilikili, la lecture d’histoires pour les petits",
-      "date": "mer. 18 novembre 2026 · 10 h 30",
-      "place": "Médiathèque Jean Lévy",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/bml/events/34616093_kilikili-la-lecture-dhistoires-pour-les-petits-9424864",
-      "source": "Bibliothèque municipale de Lille",
-      "age": "Âge indiqué : 4–7 ans",
-      "description": "Vous explorez avec votre bibliothécaire des albums, contes et légendes pour les enfants de 4 à 7 ans. Ce temps de lecture prépare vos enfants au plaisir de lire et laisse une place à l’imaginaire !"
-    },
-    {
-      "title": "Mission domestication !",
-      "date": "mer. 18 novembre 2026 · 14 h 30",
-      "place": "Ferme Pédagogique Marcel Dhénin",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/nature-lille/events/32969582_mission-domestication",
-      "source": "Nature à Lille",
-      "age": "Âge indiqué : 7–99 ans",
-      "description": "Les animaux de la ferme"
-    },
-    {
       "title": "Mon bestiaire étoilé !",
       "date": "mer. 18 novembre 2026 · 15 h 00",
       "place": "Musée de l'Hospice Comtesse",
@@ -814,17 +539,6 @@
       "source": "Vieux-Lille",
       "age": "Âge indiqué : 7–12 ans",
       "description": "Un atelier la tête dans les étoiles à destination des enfants"
-    },
-    {
-      "title": "Art et santé mentale : la revue Le Canard aquaphobe en exposition",
-      "date": "mer. 18 novembre 2026 · 16 h 30",
-      "place": "médiathèque Lille-Moulins",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/bml/events/89878248_art-et-sante-mentale-la-revue-le-canard-aquaphobe-en-exposition",
-      "source": "Bibliothèque municipale de Lille",
-      "age": "Âge conseillé à vérifier",
-      "description": "Le Canard Aquaphobe revient en médiathèques !"
     },
     {
       "title": "Récital de piano - Nicolas Bourdoncle",
@@ -849,28 +563,6 @@
       "description": "Les jam sessions du Conservatoire sont de retour à la malterie !"
     },
     {
-      "title": "Journée d'étude du festival \"D'un pays l'autre\"",
-      "date": "jeu. 19 novembre 2026 · 09 h 00",
-      "place": "Médiathèque Jean Lévy",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/bml/events/56386807_journee-detude-du-festival-dun-pays-lautre",
-      "source": "Bibliothèque municipale de Lille",
-      "age": "Âge indiqué : 18–99 ans",
-      "description": "Dans le cadre du festival de traduction \"D'un pays l'autre\" se déroulant du mercredi 18 au dimanche 22 novembre 2026 organisé par les éditions de la contre-allée."
-    },
-    {
-      "title": "La bibliothèque idéale de Guillaume Contré",
-      "date": "ven. 20 novembre 2026 · 12 h 30",
-      "place": "Médiathèque Jean Lévy",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/bml/events/23310387_la-bibliotheque-ideale-de-guillaume-contre",
-      "source": "Bibliothèque municipale de Lille",
-      "age": "Âge indiqué : 18–99 ans",
-      "description": "Dans le cadre du festival de traduction \"D'un pays l'autre\" se déroulant du mercredi 18 au dimanche 22 novembre 2026 organisé par les éditions de la contre-allée."
-    },
-    {
       "title": "Dernières folies. Vieillesse et santé mentale (19e-20e siècle)",
       "date": "ven. 20 novembre 2026 · 17 h 30",
       "place": "Musée de l'Hospice Comtesse",
@@ -880,6 +572,17 @@
       "source": "Vieux-Lille",
       "age": "Âge conseillé à vérifier",
       "description": "Une conférence menée dans le cadre du festival Citéphilo sur le thème « Urgences »"
+    },
+    {
+      "title": "10 ans ! Le Bal des 10 ans | Cérémonie & concert dansant  - Quartet Areski",
+      "date": "ven. 20 novembre 2026 · 18 h 00",
+      "place": "Institut du monde arabe-Tourcoing",
+      "town": "Tourcoing",
+      "kind": "culture",
+      "url": "https://openagenda.com/institut-du-monde-arabe-tourcoing/events/49579491_le-bal-des-10-ans-ceremonie-and-concert-dansant",
+      "source": "Institut du monde arabe-Tourcoing",
+      "age": "Âge conseillé à vérifier",
+      "description": "L’Institut du monde arabe-Tourcoing vous accueille pour célébrer ensemble 10 ans de partage et de culture."
     },
     {
       "title": "Récital de piano de Ryutaro Suzuki",
@@ -915,59 +618,37 @@
       "description": "Atelier Théâtre Ouvert"
     },
     {
-      "title": "Atelier de création de livres",
-      "date": "sam. 21 novembre 2026 · 10 h 00",
-      "place": "Médiathèque de Lille-Sud",
-      "town": "Lille",
+      "title": "Les Monologues de Gaza | Carte blanche au Théâtre du Nord",
+      "date": "sam. 21 novembre 2026 · 15 h 00",
+      "place": "Institut du monde arabe-Tourcoing",
+      "town": "Tourcoing",
       "kind": "culture",
-      "url": "https://openagenda.com/bml/events/32017223_atelier-de-creation-de-livres",
-      "source": "Bibliothèque municipale de Lille",
+      "url": "https://openagenda.com/institut-du-monde-arabe-tourcoing/events/66392034_les-monologues-de-gaza-or-carte-blanche-au-theatre-du-nord",
+      "source": "Institut du monde arabe-Tourcoing",
       "age": "Âge conseillé à vérifier",
-      "description": "Venez participer à la création d'un petit livre dans le cadre d'un atelier parents/enfants encadré par Malika Doray."
+      "description": "Une lecture polyphonique des voix de la jeunesse gazaouie"
     },
     {
-      "title": "Atelier Nuancier",
-      "date": "sam. 21 novembre 2026 · 10 h 30",
-      "place": "Médiathèque de Fives",
-      "town": "Lille",
+      "title": "Dans la chambre de mes écritures | Carte blanche à Samira El Ayachi",
+      "date": "sam. 21 novembre 2026 · 17 h 00",
+      "place": "Institut du monde arabe-Tourcoing",
+      "town": "Tourcoing",
       "kind": "culture",
-      "url": "https://openagenda.com/bml/events/61496931_atelier-nuancier-4372969",
-      "source": "Bibliothèque municipale de Lille",
-      "age": "Âge indiqué : 18–99 ans",
-      "description": "Un atelier de traduction créative avec en point d'orgue la fabrication d'un \"nuancier\" :"
+      "url": "https://openagenda.com/institut-du-monde-arabe-tourcoing/events/25840317_dans-la-chambre-de-mes-ecritures-or-carte-blanche-a-samira-el-ayachi",
+      "source": "Institut du monde arabe-Tourcoing",
+      "age": "Âge conseillé à vérifier",
+      "description": "Pour cette carte blanche exceptionnelle, Samira El Ayachi ouvre son atelier et livre les coulisses de plus de vingt ans de création."
     },
     {
-      "title": "Conférence Kuhlmann",
-      "date": "sam. 21 novembre 2026 · 15 h 00",
-      "place": "Lille / Médiathèque Jean Levy",
-      "town": "Lille",
+      "title": "10 ans ! Fanfaraï Big Band + Karaoké de bled + Ben Bella Jazz",
+      "date": "sam. 21 novembre 2026 · 19 h 00",
+      "place": "LE GRAND MIX",
+      "town": "Tourcoing",
       "kind": "culture",
-      "url": "https://openagenda.com/bml/events/50919624_conference-kuhlmann",
-      "source": "Bibliothèque municipale de Lille",
-      "age": "Âge indiqué : 18–99 ans",
-      "description": "Rencontre avec Erik Langlinay et Philippe Martin, historiens spécialistes de l'histoire de l'industrie et des sciences pour leur livre Kuhlmann 1825-1982 : une grande entreprise de la chimie française"
-    },
-    {
-      "title": "Dictée facile et ludique !",
-      "date": "sam. 21 novembre 2026 · 15 h 00",
-      "place": "Médiathèque de Lille-Sud",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/bml/events/91128891_dictee-facile-et-ludique-643887",
-      "source": "Bibliothèque municipale de Lille",
-      "age": "Âge indiqué : 8–99 ans",
-      "description": "À vos stylos !"
-    },
-    {
-      "title": "Tatouons la Baleine avec la Cie du Bonjour",
-      "date": "sam. 21 novembre 2026 · 16 h 30",
-      "place": "médiathèque Lille-Moulins",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/bml/events/52200685_tatouons-la-baleine-avec-la-cie-du-bonjour",
-      "source": "Bibliothèque municipale de Lille",
-      "age": "Âge indiqué : 8–99 ans",
-      "description": "En lien avec le spectacle La Baleine tatouée de la Compagnie du Bonjour, venez participer à une création collective autour de l’univers des légendes et de la culture maories."
+      "url": "https://openagenda.com/institut-du-monde-arabe-tourcoing/events/77622491_fanfarai-big-band-karaoke-de-bled-ben-bella-jazz",
+      "source": "Institut du monde arabe-Tourcoing",
+      "age": "Âge conseillé à vérifier",
+      "description": "Une soirée festive aux couleurs du monde pour fêter les 10 ans de l’Institut du monde arabe-Tourcoing !"
     },
     {
       "title": "Voix de Traverse",
@@ -981,26 +662,26 @@
       "description": "De l'image à l'écrit, de l'écrit à la voix"
     },
     {
-      "title": "Spectacle #Cap40",
-      "date": "mer. 25 novembre 2026 · 16 h 00",
-      "place": "médiathèque Lille-Moulins",
-      "town": "Lille",
+      "title": "Christine Zayed, la Palestine au coeur | Carte blanche à Attacafa",
+      "date": "dim. 22 novembre 2026 · 15 h 00",
+      "place": "Institut du monde arabe-Tourcoing",
+      "town": "Tourcoing",
       "kind": "culture",
-      "url": "https://openagenda.com/bml/events/80300060_sepctacle-cap40",
-      "source": "Bibliothèque municipale de Lille",
-      "age": "Âge indiqué : 10–99 ans",
-      "description": "par le Collectif Les Désobligeants?"
+      "url": "https://openagenda.com/institut-du-monde-arabe-tourcoing/events/82293759_christine-zayed-la-palestine-au-coeur-or-carte-blanche-a-attacafa",
+      "source": "Institut du monde arabe-Tourcoing",
+      "age": "Âge conseillé à vérifier",
+      "description": "Le projet musical de Christine Zayed est une exploration profondément personnelle, enracinée en Palestine, transformée en un langage universel de connexion."
     },
     {
-      "title": "L'avant prix",
-      "date": "ven. 27 novembre 2026 · 18 h 00",
-      "place": "Médiathèque Jean-Lévy - Lille",
-      "town": "Lille",
+      "title": "Fakir | Carte blanche au Tourcoing Jazz",
+      "date": "dim. 22 novembre 2026 · 17 h 00",
+      "place": "Institut du monde arabe-Tourcoing",
+      "town": "Tourcoing",
       "kind": "culture",
-      "url": "https://openagenda.com/bml/events/4466528_lavant-prix",
-      "source": "Bibliothèque municipale de Lille",
-      "age": "Âge indiqué : 18–99 ans",
-      "description": "Lecture d’extraits des 5 livres finalistes du prix Des racines et des mots par LA BOCCA, association de littérature partagée à haute voix."
+      "url": "https://openagenda.com/institut-du-monde-arabe-tourcoing/events/24429578_fakir-or-carte-blanche-au-tourcoing-jazz",
+      "source": "Institut du monde arabe-Tourcoing",
+      "age": "Âge conseillé à vérifier",
+      "description": "Fakir réunit les musiciens Marwan Fakir (violon), Louis Desseigne (guitares et saz) et Pierre-Antoine Despatures (contrebasse)."
     },
     {
       "title": "Kilikili: Chouette, une histoire !",
@@ -1009,7 +690,7 @@
       "town": "Lille",
       "kind": "culture",
       "url": "https://openagenda.com/bml/events/83208694_kilikili-chouette-une-histoire",
-      "source": "Bibliothèque municipale de Lille",
+      "source": "Lille-Moulins",
       "age": "Âge indiqué : 4–7 ans",
       "description": "Chouette, une histoire ! Ecouter des histoires, c'est chouette. Alors quand elles racontent sur les chouettes c'est encore mieux..."
     },
@@ -1023,17 +704,6 @@
       "source": "Médiathèque de Roubaix",
       "age": "Âge conseillé à vérifier",
       "description": "Découverte de documents sortis spécialement des réserves"
-    },
-    {
-      "title": "Atelier de cuisine poétique !",
-      "date": "sam. 28 novembre 2026 · 16 h 00",
-      "place": "Médiathèque Jean-Lévy - Lille",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/bml/events/92001305_atelier-de-cuisine-poetique",
-      "source": "Bibliothèque municipale de Lille",
-      "age": "Âge indiqué : 4–99 ans",
-      "description": "Venez créer des sablés à votre image !"
     },
     {
       "title": "Entre ombre et lumière !",
@@ -1058,17 +728,6 @@
       "description": "De l'image à l'écrit, de l'écrit à la voix"
     },
     {
-      "title": "Fabrique ta décoration de Noël",
-      "date": "mer. 2 décembre 2026 · 15 h 00",
-      "place": "Lille/Médiathèque Saint Maurice Pellevoisin",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/bml/events/98552943_fabrique-ta-decoration-de-noel",
-      "source": "Bibliothèque municipale de Lille",
-      "age": "Âge indiqué : 6–99 ans",
-      "description": "et repartez avec un objet à mettre dans le sapin"
-    },
-    {
       "title": "Carte blanche à Monsieur Mozart",
       "date": "ven. 4 décembre 2026 · 18 h 30",
       "place": "Auditorium du Conservatoire de Lille",
@@ -1080,114 +739,37 @@
       "description": "Une aventure musicale avec les cornistes des classes de Lille - Bienvenue chez Mozart"
     },
     {
-      "title": "Fabrique ta Chaussette de Noël.",
-      "date": "sam. 5 décembre 2026 · 10 h 30",
-      "place": "Lille/Médiathèque Saint Maurice Pellevoisin",
-      "town": "Lille",
+      "title": "Dabkeh palestienienne | Mohammed Alaloul [REPORT]",
+      "date": "sam. 5 décembre 2026 · 15 h 30",
+      "place": "Institut du monde arabe-Tourcoing",
+      "town": "Tourcoing",
       "kind": "culture",
-      "url": "https://openagenda.com/bml/events/33548111_fabrique-ta-chaussette-de-noel",
-      "source": "Bibliothèque municipale de Lille",
-      "age": "Âge indiqué : 6–99 ans",
-      "description": "et repartez avec un objet à accrocher chez vous"
+      "url": "https://openagenda.com/institut-du-monde-arabe-tourcoing/events/65409492_dabkeh-palestienienne-or-mohammed-alaloul",
+      "source": "Institut du monde arabe-Tourcoing",
+      "age": "Âge indiqué : 12–99 ans",
+      "description": "La dabkeh est une danse populaire traditionnelle palestinienne qui se pratique en groupe lors des moments festifs et des célébrations."
     },
     {
-      "title": "L'antre des sens - Labo d'expériences et d'explosions poétiques",
-      "date": "sam. 5 décembre 2026 · 11 h 00",
-      "place": "Médiathèque Lille Wazemmes",
+      "title": "Ateliers calligraphie arabe | Ahmad Dari",
+      "date": "dim. 6 décembre 2026 · 13 h 15",
+      "place": "Institut du monde arabe-Tourcoing",
+      "town": "Tourcoing",
+      "kind": "culture",
+      "url": "https://openagenda.com/institut-du-monde-arabe-tourcoing/events/25567405_ateliers-calligraphie-arabe-or-ahmad-dari",
+      "source": "Institut du monde arabe-Tourcoing",
+      "age": "Âge indiqué : 12–99 ans",
+      "description": "À travers cet atelier, le maître calligraphe Ahmad Dari, originaire de Jérusalem, vous initiera aux secrets du calame et à la subtilité des liés et déliés de la calligraphie arabe."
+    },
+    {
+      "title": "Rencontre littéraire | Sophie Fontanel - Shéhérazade et la 602e nuit",
+      "date": "sam. 12 décembre 2026 · 15 h 00",
+      "place": "Théâtre du Nord",
       "town": "Lille",
       "kind": "culture",
-      "url": "https://openagenda.com/bml/events/35617444_lantre-des-sens-labo-dexperiences-et-dexplosions-poetiques",
-      "source": "Bibliothèque municipale de Lille",
+      "url": "https://openagenda.com/institut-du-monde-arabe-tourcoing/events/20406388_rencontre-litteraire-or-sophie-fontanel-sheherazade-et-la-602e-nuit",
+      "source": "Institut du monde arabe-Tourcoing",
       "age": "Âge conseillé à vérifier",
-      "description": "Ce laboratoire de recherche poétique est une occasion unique et singulière de découvrir et faire surgir le poème qui dort en chacun.e."
-    },
-    {
-      "title": "Atelier d'écriture par Dominique Quelen",
-      "date": "sam. 5 décembre 2026 · 16 h 00",
-      "place": "Médiathèque Vieux-Lille",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/bml/events/27549972_atelier-decriture-par-dominique-quelen",
-      "source": "Bibliothèque municipale de Lille",
-      "age": "Âge indiqué : 18–16 ans",
-      "description": "Venez apprendre avec lui comment jouer avec les mots, les lettres, les émotions pour créer un court texte poétique."
-    },
-    {
-      "title": "Des racines et des mots, prix de la littérature de l’exil",
-      "date": "sam. 5 décembre 2026 · 17 h 00",
-      "place": "Médiathèque Jean-Lévy - Lille",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/bml/events/17515324_des-racines-et-des-mots-prix-de-la-litterature-de-lexil",
-      "source": "Bibliothèque municipale de Lille",
-      "age": "Âge indiqué : 18–99 ans",
-      "description": "Le prix de la littérature de l’exil sera remis officiellement au lauréat ou à la lauréate, avec temps de dédicace en médiathèque."
-    },
-    {
-      "title": "La laine : une grande aventure",
-      "date": "mer. 9 décembre 2026 · 14 h 30",
-      "place": "Ferme Pédagogique Marcel Dhénin",
-      "town": "Lille",
-      "kind": "baby",
-      "url": "https://openagenda.com/nature-lille/events/53728564_la-laine-une-grande-aventure",
-      "source": "Nature à Lille",
-      "age": "Âge indiqué : 3–99 ans",
-      "description": "Les moutons"
-    },
-    {
-      "title": "Rencontre avec Dominique Quelen, lauréat du grand prix de la SDGL 2026",
-      "date": "ven. 11 décembre 2026 · 18 h 30",
-      "place": "Médiathèque Vieux-Lille",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/bml/events/76130855_rencontre-avec-dominique-quelen-laureat-du-grand-prix-de-la-sdgl-2026",
-      "source": "Bibliothèque municipale de Lille",
-      "age": "Âge indiqué : 18–16 ans",
-      "description": "Venez discuter avec lui de son rapport à l'écriture, au mot, mais aussi à la lecture, au cinéma ou encore à la musique."
-    },
-    {
-      "title": "Concert de la chorale \"Digue Dondaines\"",
-      "date": "sam. 12 décembre 2026 · 16 h 00",
-      "place": "Médiathèque de Saint-Maurice Pellevoisin",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/bml/events/15363482_concert-de-la-chorale-digue-dondaines",
-      "source": "Bibliothèque municipale de Lille",
-      "age": "Âge conseillé à vérifier",
-      "description": "La chorale vous invite à écouter son répertoire de chants de fin d'année."
-    },
-    {
-      "title": "Décoration d'hiver",
-      "date": "mer. 16 décembre 2026 · 10 h 30",
-      "place": "Ferme Pédagogique Marcel Dhénin",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/nature-lille/events/92431435_decoration-dhiver",
-      "source": "Nature à Lille",
-      "age": "Âge indiqué : 5–99 ans",
-      "description": "Créativité"
-    },
-    {
-      "title": "Histoire d'en découdre",
-      "date": "mer. 16 décembre 2026 · 14 h 00",
-      "place": "Médiathèque de Lille-Sud",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/bml/events/31215971_histoire-den-decoudre-4611197",
-      "source": "Bibliothèque municipale de Lille",
-      "age": "Âge indiqué : 4–99 ans",
-      "description": "Venez en famille pour apprendre à faire des livres en tissu, bonne humeur garantie !"
-    },
-    {
-      "title": "Un bonhomme de neige en carte pour les fêtes !",
-      "date": "mer. 16 décembre 2026 · 16 h 00",
-      "place": "médiathèque Lille-Moulins",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/bml/events/34301058_un-bonhomme-de-neige-en-carte-pour-les-fetes",
-      "source": "Bibliothèque municipale de Lille",
-      "age": "Âge indiqué : 4–6 ans",
-      "description": "Venez créer votre décoration"
+      "description": "Sophie Fontanel est journaliste. Elle a été rédactrice en chef adjointe de Cosmopolitan, a animé Nulle part ailleurs sur Canal+, puis a été grand reporter à Elle, avant d’entrer à L’Obs."
     },
     {
       "title": "Concert des classes de Saxophones des Conservatoires de Lille et Lens",
@@ -1212,26 +794,26 @@
       "description": "Les jam sessions du Conservatoire sont de retour à la malterie !"
     },
     {
-      "title": "Turner ou le voyage à l'anglaise et les artistes du Grand Tour",
-      "date": "ven. 18 décembre 2026 · 17 h 00",
-      "place": "Médiathèque Jean-Lévy - Lille",
-      "town": "Lille",
+      "title": "La langue arabe en Europe | Tarek Abouelgamal",
+      "date": "sam. 19 décembre 2026 · 15 h 00",
+      "place": "Institut du monde arabe-Tourcoing",
+      "town": "Tourcoing",
       "kind": "culture",
-      "url": "https://openagenda.com/bml/events/34358484_turner-ou-le-voyage-a-langlaise-et-les-artistes-du-grand-tour",
-      "source": "Bibliothèque municipale de Lille",
-      "age": "Âge indiqué : 15–99 ans",
-      "description": "Une visite guidée et un atelier d'écriture au programme !"
+      "url": "https://openagenda.com/institut-du-monde-arabe-tourcoing/events/74626928_la-langue-arabe-en-europe-or-tarek-abouelgamal",
+      "source": "Institut du monde arabe-Tourcoing",
+      "age": "Âge conseillé à vérifier",
+      "description": "À l’occasion de la journée de la langue arabe, célébrée chaque année à l’initiative de l’UNESCO, l’IMA-Tourcoing invite un grand spécialiste, Tarek Abouelgamal."
     },
     {
-      "title": "Kilikili de Noël",
+      "title": "Cours d'initiation à la langue arabe | Tarek Abouelgamal",
       "date": "sam. 19 décembre 2026 · 16 h 30",
-      "place": "Médiathèque de Lille-Sud",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/bml/events/41234798_kilikili-de-noel",
-      "source": "Bibliothèque municipale de Lille",
-      "age": "Âge indiqué : 4–6 ans",
-      "description": "Noël, c'est presque demain.....Rien de tel que de venir écouter des histoires pour se mettre dans l'ambiance.  À venir savourer en famille !"
+      "place": "Institut du monde arabe-Tourcoing",
+      "town": "Tourcoing",
+      "kind": "baby",
+      "url": "https://openagenda.com/institut-du-monde-arabe-tourcoing/events/5654038_cours-dinitiation-a-la-langue-arabe-or-tarek-abouelgamal",
+      "source": "Institut du monde arabe-Tourcoing",
+      "age": "Âge indiqué : 0–99 ans",
+      "description": "Lors de ce cours d’intitiation, Tarek Abouelgamal propose de vous donner quelques bases de conversation et les principes généraux qui régissent la langue arabe."
     },
     {
       "title": "Concert de Noël",
@@ -1245,17 +827,6 @@
       "description": "Concert de Noël du Chœur Régional Hauts-de-France 🎄✨"
     },
     {
-      "title": "Biscuits d'hiver",
-      "date": "jeu. 31 décembre 2026 · 14 h 30",
-      "place": "Ferme Pédagogique Marcel Dhénin",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/nature-lille/events/12462925_biscuits-dhiver-8709811",
-      "source": "Nature à Lille",
-      "age": "Âge indiqué : 5–99 ans",
-      "description": "Bien se nourrir"
-    },
-    {
       "title": "Encre chimérique !",
       "date": "mar. 12 janvier 2027 · 18 h 15",
       "place": "Musée de l'Hospice Comtesse",
@@ -1265,6 +836,17 @@
       "source": "Vieux-Lille",
       "age": "Âge indiqué : 16–99 ans",
       "description": "Stage Adultes - session d'automne"
+    },
+    {
+      "title": "Brunch | Street food tunisienne",
+      "date": "dim. 17 janvier 2027 · 13 h 00",
+      "place": "Institut du monde arabe-Tourcoing",
+      "town": "Tourcoing",
+      "kind": "culture",
+      "url": "https://openagenda.com/institut-du-monde-arabe-tourcoing/events/69553608_brunch-or-street-food-tunisienne",
+      "source": "Institut du monde arabe-Tourcoing",
+      "age": "Âge conseillé à vérifier",
+      "description": "La street food tunisienne, une mémoire sociale et culinaire (Ed. Bande-organisée, 2026) est un livre de recettes consacré à ces cuisines populaires."
     },
     {
       "title": "Jam Session",
