@@ -1,49 +1,27 @@
 {
-  "updatedAt": "2026-10-31T17:49:20.870439+00:00",
+  "updatedAt": "2026-11-01T05:59:18.637355+00:00",
   "events": [
     {
-      "title": "La nuit des ombres (EVENEMENT ANNULE)",
-      "date": "sam. 31 octobre 2026 · 19 h 00",
-      "place": "Palais des beaux arts",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/vdl-palais-des-beaux-arts/events/59696810_la-nuit-des-ombres-6354830",
-      "source": "Ville de Lille",
-      "age": "Âge indiqué : 7–99 ans",
-      "description": "La farandole des songe-creux par Cendres la Rouge - Métalu A Chahuter"
-    },
-    {
-      "title": "Chouette nuit !",
-      "date": "sam. 31 octobre 2026 · 19 h 00",
-      "place": "Parc de la Citadelle",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/parc-de-la-citadelle/events/16471390_chouette-nuit-5828899",
-      "source": "Ville de Lille",
-      "age": "Âge conseillé à vérifier",
-      "description": "Balade naturaliste au Parc de la Citadelle"
-    },
-    {
-      "title": "Bal Roots Rock'Kabylie",
-      "date": "sam. 31 octobre 2026 · 19 h 30",
-      "place": "Salle des Fêtes de Fives",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/la-culture-en-continu/events/67713222_bal-roots-rockkabylie",
-      "source": "Ville de Lille",
-      "age": "Âge conseillé à vérifier",
-      "description": "Les Bals à Fives reviennent, ambiance Roots Rock Kabylie avec l'association Echo du Monde"
-    },
-    {
-      "title": "Citéphilo - La solidarité n'est pas un crime",
-      "date": "sam. 31 octobre 2026 · 19 h 30",
+      "title": "Citéphilo - L’histoire de la « lettre de Herman » \nretrouvée enterrée à Auschwitz\nBirkenau",
+      "date": "dim. 1 novembre 2026 · 08 h 00",
       "place": "Théâtre de la Verrière",
       "town": "Lille",
       "kind": "culture",
-      "url": "https://openagenda.com/ville-de-lille/events/28258291_citephilo-la-solidarite-nest-pas-un-crime",
+      "url": "https://openagenda.com/ville-de-lille/events/17626984_citephilo-lhistoire-de-la-lettre-de-herman-retrouvee-enterree-a-auschwitz-birkenau",
       "source": "Ville de Lille",
       "age": "Âge conseillé à vérifier",
-      "description": "La solidarité n'est pas un crime par Sophie Djigo"
+      "description": "L’histoire de la « lettre de Herman » retrouvée enterrée à Auschwitz Birkenau par Géraldine Muhlmann"
+    },
+    {
+      "title": "Les Pestacles UGC",
+      "date": "dim. 1 novembre 2026 · 11 h 00",
+      "place": "UGC Ciné-Cité de Lille",
+      "town": "Lille",
+      "kind": "baby",
+      "url": "https://openagenda.com/ville-de-lille/events/36338010_les-pestacles-ugc",
+      "source": "Ville de Lille",
+      "age": "Âge indiqué : 3–99 ans",
+      "description": "Faites découvrir le plaisir du cinéma à vos enfants au tarif de 6€ pour tous !"
     },
     {
       "title": "Open CP spécial kids",
@@ -57,15 +35,37 @@
       "description": "Tous les premiers dimanches du mois, la Condition Publique ouvre ses portes à 11h. Au programme : brunch, expositions, ateliers, jeux de société et plein d'autres surprises à découvrir en famille !"
     },
     {
+      "title": "Sorcières et compagnie",
+      "date": "dim. 1 novembre 2026 · 14 h 00",
+      "place": "Ferme Pédagogique Marcel Dhénin",
+      "town": "Lille",
+      "kind": "baby",
+      "url": "https://openagenda.com/nature-lille/events/86159063_sorcieres-et-compagnie",
+      "source": "Ville de Lille",
+      "age": "Âge indiqué : 1–99 ans",
+      "description": "Fêtons l'automne"
+    },
+    {
       "title": "Dia de los Muertos à la Micro-Folie",
       "date": "dim. 1 novembre 2026 · 14 h 30",
       "place": "Maison Folie Moulins",
       "town": "Lille",
       "kind": "culture",
       "url": "https://openagenda.com/maisons-folie/events/57308868_dia-de-los-muertos-a-la-micro-folie",
-      "source": "Lille-Moulins",
+      "source": "Ville de Lille",
       "age": "Âge indiqué : 6–99 ans",
       "description": "La Micro-Folie de la maison Folie Moulins vous invite à célébrer \"El Dia de los Muertos\", cette fête mexicaine qui honore les disparu·es avec joie et en couleurs !"
+    },
+    {
+      "title": "Citéphilo - Saint-Simon, philosophe \nde la société industrielle",
+      "date": "dim. 1 novembre 2026 · 15 h 00",
+      "place": "Théâtre de la Verrière",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/ville-de-lille/events/45301048_citephilo-saint-simon-philosophe-de-la-societe-industrielle",
+      "source": "Ville de Lille",
+      "age": "Âge conseillé à vérifier",
+      "description": "Saint-Simon, philosophe de la société industrielle de Pierre Musso"
     },
     {
       "title": "Parcours enchanté du Jardin écologique – Fête de l'automne",
@@ -132,6 +132,17 @@
       "source": "Vieux-Lille",
       "age": "Âge conseillé à vérifier",
       "description": "Par les élèves de chant lyrique et du Département Théâtre"
+    },
+    {
+      "title": "Cinéthèque | Soundtrack to a Coup d’État",
+      "date": "mar. 3 novembre 2026 · 19 h 00",
+      "place": "Le Fresnoy, Studio National des Arts Contemporains",
+      "town": "Tourcoing",
+      "kind": "culture",
+      "url": "https://openagenda.com/le-fresnoy-studio-national-des-arts-contemporains/events/92511501_cinetheque-or-soundtrack-to-a-coup-detat",
+      "source": "Agenda culturel tourquennois",
+      "age": "Âge conseillé à vérifier",
+      "description": "En présence de Johan Grimonprez, artiste professeur invité au Fresnoy cette année."
     },
     {
       "title": "L'art, un bien en commun",
