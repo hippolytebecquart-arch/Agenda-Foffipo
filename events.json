@@ -1,39 +1,6 @@
 {
-  "updatedAt": "2026-11-02T06:19:04.819888+00:00",
+  "updatedAt": "2026-11-02T18:09:10.138579+00:00",
   "events": [
-    {
-      "title": "Programme \"Habiter demain\"",
-      "date": "lun. 2 novembre 2026 · 14 h 00",
-      "place": "Maison Lill'Âges",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/ville-de-lille/events/7848362_programme-habiter-demain",
-      "source": "Ville de Lille",
-      "age": "Âge indiqué : 55–100 ans",
-      "description": "4 ateliers pour réfléchir à son habitat de demain"
-    },
-    {
-      "title": "Vente en cours, travaux votés, appels de fonds à venir : qui règle la facture ?",
-      "date": "lun. 2 novembre 2026 · 17 h 30",
-      "place": "En ligne",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/mhd/events/51429998_vente-en-cours-travaux-votes-appels-de-fonds-a-venir-qui-regle-la-facture",
-      "source": "Ville de Lille",
-      "age": "Âge conseillé à vérifier",
-      "description": "Webinaire"
-    },
-    {
-      "title": "[Muzzix] LUN19h | Je tourne la manivelle",
-      "date": "lun. 2 novembre 2026 · 19 h 00",
-      "place": "La malterie",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/la-culture-en-continu/events/82780633_muzzix-lun19h-or-je-tourne-la-manivelle-3136869",
-      "source": "Ville de Lille",
-      "age": "Âge conseillé à vérifier",
-      "description": "Récits rock illustrés en direct et poésie antique : vivez une soirée musicale inédite et brute. Rendez-vous lundi à 19h !"
-    },
     {
       "title": "OUVERTURE DU MOIS DU DOC - Projection LA VOISINE IDÉALE",
       "date": "lun. 2 novembre 2026 · 19 h 30",
@@ -99,6 +66,17 @@
       "source": "Ville de Lille",
       "age": "Âge conseillé à vérifier",
       "description": "Voix du corps.  Philosopher autrement d'Anne Boissière"
+    },
+    {
+      "title": "Hommage à Roger Salengro : 90 ans après",
+      "date": "mar. 3 novembre 2026 · 18 h 00",
+      "place": "Lille",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/hellemmes/events/56950442_hommage-a-roger-salengro-90-ans-apres",
+      "source": "Métropole Européenne de Lille",
+      "age": "Âge conseillé à vérifier",
+      "description": "En novembre et décembre 2026, plusieurs rendez-vous permettront de redécouvrir le parcours, les combats et l'héritage de Roger Salengro."
     },
     {
       "title": "L'affaire Salengro",
@@ -189,15 +167,15 @@
       "description": "Exposition participative portée par l'assocation Les Partageurs."
     },
     {
-      "title": "Atelier d'écriture poétique",
-      "date": "mer. 4 novembre 2026 · 10 h 00",
-      "place": "Bibliothèque pour Tous du Centre Eugène Duthoit de Lambersart",
-      "town": "Lambersart",
-      "kind": "culture",
-      "url": "https://openagenda.com/ville-de-lambersart/events/89100170_atelier-decriture-poetique-9370245",
-      "source": "Ville de Lambersart",
-      "age": "Âge conseillé à vérifier",
-      "description": "avec Sophie Selliez"
+      "title": "Petite poule rousse",
+      "date": "mer. 4 novembre 2026 · 10 h 30",
+      "place": "Ferme Pédagogique Marcel Dhénin",
+      "town": "Lille",
+      "kind": "baby",
+      "url": "https://openagenda.com/nature-lille/events/563347_petite-poule-rousse",
+      "source": "Nature à Lille",
+      "age": "Âge indiqué : 3–99 ans",
+      "description": "Les animaux de la ferme"
     },
     {
       "title": "Tous au Tire-Laine !",
@@ -244,6 +222,17 @@
       "description": "Laissez-vous conter l’histoire singulière de ce musée chargé d’histoire(s)"
     },
     {
+      "title": "Felice Beato, pionnier de la photographie au Japon",
+      "date": "sam. 7 novembre 2026 · 15 h 00",
+      "place": "Médiathèque Jean Lévy",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/bml/events/89525764_felice-beato-pionnier-de-la-photographie-au-japon",
+      "source": "Lille-Centre",
+      "age": "Âge indiqué : 18–99 ans",
+      "description": "Une conférence autour de la photographie"
+    },
+    {
       "title": "Chambre à Part",
       "date": "dim. 8 novembre 2026 · 11 h 00",
       "place": "Auditorium du Conservatoire de Lille",
@@ -264,6 +253,17 @@
       "source": "Médiathèque de Roubaix",
       "age": "Âge conseillé à vérifier",
       "description": "Racontées"
+    },
+    {
+      "title": "Mythes en métamorphoses - 2",
+      "date": "mar. 10 novembre 2026 · 13 h 00",
+      "place": "Opéra de Lille",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/la-culture-en-continu/events/9025249_mythes-en-metamorphoses-2",
+      "source": "L'été à Lille",
+      "age": "Âge conseillé à vérifier",
+      "description": "Debussy, Szymanowski"
     },
     {
       "title": "La Baleine Tatouée - Compagnie du Bonjour",
@@ -387,6 +387,17 @@
       "description": "Atelier de groupe"
     },
     {
+      "title": "Prise de bec",
+      "date": "dim. 15 novembre 2026 · 14 h 30",
+      "place": "Ferme Pédagogique Marcel Dhénin",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/nature-lille/events/85471115_prise-de-bec",
+      "source": "Nature à Lille",
+      "age": "Âge indiqué : 5–99 ans",
+      "description": "Les oiseaux"
+    },
+    {
       "title": "Conte Musical Baba Yaga",
       "date": "dim. 15 novembre 2026 · 17 h 00",
       "place": "Auditorium du Conservatoire de Lille",
@@ -396,6 +407,28 @@
       "source": "Vieux-Lille",
       "age": "Âge conseillé à vérifier",
       "description": "ou la véritable histoire des poupées russes"
+    },
+    {
+      "title": "Kilikili, la lecture d’histoires pour les petits",
+      "date": "mer. 18 novembre 2026 · 10 h 30",
+      "place": "Médiathèque Jean Lévy",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/bml/events/34616093_kilikili-la-lecture-dhistoires-pour-les-petits-9424864",
+      "source": "Lille-Centre",
+      "age": "Âge indiqué : 4–7 ans",
+      "description": "Vous explorez avec votre bibliothécaire des albums, contes et légendes pour les enfants de 4 à 7 ans. Ce temps de lecture prépare vos enfants au plaisir de lire et laisse une place à l’imaginaire !"
+    },
+    {
+      "title": "Mission domestication !",
+      "date": "mer. 18 novembre 2026 · 14 h 30",
+      "place": "Ferme Pédagogique Marcel Dhénin",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/nature-lille/events/32969582_mission-domestication",
+      "source": "Nature à Lille",
+      "age": "Âge indiqué : 7–99 ans",
+      "description": "Les animaux de la ferme"
     },
     {
       "title": "Mon bestiaire étoilé !",
@@ -431,6 +464,28 @@
       "description": "Les jam sessions du Conservatoire sont de retour à la malterie !"
     },
     {
+      "title": "Journée d'étude du festival \"D'un pays l'autre\"",
+      "date": "jeu. 19 novembre 2026 · 09 h 00",
+      "place": "Médiathèque Jean Lévy",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/bml/events/56386807_journee-detude-du-festival-dun-pays-lautre",
+      "source": "Lille-Centre",
+      "age": "Âge indiqué : 18–99 ans",
+      "description": "Dans le cadre du festival de traduction \"D'un pays l'autre\" se déroulant du mercredi 18 au dimanche 22 novembre 2026 organisé par les éditions de la contre-allée."
+    },
+    {
+      "title": "La bibliothèque idéale de Guillaume Contré",
+      "date": "ven. 20 novembre 2026 · 12 h 30",
+      "place": "Médiathèque Jean Lévy",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/bml/events/23310387_la-bibliotheque-ideale-de-guillaume-contre",
+      "source": "Lille-Centre",
+      "age": "Âge indiqué : 18–99 ans",
+      "description": "Dans le cadre du festival de traduction \"D'un pays l'autre\" se déroulant du mercredi 18 au dimanche 22 novembre 2026 organisé par les éditions de la contre-allée."
+    },
+    {
       "title": "Dernières folies. Vieillesse et santé mentale (19e-20e siècle)",
       "date": "ven. 20 novembre 2026 · 17 h 30",
       "place": "Musée de l'Hospice Comtesse",
@@ -462,17 +517,6 @@
       "source": "Conservatoire de Roubaix",
       "age": "Âge indiqué : 0–99 ans",
       "description": "Quatuor Poulenc"
-    },
-    {
-      "title": "SéruM",
-      "date": "ven. 20 novembre 2026 · 20 h 00",
-      "place": "Salle Malraux",
-      "town": "Lambersart",
-      "kind": "culture",
-      "url": "https://openagenda.com/ville-de-lambersart/events/1470159_serum-1392717",
-      "source": "Ville de Lambersart",
-      "age": "Âge conseillé à vérifier",
-      "description": "Théâtre / Cirque, par le Théâtre Diagonale"
     },
     {
       "title": "Être en scène - Initiation",
@@ -552,26 +596,26 @@
       "description": "Une aventure musicale avec les cornistes des classes de Lille - Bienvenue chez Mozart"
     },
     {
-      "title": "Tapis Tâtons",
-      "date": "sam. 5 décembre 2026 · 10 h 30",
-      "place": "Salle Malraux",
-      "town": "Lambersart",
-      "kind": "culture",
-      "url": "https://openagenda.com/ville-de-lambersart/events/2671584_tapis-tatons-7460112",
-      "source": "Ville de Lambersart",
-      "age": "Âge conseillé à vérifier",
-      "description": "spectacle pour très jeune public par la Compagnie La Rustine"
+      "title": "La laine : une grande aventure",
+      "date": "mer. 9 décembre 2026 · 14 h 30",
+      "place": "Ferme Pédagogique Marcel Dhénin",
+      "town": "Lille",
+      "kind": "baby",
+      "url": "https://openagenda.com/nature-lille/events/53728564_la-laine-une-grande-aventure",
+      "source": "Nature à Lille",
+      "age": "Âge indiqué : 3–99 ans",
+      "description": "Les moutons"
     },
     {
-      "title": "Odyssée, la conférence musicale",
-      "date": "sam. 5 décembre 2026 · 17 h 30",
-      "place": "Salle Malraux",
-      "town": "Lambersart",
+      "title": "Décoration d'hiver",
+      "date": "mer. 16 décembre 2026 · 10 h 30",
+      "place": "Ferme Pédagogique Marcel Dhénin",
+      "town": "Lille",
       "kind": "culture",
-      "url": "https://openagenda.com/ville-de-lambersart/events/49538482_odyssee-la-conference-musicale-1319656",
-      "source": "Ville de Lambersart",
-      "age": "Âge conseillé à vérifier",
-      "description": "spectacle jeune public, de Jean-Baptiste Darosey et Julie Costanza"
+      "url": "https://openagenda.com/nature-lille/events/92431435_decoration-dhiver",
+      "source": "Nature à Lille",
+      "age": "Âge indiqué : 5–99 ans",
+      "description": "Créativité"
     },
     {
       "title": "Concert des classes de Saxophones des Conservatoires de Lille et Lens",
@@ -607,6 +651,17 @@
       "description": "Concert de Noël du Chœur Régional Hauts-de-France 🎄✨"
     },
     {
+      "title": "Biscuits d'hiver",
+      "date": "jeu. 31 décembre 2026 · 14 h 30",
+      "place": "Ferme Pédagogique Marcel Dhénin",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/nature-lille/events/12462925_biscuits-dhiver-8709811",
+      "source": "Nature à Lille",
+      "age": "Âge indiqué : 5–99 ans",
+      "description": "Bien se nourrir"
+    },
+    {
       "title": "Encre chimérique !",
       "date": "mar. 12 janvier 2027 · 18 h 15",
       "place": "Musée de l'Hospice Comtesse",
@@ -629,50 +684,6 @@
       "description": "Les jam sessions du Conservatoire sont de retour à la malterie !"
     },
     {
-      "title": "Please stand up",
-      "date": "ven. 22 janvier 2027 · 20 h 00",
-      "place": "Salle Malraux",
-      "town": "Lambersart",
-      "kind": "culture",
-      "url": "https://openagenda.com/ville-de-lambersart/events/98394690_please-stand-up-3746146",
-      "source": "Ville de Lambersart",
-      "age": "Âge conseillé à vérifier",
-      "description": "Festival Lambers'art du rire"
-    },
-    {
-      "title": "Tremplin des nouveaux talents",
-      "date": "sam. 23 janvier 2027 · 20 h 00",
-      "place": "Salle Malraux",
-      "town": "Lambersart",
-      "kind": "culture",
-      "url": "https://openagenda.com/ville-de-lambersart/events/54597186_tremplin-des-nouveaux-talents-7597778",
-      "source": "Ville de Lambersart",
-      "age": "Âge conseillé à vérifier",
-      "description": "Festival Lambers'art du rire"
-    },
-    {
-      "title": "\"Y’a de la joie\" de Michaël Hirsch",
-      "date": "dim. 24 janvier 2027 · 17 h 00",
-      "place": "Salle Malraux",
-      "town": "Lambersart",
-      "kind": "culture",
-      "url": "https://openagenda.com/ville-de-lambersart/events/79525512_ya-de-la-joie-de-michael-hirsch",
-      "source": "Ville de Lambersart",
-      "age": "Âge conseillé à vérifier",
-      "description": "Festival Lambers'art du rire"
-    },
-    {
-      "title": "J’aurais voulu être Jeff Bezos",
-      "date": "sam. 13 février 2027 · 20 h 00",
-      "place": "Salle Malraux",
-      "town": "Lambersart",
-      "kind": "culture",
-      "url": "https://openagenda.com/ville-de-lambersart/events/60337292_jaurais-voulu-etre-jeff-bezos-700130",
-      "source": "Ville de Lambersart",
-      "age": "Âge conseillé à vérifier",
-      "description": "Collectif P4- Arthur Viadieu"
-    },
-    {
       "title": "Jam Session",
       "date": "mer. 17 février 2027 · 20 h 30",
       "place": "La malterie",
@@ -684,17 +695,6 @@
       "description": "Les jam sessions du Conservatoire sont de retour à la malterie !"
     },
     {
-      "title": "The Spinning Wheel ou les heures du quotidien",
-      "date": "mer. 17 mars 2027 · 20 h 00",
-      "place": "Salle Malraux",
-      "town": "Lambersart",
-      "kind": "culture",
-      "url": "https://openagenda.com/ville-de-lambersart/events/70468082_the-spinning-wheel-ou-les-heures-du-quotidien-6299256",
-      "source": "Ville de Lambersart",
-      "age": "Âge conseillé à vérifier",
-      "description": "Concert avec The Kraken Consort, en partenariat avec l’Atelier Lyrique de Tourcoing"
-    },
-    {
       "title": "Jam Session",
       "date": "mer. 17 mars 2027 · 20 h 30",
       "place": "La malterie",
@@ -704,17 +704,6 @@
       "source": "Vieux-Lille",
       "age": "Âge conseillé à vérifier",
       "description": "Les jam sessions du Conservatoire sont de retour à la malterie !"
-    },
-    {
-      "title": "Canopée",
-      "date": "sam. 10 avril 2027 · 20 h 00",
-      "place": "Salle Malraux",
-      "town": "Lambersart",
-      "kind": "culture",
-      "url": "https://openagenda.com/ville-de-lambersart/events/56426218_canopee-3411406",
-      "source": "Ville de Lambersart",
-      "age": "Âge conseillé à vérifier",
-      "description": "de et avec Boris Vigneron"
     },
     {
       "title": "Jam Session",
