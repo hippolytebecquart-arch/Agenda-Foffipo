@@ -1,6 +1,72 @@
 {
-  "updatedAt": "2026-11-01T17:49:52.937503+00:00",
+  "updatedAt": "2026-11-02T06:19:04.819888+00:00",
   "events": [
+    {
+      "title": "Programme \"Habiter demain\"",
+      "date": "lun. 2 novembre 2026 · 14 h 00",
+      "place": "Maison Lill'Âges",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/ville-de-lille/events/7848362_programme-habiter-demain",
+      "source": "Ville de Lille",
+      "age": "Âge indiqué : 55–100 ans",
+      "description": "4 ateliers pour réfléchir à son habitat de demain"
+    },
+    {
+      "title": "Vente en cours, travaux votés, appels de fonds à venir : qui règle la facture ?",
+      "date": "lun. 2 novembre 2026 · 17 h 30",
+      "place": "En ligne",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/mhd/events/51429998_vente-en-cours-travaux-votes-appels-de-fonds-a-venir-qui-regle-la-facture",
+      "source": "Ville de Lille",
+      "age": "Âge conseillé à vérifier",
+      "description": "Webinaire"
+    },
+    {
+      "title": "[Muzzix] LUN19h | Je tourne la manivelle",
+      "date": "lun. 2 novembre 2026 · 19 h 00",
+      "place": "La malterie",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/la-culture-en-continu/events/82780633_muzzix-lun19h-or-je-tourne-la-manivelle-3136869",
+      "source": "Ville de Lille",
+      "age": "Âge conseillé à vérifier",
+      "description": "Récits rock illustrés en direct et poésie antique : vivez une soirée musicale inédite et brute. Rendez-vous lundi à 19h !"
+    },
+    {
+      "title": "OUVERTURE DU MOIS DU DOC - Projection LA VOISINE IDÉALE",
+      "date": "lun. 2 novembre 2026 · 19 h 30",
+      "place": "Auditorium du Palais des Beaux-Arts",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/ville-de-lille/events/31428589_ouverture-du-mois-du-doc-projection-la-voisine-ideale",
+      "source": "Ville de Lille",
+      "age": "Âge indiqué : 16–99 ans",
+      "description": "Heure Exquise ! ouvre ce Mois du Film documentaire en Hauts-de-France avec \"LA VOISINE IDÉALE\" en présence de l'équipe d'Images en Bibliothèques, association historique organisatrice de l'événement."
+    },
+    {
+      "title": "Schur",
+      "date": "lun. 2 novembre 2026 · 20 h 30",
+      "place": "La Bulle Café",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/ville-de-lille/events/48157743_schur",
+      "source": "Ville de Lille",
+      "age": "Âge conseillé à vérifier",
+      "description": "Retrouvez Schur, l’artiste indie-rock du Connecticut revient avec sa fusion unique d’énergie rock, de rythmes hip-hop et de vibrations reggae."
+    },
+    {
+      "title": "Ateliers bien-être parents-enfants",
+      "date": "mar. 3 novembre 2026 · 09 h 30",
+      "place": "Piscine du Triolo",
+      "town": "Villeneuve-d'Ascq",
+      "kind": "baby",
+      "url": "https://openagenda.com/ville-de-villeneuve-dascq/events/71125910_ateliers-bien-etre-parents-enfants-8996499",
+      "source": "Métropole Européenne de Lille",
+      "age": "Âge conseillé à vérifier",
+      "description": "Des ateliers pour découvrir les gestes et techniques de massage adaptés aux bébés, dans un moment privilégié de partage entre parents et enfants."
+    },
     {
       "title": "Exposition \"Le Château des Étoiles\"",
       "date": "mar. 3 novembre 2026 · 14 h 00",
@@ -24,13 +90,24 @@
       "description": "Comment faire naître et engager une parole à soi quand on est philosophe et femme ?"
     },
     {
+      "title": "Citéphilo - Voix du corps. \nPhilosopher autrement",
+      "date": "mar. 3 novembre 2026 · 15 h 30",
+      "place": "Médiathèque Jean Lévy",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/ville-de-lille/events/72057989_citephilo-voix-du-corps-philosopher-autrement",
+      "source": "Ville de Lille",
+      "age": "Âge conseillé à vérifier",
+      "description": "Voix du corps.  Philosopher autrement d'Anne Boissière"
+    },
+    {
       "title": "L'affaire Salengro",
       "date": "mar. 3 novembre 2026 · 18 h 00",
       "place": "Hôtel de Ville",
       "town": "Lille",
       "kind": "culture",
       "url": "https://openagenda.com/ville-dart-et-dhistoire-de-lille/events/88009693_laffaire-salengro",
-      "source": "Office de Tourisme de la Métropole Européenne de Lille",
+      "source": "Ville de Lille",
       "age": "Âge indiqué : 18–99 ans",
       "description": "Découvrez les dessous de l'affaire Salengro lors de cette conférence."
     },
@@ -41,9 +118,42 @@
       "town": "Lille",
       "kind": "culture",
       "url": "https://openagenda.com/hospice-comtesse/events/20722974_interieurs-graves",
-      "source": "Vieux-Lille",
+      "source": "Ville de Lille",
       "age": "Âge indiqué : 16–99 ans",
       "description": "Stage Adultes - session d'automne"
+    },
+    {
+      "title": "Citéphilo - La République des droits",
+      "date": "mar. 3 novembre 2026 · 18 h 15",
+      "place": "Sciences po 9 rue Angellier, 59000 Lille",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/ville-de-lille/events/29622545_citephilo-la-republique-des-droits",
+      "source": "Ville de Lille",
+      "age": "Âge conseillé à vérifier",
+      "description": "La République des droits de Claire Hédon"
+    },
+    {
+      "title": "Conférence sur le développement psychomoteur",
+      "date": "mar. 3 novembre 2026 · 18 h 30",
+      "place": "Salle Masqueliez",
+      "town": "Villeneuve-d'Ascq",
+      "kind": "baby",
+      "url": "https://openagenda.com/ville-de-villeneuve-dascq/events/73767116_conference-developpement-psychomoteur",
+      "source": "Métropole Européenne de Lille",
+      "age": "Âge conseillé à vérifier",
+      "description": "Mardi 3 novembre 2026 à 18h30 à la salle Masqueliez, une conférence pour comprendre le rôle essentiel de l’activité physique dans le développement des tout-petits."
+    },
+    {
+      "title": "Cinéthèque | Soundtrack to a Coup d’État",
+      "date": "mar. 3 novembre 2026 · 19 h 00",
+      "place": "Le Fresnoy, Studio National des Arts Contemporains",
+      "town": "Tourcoing",
+      "kind": "culture",
+      "url": "https://openagenda.com/le-fresnoy-studio-national-des-arts-contemporains/events/92511501_cinetheque-or-soundtrack-to-a-coup-detat",
+      "source": "Métropole Européenne de Lille",
+      "age": "Âge conseillé à vérifier",
+      "description": "En présence de Johan Grimonprez, artiste professeur invité au Fresnoy cette année."
     },
     {
       "title": "Le rire d'Alexandre (ou la vengeance du Phyloquasicollus)",
@@ -52,9 +162,20 @@
       "town": "Lille",
       "kind": "culture",
       "url": "https://openagenda.com/conservatoiredelille/events/34632977_le-rire-dalexandre-ou-la-vengeance-du-phyloquasicollus",
-      "source": "Vieux-Lille",
+      "source": "Ville de Lille",
       "age": "Âge conseillé à vérifier",
       "description": "Par les élèves de chant lyrique et du Département Théâtre"
+    },
+    {
+      "title": "La fête",
+      "date": "mar. 3 novembre 2026 · 19 h 30",
+      "place": "Théâtre du Nord",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/la-culture-en-continu/events/73428071_la-fete-3636574",
+      "source": "Ville de Lille",
+      "age": "Âge indiqué : 15–99 ans",
+      "description": "Un thriller social poignant"
     },
     {
       "title": "L'art, un bien en commun",
@@ -66,6 +187,17 @@
       "source": "Le réseau des bibliothèques et médiathèques de la MEL",
       "age": "Âge conseillé à vérifier",
       "description": "Exposition participative portée par l'assocation Les Partageurs."
+    },
+    {
+      "title": "Atelier d'écriture poétique",
+      "date": "mer. 4 novembre 2026 · 10 h 00",
+      "place": "Bibliothèque pour Tous du Centre Eugène Duthoit de Lambersart",
+      "town": "Lambersart",
+      "kind": "culture",
+      "url": "https://openagenda.com/ville-de-lambersart/events/89100170_atelier-decriture-poetique-9370245",
+      "source": "Ville de Lambersart",
+      "age": "Âge conseillé à vérifier",
+      "description": "avec Sophie Selliez"
     },
     {
       "title": "Tous au Tire-Laine !",
@@ -121,17 +253,6 @@
       "source": "Vieux-Lille",
       "age": "Âge conseillé à vérifier",
       "description": "Correspondances"
-    },
-    {
-      "title": "Cuisine libanaise avec Mieline | Au restaurant Mieline",
-      "date": "dim. 8 novembre 2026 · 14 h 00",
-      "place": "Restaurant Mieline",
-      "town": "Roubaix",
-      "kind": "culture",
-      "url": "https://openagenda.com/institut-du-monde-arabe-tourcoing/events/69519704_cuisine-libanaise-avec-mieline-or-au-restaurant-mieline",
-      "source": "Institut du monde arabe-Tourcoing",
-      "age": "Âge indiqué : 12–99 ans",
-      "description": "Avec la cheffe cuisinière Mieline, apprenez à préparer des plats traditionnels. N'oubliez pas vos contenants pour repartir avec vos préparations."
     },
     {
       "title": "Un dimanche au coeur des histoires",
@@ -211,17 +332,6 @@
       "description": "Une conférence menée par la Société royale historique et archéologique de Courtrai (KGOKK)"
     },
     {
-      "title": "Conférence Citéphilo | Meryem Sebti - Penser le monde avec Avicenne",
-      "date": "sam. 14 novembre 2026 · 15 h 00",
-      "place": "Institut du monde arabe-Tourcoing",
-      "town": "Tourcoing",
-      "kind": "culture",
-      "url": "https://openagenda.com/institut-du-monde-arabe-tourcoing/events/42525046_conference-citephilo-or-meryem-sebti-penser-le-monde-avec-avicenne",
-      "source": "Institut du monde arabe-Tourcoing",
-      "age": "Âge conseillé à vérifier",
-      "description": "Destiné à un public large sans présupposer de formation philosophique préalable, cet ouvrage offre une entrée dans l’une des œuvres les plus influentes de l’histoire de la philosophie."
-    },
-    {
       "title": "Les Drôles de Dames",
       "date": "sam. 14 novembre 2026 · 19 h 00",
       "place": "Maison Folie Moulins",
@@ -275,17 +385,6 @@
       "source": "Vieux-Lille",
       "age": "Âge conseillé à vérifier",
       "description": "Atelier de groupe"
-    },
-    {
-      "title": "Citéphilo | Christian Jambet - L'Ordre de l'être, providence et platonisme dans la philosophie iranienne",
-      "date": "dim. 15 novembre 2026 · 15 h 00",
-      "place": "Institut du monde arabe-Tourcoing",
-      "town": "Tourcoing",
-      "kind": "culture",
-      "url": "https://openagenda.com/institut-du-monde-arabe-tourcoing/events/33293245_citephilo-or-christian-jambet-lordre-de-letre-providence-et-platonisme-dans-la-philosophie-iranienne",
-      "source": "Institut du monde arabe-Tourcoing",
-      "age": "Âge conseillé à vérifier",
-      "description": "Christian Jambet est directeur d’études émérite à l’École pratique des hautes études. Il a consacré une quinzaine de livres et de nombreux articles à la philosophie et à la poésie en terre d’islam."
     },
     {
       "title": "Conte Musical Baba Yaga",
@@ -343,17 +442,6 @@
       "description": "Une conférence menée dans le cadre du festival Citéphilo sur le thème « Urgences »"
     },
     {
-      "title": "10 ans ! Le Bal des 10 ans | Cérémonie & concert dansant  - Quartet Areski",
-      "date": "ven. 20 novembre 2026 · 18 h 00",
-      "place": "Institut du monde arabe-Tourcoing",
-      "town": "Tourcoing",
-      "kind": "culture",
-      "url": "https://openagenda.com/institut-du-monde-arabe-tourcoing/events/49579491_le-bal-des-10-ans-ceremonie-and-concert-dansant",
-      "source": "Institut du monde arabe-Tourcoing",
-      "age": "Âge conseillé à vérifier",
-      "description": "L’Institut du monde arabe-Tourcoing vous accueille pour célébrer ensemble 10 ans de partage et de culture."
-    },
-    {
       "title": "Récital de piano de Ryutaro Suzuki",
       "date": "ven. 20 novembre 2026 · 19 h 00",
       "place": "Auditorium du Conservatoire de Lille",
@@ -376,6 +464,17 @@
       "description": "Quatuor Poulenc"
     },
     {
+      "title": "SéruM",
+      "date": "ven. 20 novembre 2026 · 20 h 00",
+      "place": "Salle Malraux",
+      "town": "Lambersart",
+      "kind": "culture",
+      "url": "https://openagenda.com/ville-de-lambersart/events/1470159_serum-1392717",
+      "source": "Ville de Lambersart",
+      "age": "Âge conseillé à vérifier",
+      "description": "Théâtre / Cirque, par le Théâtre Diagonale"
+    },
+    {
       "title": "Être en scène - Initiation",
       "date": "sam. 21 novembre 2026 · 10 h 00",
       "place": "Ateliers Théâtre",
@@ -387,39 +486,6 @@
       "description": "Atelier Théâtre Ouvert"
     },
     {
-      "title": "Les Monologues de Gaza | Carte blanche au Théâtre du Nord",
-      "date": "sam. 21 novembre 2026 · 15 h 00",
-      "place": "Institut du monde arabe-Tourcoing",
-      "town": "Tourcoing",
-      "kind": "culture",
-      "url": "https://openagenda.com/institut-du-monde-arabe-tourcoing/events/66392034_les-monologues-de-gaza-or-carte-blanche-au-theatre-du-nord",
-      "source": "Institut du monde arabe-Tourcoing",
-      "age": "Âge conseillé à vérifier",
-      "description": "Une lecture polyphonique des voix de la jeunesse gazaouie"
-    },
-    {
-      "title": "Dans la chambre de mes écritures | Carte blanche à Samira El Ayachi",
-      "date": "sam. 21 novembre 2026 · 17 h 00",
-      "place": "Institut du monde arabe-Tourcoing",
-      "town": "Tourcoing",
-      "kind": "culture",
-      "url": "https://openagenda.com/institut-du-monde-arabe-tourcoing/events/25840317_dans-la-chambre-de-mes-ecritures-or-carte-blanche-a-samira-el-ayachi",
-      "source": "Institut du monde arabe-Tourcoing",
-      "age": "Âge conseillé à vérifier",
-      "description": "Pour cette carte blanche exceptionnelle, Samira El Ayachi ouvre son atelier et livre les coulisses de plus de vingt ans de création."
-    },
-    {
-      "title": "10 ans ! Fanfaraï Big Band + Karaoké de bled + Ben Bella Jazz",
-      "date": "sam. 21 novembre 2026 · 19 h 00",
-      "place": "LE GRAND MIX",
-      "town": "Tourcoing",
-      "kind": "culture",
-      "url": "https://openagenda.com/institut-du-monde-arabe-tourcoing/events/77622491_fanfarai-big-band-karaoke-de-bled-ben-bella-jazz",
-      "source": "Institut du monde arabe-Tourcoing",
-      "age": "Âge conseillé à vérifier",
-      "description": "Une soirée festive aux couleurs du monde pour fêter les 10 ans de l’Institut du monde arabe-Tourcoing !"
-    },
-    {
       "title": "Voix de Traverse",
       "date": "sam. 21 novembre 2026 · 19 h 30",
       "place": "maison Folie Wazemmes",
@@ -429,28 +495,6 @@
       "source": "Vieux-Lille",
       "age": "Âge conseillé à vérifier",
       "description": "De l'image à l'écrit, de l'écrit à la voix"
-    },
-    {
-      "title": "Christine Zayed, la Palestine au coeur | Carte blanche à Attacafa",
-      "date": "dim. 22 novembre 2026 · 15 h 00",
-      "place": "Institut du monde arabe-Tourcoing",
-      "town": "Tourcoing",
-      "kind": "culture",
-      "url": "https://openagenda.com/institut-du-monde-arabe-tourcoing/events/82293759_christine-zayed-la-palestine-au-coeur-or-carte-blanche-a-attacafa",
-      "source": "Institut du monde arabe-Tourcoing",
-      "age": "Âge conseillé à vérifier",
-      "description": "Le projet musical de Christine Zayed est une exploration profondément personnelle, enracinée en Palestine, transformée en un langage universel de connexion."
-    },
-    {
-      "title": "Fakir | Carte blanche au Tourcoing Jazz",
-      "date": "dim. 22 novembre 2026 · 17 h 00",
-      "place": "Institut du monde arabe-Tourcoing",
-      "town": "Tourcoing",
-      "kind": "culture",
-      "url": "https://openagenda.com/institut-du-monde-arabe-tourcoing/events/24429578_fakir-or-carte-blanche-au-tourcoing-jazz",
-      "source": "Institut du monde arabe-Tourcoing",
-      "age": "Âge conseillé à vérifier",
-      "description": "Fakir réunit les musiciens Marwan Fakir (violon), Louis Desseigne (guitares et saz) et Pierre-Antoine Despatures (contrebasse)."
     },
     {
       "title": "Kilikili: Chouette, une histoire !",
@@ -508,37 +552,26 @@
       "description": "Une aventure musicale avec les cornistes des classes de Lille - Bienvenue chez Mozart"
     },
     {
-      "title": "Dabkeh palestienienne | Mohammed Alaloul [REPORT]",
-      "date": "sam. 5 décembre 2026 · 15 h 30",
-      "place": "Institut du monde arabe-Tourcoing",
-      "town": "Tourcoing",
+      "title": "Tapis Tâtons",
+      "date": "sam. 5 décembre 2026 · 10 h 30",
+      "place": "Salle Malraux",
+      "town": "Lambersart",
       "kind": "culture",
-      "url": "https://openagenda.com/institut-du-monde-arabe-tourcoing/events/65409492_dabkeh-palestienienne-or-mohammed-alaloul",
-      "source": "Institut du monde arabe-Tourcoing",
-      "age": "Âge indiqué : 12–99 ans",
-      "description": "La dabkeh est une danse populaire traditionnelle palestinienne qui se pratique en groupe lors des moments festifs et des célébrations."
-    },
-    {
-      "title": "Ateliers calligraphie arabe | Ahmad Dari",
-      "date": "dim. 6 décembre 2026 · 13 h 15",
-      "place": "Institut du monde arabe-Tourcoing",
-      "town": "Tourcoing",
-      "kind": "culture",
-      "url": "https://openagenda.com/institut-du-monde-arabe-tourcoing/events/25567405_ateliers-calligraphie-arabe-or-ahmad-dari",
-      "source": "Institut du monde arabe-Tourcoing",
-      "age": "Âge indiqué : 12–99 ans",
-      "description": "À travers cet atelier, le maître calligraphe Ahmad Dari, originaire de Jérusalem, vous initiera aux secrets du calame et à la subtilité des liés et déliés de la calligraphie arabe."
-    },
-    {
-      "title": "Rencontre littéraire | Sophie Fontanel - Shéhérazade et la 602e nuit",
-      "date": "sam. 12 décembre 2026 · 15 h 00",
-      "place": "Théâtre du Nord",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/institut-du-monde-arabe-tourcoing/events/20406388_rencontre-litteraire-or-sophie-fontanel-sheherazade-et-la-602e-nuit",
-      "source": "Institut du monde arabe-Tourcoing",
+      "url": "https://openagenda.com/ville-de-lambersart/events/2671584_tapis-tatons-7460112",
+      "source": "Ville de Lambersart",
       "age": "Âge conseillé à vérifier",
-      "description": "Sophie Fontanel est journaliste. Elle a été rédactrice en chef adjointe de Cosmopolitan, a animé Nulle part ailleurs sur Canal+, puis a été grand reporter à Elle, avant d’entrer à L’Obs."
+      "description": "spectacle pour très jeune public par la Compagnie La Rustine"
+    },
+    {
+      "title": "Odyssée, la conférence musicale",
+      "date": "sam. 5 décembre 2026 · 17 h 30",
+      "place": "Salle Malraux",
+      "town": "Lambersart",
+      "kind": "culture",
+      "url": "https://openagenda.com/ville-de-lambersart/events/49538482_odyssee-la-conference-musicale-1319656",
+      "source": "Ville de Lambersart",
+      "age": "Âge conseillé à vérifier",
+      "description": "spectacle jeune public, de Jean-Baptiste Darosey et Julie Costanza"
     },
     {
       "title": "Concert des classes de Saxophones des Conservatoires de Lille et Lens",
@@ -563,28 +596,6 @@
       "description": "Les jam sessions du Conservatoire sont de retour à la malterie !"
     },
     {
-      "title": "La langue arabe en Europe | Tarek Abouelgamal",
-      "date": "sam. 19 décembre 2026 · 15 h 00",
-      "place": "Institut du monde arabe-Tourcoing",
-      "town": "Tourcoing",
-      "kind": "culture",
-      "url": "https://openagenda.com/institut-du-monde-arabe-tourcoing/events/74626928_la-langue-arabe-en-europe-or-tarek-abouelgamal",
-      "source": "Institut du monde arabe-Tourcoing",
-      "age": "Âge conseillé à vérifier",
-      "description": "À l’occasion de la journée de la langue arabe, célébrée chaque année à l’initiative de l’UNESCO, l’IMA-Tourcoing invite un grand spécialiste, Tarek Abouelgamal."
-    },
-    {
-      "title": "Cours d'initiation à la langue arabe | Tarek Abouelgamal",
-      "date": "sam. 19 décembre 2026 · 16 h 30",
-      "place": "Institut du monde arabe-Tourcoing",
-      "town": "Tourcoing",
-      "kind": "baby",
-      "url": "https://openagenda.com/institut-du-monde-arabe-tourcoing/events/5654038_cours-dinitiation-a-la-langue-arabe-or-tarek-abouelgamal",
-      "source": "Institut du monde arabe-Tourcoing",
-      "age": "Âge indiqué : 0–99 ans",
-      "description": "Lors de ce cours d’intitiation, Tarek Abouelgamal propose de vous donner quelques bases de conversation et les principes généraux qui régissent la langue arabe."
-    },
-    {
       "title": "Concert de Noël",
       "date": "sam. 19 décembre 2026 · 20 h 00",
       "place": "Auditorium du Nouveau Siècle",
@@ -607,17 +618,6 @@
       "description": "Stage Adultes - session d'automne"
     },
     {
-      "title": "Brunch | Street food tunisienne",
-      "date": "dim. 17 janvier 2027 · 13 h 00",
-      "place": "Institut du monde arabe-Tourcoing",
-      "town": "Tourcoing",
-      "kind": "culture",
-      "url": "https://openagenda.com/institut-du-monde-arabe-tourcoing/events/69553608_brunch-or-street-food-tunisienne",
-      "source": "Institut du monde arabe-Tourcoing",
-      "age": "Âge conseillé à vérifier",
-      "description": "La street food tunisienne, une mémoire sociale et culinaire (Ed. Bande-organisée, 2026) est un livre de recettes consacré à ces cuisines populaires."
-    },
-    {
       "title": "Jam Session",
       "date": "mer. 20 janvier 2027 · 20 h 30",
       "place": "La malterie",
@@ -627,6 +627,50 @@
       "source": "Vieux-Lille",
       "age": "Âge conseillé à vérifier",
       "description": "Les jam sessions du Conservatoire sont de retour à la malterie !"
+    },
+    {
+      "title": "Please stand up",
+      "date": "ven. 22 janvier 2027 · 20 h 00",
+      "place": "Salle Malraux",
+      "town": "Lambersart",
+      "kind": "culture",
+      "url": "https://openagenda.com/ville-de-lambersart/events/98394690_please-stand-up-3746146",
+      "source": "Ville de Lambersart",
+      "age": "Âge conseillé à vérifier",
+      "description": "Festival Lambers'art du rire"
+    },
+    {
+      "title": "Tremplin des nouveaux talents",
+      "date": "sam. 23 janvier 2027 · 20 h 00",
+      "place": "Salle Malraux",
+      "town": "Lambersart",
+      "kind": "culture",
+      "url": "https://openagenda.com/ville-de-lambersart/events/54597186_tremplin-des-nouveaux-talents-7597778",
+      "source": "Ville de Lambersart",
+      "age": "Âge conseillé à vérifier",
+      "description": "Festival Lambers'art du rire"
+    },
+    {
+      "title": "\"Y’a de la joie\" de Michaël Hirsch",
+      "date": "dim. 24 janvier 2027 · 17 h 00",
+      "place": "Salle Malraux",
+      "town": "Lambersart",
+      "kind": "culture",
+      "url": "https://openagenda.com/ville-de-lambersart/events/79525512_ya-de-la-joie-de-michael-hirsch",
+      "source": "Ville de Lambersart",
+      "age": "Âge conseillé à vérifier",
+      "description": "Festival Lambers'art du rire"
+    },
+    {
+      "title": "J’aurais voulu être Jeff Bezos",
+      "date": "sam. 13 février 2027 · 20 h 00",
+      "place": "Salle Malraux",
+      "town": "Lambersart",
+      "kind": "culture",
+      "url": "https://openagenda.com/ville-de-lambersart/events/60337292_jaurais-voulu-etre-jeff-bezos-700130",
+      "source": "Ville de Lambersart",
+      "age": "Âge conseillé à vérifier",
+      "description": "Collectif P4- Arthur Viadieu"
     },
     {
       "title": "Jam Session",
@@ -640,6 +684,17 @@
       "description": "Les jam sessions du Conservatoire sont de retour à la malterie !"
     },
     {
+      "title": "The Spinning Wheel ou les heures du quotidien",
+      "date": "mer. 17 mars 2027 · 20 h 00",
+      "place": "Salle Malraux",
+      "town": "Lambersart",
+      "kind": "culture",
+      "url": "https://openagenda.com/ville-de-lambersart/events/70468082_the-spinning-wheel-ou-les-heures-du-quotidien-6299256",
+      "source": "Ville de Lambersart",
+      "age": "Âge conseillé à vérifier",
+      "description": "Concert avec The Kraken Consort, en partenariat avec l’Atelier Lyrique de Tourcoing"
+    },
+    {
       "title": "Jam Session",
       "date": "mer. 17 mars 2027 · 20 h 30",
       "place": "La malterie",
@@ -649,6 +704,17 @@
       "source": "Vieux-Lille",
       "age": "Âge conseillé à vérifier",
       "description": "Les jam sessions du Conservatoire sont de retour à la malterie !"
+    },
+    {
+      "title": "Canopée",
+      "date": "sam. 10 avril 2027 · 20 h 00",
+      "place": "Salle Malraux",
+      "town": "Lambersart",
+      "kind": "culture",
+      "url": "https://openagenda.com/ville-de-lambersart/events/56426218_canopee-3411406",
+      "source": "Ville de Lambersart",
+      "age": "Âge conseillé à vérifier",
+      "description": "de et avec Boris Vigneron"
     },
     {
       "title": "Jam Session",
