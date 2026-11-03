@@ -1,28 +1,6 @@
 {
-  "updatedAt": "2026-11-02T18:09:10.138579+00:00",
+  "updatedAt": "2026-11-03T06:10:36.484406+00:00",
   "events": [
-    {
-      "title": "OUVERTURE DU MOIS DU DOC - Projection LA VOISINE IDÉALE",
-      "date": "lun. 2 novembre 2026 · 19 h 30",
-      "place": "Auditorium du Palais des Beaux-Arts",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/ville-de-lille/events/31428589_ouverture-du-mois-du-doc-projection-la-voisine-ideale",
-      "source": "Ville de Lille",
-      "age": "Âge indiqué : 16–99 ans",
-      "description": "Heure Exquise ! ouvre ce Mois du Film documentaire en Hauts-de-France avec \"LA VOISINE IDÉALE\" en présence de l'équipe d'Images en Bibliothèques, association historique organisatrice de l'événement."
-    },
-    {
-      "title": "Schur",
-      "date": "lun. 2 novembre 2026 · 20 h 30",
-      "place": "La Bulle Café",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/ville-de-lille/events/48157743_schur",
-      "source": "Ville de Lille",
-      "age": "Âge conseillé à vérifier",
-      "description": "Retrouvez Schur, l’artiste indie-rock du Connecticut revient avec sa fusion unique d’énergie rock, de rythmes hip-hop et de vibrations reggae."
-    },
     {
       "title": "Ateliers bien-être parents-enfants",
       "date": "mar. 3 novembre 2026 · 09 h 30",
@@ -77,6 +55,17 @@
       "source": "Métropole Européenne de Lille",
       "age": "Âge conseillé à vérifier",
       "description": "En novembre et décembre 2026, plusieurs rendez-vous permettront de redécouvrir le parcours, les combats et l'héritage de Roger Salengro."
+    },
+    {
+      "title": "Bière A Lille 2026 @ Le Musical",
+      "date": "mar. 3 novembre 2026 · 18 h 00",
+      "place": "le musical",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/max-fb100003037778845/events/90346533_biere-a-lille-2026-le-musical",
+      "source": "Wattrelos Tourisme",
+      "age": "Âge indiqué : 18–99 ans",
+      "description": "Daddy brew, Brussel Beer Project, 3:6:9, Spontanerie, Outer range, Fauve, Fusion, Prizm,kight clubbers, retro gaming, D3sty N0v4, Fish2P, Olif & Zoymista."
     },
     {
       "title": "L'affaire Salengro",
@@ -167,17 +156,6 @@
       "description": "Exposition participative portée par l'assocation Les Partageurs."
     },
     {
-      "title": "Petite poule rousse",
-      "date": "mer. 4 novembre 2026 · 10 h 30",
-      "place": "Ferme Pédagogique Marcel Dhénin",
-      "town": "Lille",
-      "kind": "baby",
-      "url": "https://openagenda.com/nature-lille/events/563347_petite-poule-rousse",
-      "source": "Nature à Lille",
-      "age": "Âge indiqué : 3–99 ans",
-      "description": "Les animaux de la ferme"
-    },
-    {
       "title": "Tous au Tire-Laine !",
       "date": "jeu. 5 novembre 2026 · 19 h 00",
       "place": "Le Tire-Laine",
@@ -253,17 +231,6 @@
       "source": "Médiathèque de Roubaix",
       "age": "Âge conseillé à vérifier",
       "description": "Racontées"
-    },
-    {
-      "title": "Mythes en métamorphoses - 2",
-      "date": "mar. 10 novembre 2026 · 13 h 00",
-      "place": "Opéra de Lille",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/la-culture-en-continu/events/9025249_mythes-en-metamorphoses-2",
-      "source": "L'été à Lille",
-      "age": "Âge conseillé à vérifier",
-      "description": "Debussy, Szymanowski"
     },
     {
       "title": "La Baleine Tatouée - Compagnie du Bonjour",
@@ -387,17 +354,6 @@
       "description": "Atelier de groupe"
     },
     {
-      "title": "Prise de bec",
-      "date": "dim. 15 novembre 2026 · 14 h 30",
-      "place": "Ferme Pédagogique Marcel Dhénin",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/nature-lille/events/85471115_prise-de-bec",
-      "source": "Nature à Lille",
-      "age": "Âge indiqué : 5–99 ans",
-      "description": "Les oiseaux"
-    },
-    {
       "title": "Conte Musical Baba Yaga",
       "date": "dim. 15 novembre 2026 · 17 h 00",
       "place": "Auditorium du Conservatoire de Lille",
@@ -418,17 +374,6 @@
       "source": "Lille-Centre",
       "age": "Âge indiqué : 4–7 ans",
       "description": "Vous explorez avec votre bibliothécaire des albums, contes et légendes pour les enfants de 4 à 7 ans. Ce temps de lecture prépare vos enfants au plaisir de lire et laisse une place à l’imaginaire !"
-    },
-    {
-      "title": "Mission domestication !",
-      "date": "mer. 18 novembre 2026 · 14 h 30",
-      "place": "Ferme Pédagogique Marcel Dhénin",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/nature-lille/events/32969582_mission-domestication",
-      "source": "Nature à Lille",
-      "age": "Âge indiqué : 7–99 ans",
-      "description": "Les animaux de la ferme"
     },
     {
       "title": "Mon bestiaire étoilé !",
@@ -596,28 +541,6 @@
       "description": "Une aventure musicale avec les cornistes des classes de Lille - Bienvenue chez Mozart"
     },
     {
-      "title": "La laine : une grande aventure",
-      "date": "mer. 9 décembre 2026 · 14 h 30",
-      "place": "Ferme Pédagogique Marcel Dhénin",
-      "town": "Lille",
-      "kind": "baby",
-      "url": "https://openagenda.com/nature-lille/events/53728564_la-laine-une-grande-aventure",
-      "source": "Nature à Lille",
-      "age": "Âge indiqué : 3–99 ans",
-      "description": "Les moutons"
-    },
-    {
-      "title": "Décoration d'hiver",
-      "date": "mer. 16 décembre 2026 · 10 h 30",
-      "place": "Ferme Pédagogique Marcel Dhénin",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/nature-lille/events/92431435_decoration-dhiver",
-      "source": "Nature à Lille",
-      "age": "Âge indiqué : 5–99 ans",
-      "description": "Créativité"
-    },
-    {
       "title": "Concert des classes de Saxophones des Conservatoires de Lille et Lens",
       "date": "mer. 16 décembre 2026 · 19 h 00",
       "place": "Auditorium du Conservatoire de Lille",
@@ -649,17 +572,6 @@
       "source": "Vieux-Lille",
       "age": "Âge conseillé à vérifier",
       "description": "Concert de Noël du Chœur Régional Hauts-de-France 🎄✨"
-    },
-    {
-      "title": "Biscuits d'hiver",
-      "date": "jeu. 31 décembre 2026 · 14 h 30",
-      "place": "Ferme Pédagogique Marcel Dhénin",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/nature-lille/events/12462925_biscuits-dhiver-8709811",
-      "source": "Nature à Lille",
-      "age": "Âge indiqué : 5–99 ans",
-      "description": "Bien se nourrir"
     },
     {
       "title": "Encre chimérique !",
