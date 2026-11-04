@@ -1,203 +1,71 @@
 {
-  "updatedAt": "2026-11-04T06:16:12.317636+00:00",
+  "updatedAt": "2026-11-04T18:05:52.218609+00:00",
   "events": [
     {
-      "title": "Femmes artistes, autodidactes, affranchies : Trajectoires, récits et enjeux institutionnels",
-      "date": "mer. 4 novembre 2026 · 09 h 30",
-      "place": "LaM",
-      "town": "Villeneuve-d'Ascq",
-      "kind": "culture",
-      "url": "https://openagenda.com/musee-lam/events/22671189_femmes-artistes-autodidactes-affranchies-trajectoires-recits-et-enjeux-institutionnels",
-      "source": "Office de Tourisme de la Métropole Européenne de Lille",
-      "age": "Âge conseillé à vérifier",
-      "description": "Deux journées d'études qui explorent les liens entre les femmes artistes et les marges de la création."
-    },
-    {
-      "title": "Femmes artistes, autodidactes, affranchies : Trajectoires, récits et enjeux institutionnels",
-      "date": "mer. 4 novembre 2026 · 09 h 30",
-      "place": "LaM",
-      "town": "Villeneuve-d'Ascq",
-      "kind": "culture",
-      "url": "https://openagenda.com/musee-lam/events/59247929_singulieres-colloque",
-      "source": "Office de Tourisme de la Métropole Européenne de Lille",
-      "age": "Âge conseillé à vérifier",
-      "description": "Deux journées d'études qui explorent les liens entre les femmes artistes et les marges de la création."
-    },
-    {
-      "title": "L'art, un bien en commun",
-      "date": "mer. 4 novembre 2026 · 10 h 00",
-      "place": "médiathèque Lille-Moulins",
+      "title": "16 ans du Musical: Jam du musical",
+      "date": "mer. 4 novembre 2026 · 20 h 00",
+      "place": "le musical",
       "town": "Lille",
       "kind": "culture",
-      "url": "https://openagenda.com/bml/events/46531849_art-et-sante-mentale",
+      "url": "https://openagenda.com/max-fb100003037778845/events/57597375_16-ans-du-musical-jam-du-musical",
+      "source": "Office de Tourisme de la Métropole Européenne de Lille",
+      "age": "Âge indiqué : 18–99 ans",
+      "description": "Viens fêter les 16 ans du Musical et on se fait la plus ouf des jams ! Des musiciens avec le smile toujours près à jamer et qui n'attendent que toi ;)"
+    },
+    {
+      "title": "V.I.B. Very Important Baby",
+      "date": "jeu. 5 novembre 2026 · 10 h 00",
+      "place": "Médiathèque André Malraux",
+      "town": "Tourcoing",
+      "kind": "baby",
+      "url": "https://openagenda.com/reseau-des-idees-mediatheques-de-tourcoing/events/89680745_vib-very-important-baby-35726",
+      "source": "Le réseau des bibliothèques et médiathèques de la MEL",
+      "age": "Âge indiqué : 0–3 ans",
+      "description": "Des jeux, des livres, une musique douce et une bibliothécaire aux petits soins auprès des plus jeunes et de leurs parents. Tous les jeudis, de 10h à 11h30."
+    },
+    {
+      "title": "\"À quoi sert l’histoire de la philosophie ?\"",
+      "date": "jeu. 5 novembre 2026 · 14 h 30",
+      "place": "Médiathèque Jean-Lévy - Lille",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/bml/events/81338812_a-quoi-sert-lhistoire-de-la-philosophie",
       "source": "Le réseau des bibliothèques et médiathèques de la MEL",
       "age": "Âge conseillé à vérifier",
-      "description": "Exposition participative portée par l'assocation Les Partageurs."
+      "description": "L’examen des doctrines du passé occupe une place importante dans l’enseignement de la philosophie en France. Mais à quoi sert l’histoire de la philosophie ?"
     },
     {
-      "title": "« Je ne veux pas dessiner un mouton ! »",
-      "date": "mer. 4 novembre 2026 · 10 h 00",
-      "place": "Théâtre Le Grand Bleu",
+      "title": "L'hôtel de ville et ses maires",
+      "date": "jeu. 5 novembre 2026 · 16 h 00",
+      "place": "Hôtel de Ville",
       "town": "Lille",
       "kind": "culture",
-      "url": "https://openagenda.com/bois-blancs/events/29820225_je-ne-veux-pas-dessiner-un-mouton-5221418",
-      "source": "Ville de Lille",
-      "age": "Âge indiqué : 4–99 ans",
-      "description": "Les métamorphoses d'un clown accomplies sous nos yeux !"
+      "url": "https://openagenda.com/ville-dart-et-dhistoire-de-lille/events/67480504_lhotel-de-ville-et-ses-maires",
+      "source": "Wattrelos Tourisme",
+      "age": "Âge indiqué : 16–99 ans",
+      "description": "Découvrez l'hôtel de ville et l'empreinte des maires qui s'y sont succédé."
     },
     {
-      "title": "Petite poule rousse",
-      "date": "mer. 4 novembre 2026 · 10 h 30",
-      "place": "Ferme Pédagogique Marcel Dhénin",
-      "town": "Lille",
-      "kind": "baby",
-      "url": "https://openagenda.com/nature-lille/events/563347_petite-poule-rousse",
-      "source": "Ville de Lille",
-      "age": "Âge indiqué : 3–99 ans",
-      "description": "Les animaux de la ferme"
-    },
-    {
-      "title": "Éveil musical à la bibliothèque",
-      "date": "mer. 4 novembre 2026 · 10 h 30",
-      "place": "Médiathèque Vieux-Lille",
-      "town": "Lille",
-      "kind": "baby",
-      "url": "https://openagenda.com/bml/events/44296993_eveil-musical-a-la-bibliotheque-6832783",
-      "source": "Ville de Lille",
-      "age": "Âge indiqué : 0–3 ans",
-      "description": "Jeux musicaux et jeux de mots (pour les 0-3 ans) !"
-    },
-    {
-      "title": "Mais où vivent les chimères ?",
-      "date": "mer. 4 novembre 2026 · 14 h 00",
-      "place": "WAAO - Centre d'architecture et d'urbanisme",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/ville-dart-et-dhistoire-de-lille/events/79718017_mais-ou-vivent-les-chimeres",
-      "source": "Ville de Lille",
-      "age": "Âge indiqué : 5–99 ans",
-      "description": "Participez à un atelier à destination des familles autour des habitats des chimères et des monstres."
-    },
-    {
-      "title": "5ème édition des Enfants à l'Œuvre !",
-      "date": "mer. 4 novembre 2026 · 14 h 00",
-      "place": "maison Folie Wazemmes",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/maisons-folie/events/77852634_5eme-edition-des-enfants-a-loeuvre",
-      "source": "Ville de Lille",
-      "age": "Âge conseillé à vérifier",
-      "description": "Et si les artistes de demain avaient quelque chose à vous dire aujourd'hui ?"
-    },
-    {
-      "title": "Atelier \"La troisième image\"",
-      "date": "mer. 4 novembre 2026 · 14 h 00",
-      "place": "La pouponnière",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/ville-de-lille/events/357246_atelier-la-troisieme-image-2186543",
-      "source": "Ville de Lille",
-      "age": "Âge indiqué : 12–99 ans",
-      "description": "Cet automne, la Pouponnière vous invite à vivre des expériences, partager des rencontres et découvrir des projets où les histoires d’hier nourrissent les créations d’aujourd’hui."
-    },
-    {
-      "title": "Atelier \"La troisième image\"",
-      "date": "mer. 4 novembre 2026 · 14 h 00",
-      "place": "La pouponnière",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/la-culture-en-continu/events/13156066_atelier-la-troisieme-image-9809637",
-      "source": "Ville de Lille",
-      "age": "Âge indiqué : 12–99 ans",
-      "description": "Cet automne, la Pouponnière vous invite à vivre des expériences, partager des rencontres et découvrir des projets où les histoires d’hier nourrissent les créations d’aujourd’hui."
-    },
-    {
-      "title": "Atelier \"La troisième image\"",
-      "date": "mer. 4 novembre 2026 · 14 h 00",
-      "place": "La Pouponnière",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/lapouponniere/events/57007866_atelier-la-troisieme-image",
-      "source": "Ville de Lille",
-      "age": "Âge indiqué : 12–99 ans",
-      "description": "Cet automne, la Pouponnière vous invite à vivre des expériences, partager des rencontres et découvrir des projets où les histoires d’hier nourrissent les créations d’aujourd’hui."
-    },
-    {
-      "title": "\"Philosophie de la vieillesse\"",
-      "date": "mer. 4 novembre 2026 · 14 h 15",
+      "title": "\"Le vrai du beau. Regards sur la peinture\"",
+      "date": "jeu. 5 novembre 2026 · 16 h 45",
       "place": "Médiathèque Jean-Lévy - Lille",
       "town": "Lille",
       "kind": "culture",
-      "url": "https://openagenda.com/bml/events/6135771_philosophie-de-la-vieillesse",
-      "source": "Ville de Lille",
+      "url": "https://openagenda.com/bml/events/52729324_le-vrai-du-beau-regards-sur-la-peinture",
+      "source": "Le réseau des bibliothèques et médiathèques de la MEL",
       "age": "Âge conseillé à vérifier",
-      "description": "À partir d’une analyse d’écrits de la tradition philosophique et d’une approche nourrie de diverses disciplines, B. Quentin explore dans leur complexité, la vieillesse et l’expérience de vieillir."
+      "description": "On dit de la philosophie qu’elle nous apprend à vivre. La peinture, elle, en tant qu’art visuel, nous apprendrait à voir. Ou plutôt à regarder."
     },
     {
-      "title": "Citéphilo - Philosophie de la vieillesse",
-      "date": "mer. 4 novembre 2026 · 14 h 15",
-      "place": "Médiathèque Jean-Lévy - Lille",
+      "title": "Rencontre avec Réginald Gaillard, poète, éditeur.",
+      "date": "jeu. 5 novembre 2026 · 18 h 15",
+      "place": "Médiathèque de Saint-Maurice Pellevoisin",
       "town": "Lille",
       "kind": "culture",
-      "url": "https://openagenda.com/ville-de-lille/events/18808046_citephilo-philosophie-de-la-vieillesse",
-      "source": "Ville de Lille",
-      "age": "Âge conseillé à vérifier",
-      "description": "Philosophie de la vieillesse par Bertrand Quentin"
-    },
-    {
-      "title": "Résidence Archipel #10 - Fleur MAUTUIT",
-      "date": "mer. 4 novembre 2026 · 14 h 30",
-      "place": "Centre d'Arts Plastiques et Visuels",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/la-culture-en-continu/events/48479412_residence-archipel-10-fleur-mautuit",
-      "source": "Ville de Lille",
-      "age": "Âge conseillé à vérifier",
-      "description": "Venez rencontrer l'artiste et découvrir son atelier éphémère"
-    },
-    {
-      "title": "Battement d'ailes",
-      "date": "mer. 4 novembre 2026 · 14 h 30",
-      "place": "Théâtre de la Verrière",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/la-culture-en-continu/events/25847758_battement-dailes-4275916",
-      "source": "Ville de Lille",
-      "age": "Âge indiqué : 5–99 ans",
-      "description": "Par la marionnette, la musique et des images poétiques, le spectacle esquisse une métamorphose intime : celle d’un être qui, malgré la perte, retrouve peu à peu un élan..."
-    },
-    {
-      "title": "Citéphilo - Voir le monde autrement\nLa cécité expliquée aux voyants \nou à ceux qui se croient tels",
-      "date": "mer. 4 novembre 2026 · 16 h 30",
-      "place": "Médiathèque Jean-Lévy - Lille",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/ville-de-lille/events/81999454_citephilo-voir-le-monde-autrement-la-cecite-expliquee-aux-voyants-ou-a-ceux-qui-se-croient-tels",
-      "source": "Ville de Lille",
-      "age": "Âge conseillé à vérifier",
-      "description": "Voir le monde autrement La cécité expliquée aux voyants  ou à ceux qui se croient tels par Michel Terestchenko"
-    },
-    {
-      "title": "\"Voir le monde autrement La cécité expliquée aux voyants ou à ceux qui se croient tels\"",
-      "date": "mer. 4 novembre 2026 · 16 h 30",
-      "place": "Médiathèque Jean-Lévy - Lille",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/bml/events/91080664_voir-le-monde-autrement-la-cecite-expliquee-aux-voyants-ou-a-ceux-qui-se-croient-tels",
-      "source": "Ville de Lille",
-      "age": "Âge conseillé à vérifier",
-      "description": "Pour la philosophie classique, les yeux sont le « symbole de l’âme »,de sorte que la vue semble être la condition indépassable du penser."
-    },
-    {
-      "title": "Dispositif \"Petits Travaux\" de la MEL : êtes-vous éligible ?",
-      "date": "mer. 4 novembre 2026 · 16 h 30",
-      "place": "La Maison de l'Habitat Durable",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/mhd/events/73248384_dispositif-petits-travaux-de-la-mel-etes-vous-eligible-9456288",
-      "source": "Ville de Lille",
-      "age": "Âge conseillé à vérifier",
-      "description": "Atelier"
+      "url": "https://openagenda.com/bml/events/58125052_rencontre-avec-reginald-gaillard-poete-editeur",
+      "source": "Le réseau des bibliothèques et médiathèques de la MEL",
+      "age": "Âge indiqué : 18–99 ans",
+      "description": "Comment la poésie transforme notre regard sur le monde."
     },
     {
       "title": "Tous au Tire-Laine !",
@@ -211,6 +79,28 @@
       "description": "Le bal de la compagnie"
     },
     {
+      "title": "\"Rakky Nouha. La musique et les miettes\"",
+      "date": "jeu. 5 novembre 2026 · 19 h 00",
+      "place": "Médiathèque Jean-Lévy - Lille",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/bml/events/41720632_rakky-nouha-la-musique-et-les-miettes",
+      "source": "Le réseau des bibliothèques et médiathèques de la MEL",
+      "age": "Âge conseillé à vérifier",
+      "description": "Musicienne, compositrice, cheffe d’orchestre de talent, Rakki Nouha se déroba sans cesse aux étiquettes avant de disparaître soudainement en 2025."
+    },
+    {
+      "title": "Eveil des sens",
+      "date": "ven. 6 novembre 2026 · 18 h 00",
+      "place": "Médiathèque Lille Wazemmes",
+      "town": "Lille",
+      "kind": "baby",
+      "url": "https://openagenda.com/bml/events/2968294_eveil-des-sens-4226",
+      "source": "Le réseau des bibliothèques et médiathèques de la MEL",
+      "age": "Âge indiqué : 18–99 ans",
+      "description": "Lecture en lien avec l'exposition Le Boudoir d'Edas"
+    },
+    {
       "title": "La Grande Braderie de la Médiathèque de Roubaix",
       "date": "sam. 7 novembre 2026 · 09 h 00",
       "place": "Médiathèque de Roubaix - La Grand-Plage",
@@ -220,6 +110,50 @@
       "source": "Médiathèque de Roubaix",
       "age": "Âge conseillé à vérifier",
       "description": "Toute la journée, la Médiathèque organise une grande vente pour vous permettre d'acheter à de tout petits prix des livres, des disques, des vinyles et des revues retirés de ses collections ou issus…"
+    },
+    {
+      "title": "Café langue anglais",
+      "date": "sam. 7 novembre 2026 · 10 h 30",
+      "place": "Médiathèque Andrée Chedid",
+      "town": "Tourcoing",
+      "kind": "culture",
+      "url": "https://openagenda.com/reseau-des-idees-mediatheques-de-tourcoing/events/84384236_cafe-langue-anglais-9567587",
+      "source": "Le réseau des bibliothèques et médiathèques de la MEL",
+      "age": "Âge indiqué : 14–99 ans",
+      "description": "The café langue is back ! Retrouvez votre rendez-vous en langue anglaise un samedi par mois à la médiathèque Andrée Chedid !"
+    },
+    {
+      "title": "Café lecture",
+      "date": "sam. 7 novembre 2026 · 10 h 30",
+      "place": "Médiathèque André Malraux",
+      "town": "Tourcoing",
+      "kind": "culture",
+      "url": "https://openagenda.com/reseau-des-idees-mediatheques-de-tourcoing/events/88383615_cafe-lecture-5768287",
+      "source": "Le réseau des bibliothèques et médiathèques de la MEL",
+      "age": "Âge indiqué : 16–99 ans",
+      "description": "Découvrez le nouveau rendez-vous de la médiathèque André Malraux et venez partager vos coups de cœur littéraires autour d'un café dans une ambiance conviviale."
+    },
+    {
+      "title": "Les P´tits Kili",
+      "date": "sam. 7 novembre 2026 · 10 h 30",
+      "place": "Médiathèque André Malraux",
+      "town": "Tourcoing",
+      "kind": "baby",
+      "url": "https://openagenda.com/reseau-des-idees-mediatheques-de-tourcoing/events/8346287_les-ptits-kili-4477",
+      "source": "Le réseau des bibliothèques et médiathèques de la MEL",
+      "age": "Âge indiqué : 0–3 ans",
+      "description": "Une heure du conte pour les tout-petits. Des mots, des images, des couleurs… La découverte des livres et de la littérature dès le plus jeune âge."
+    },
+    {
+      "title": "Fotopaton",
+      "date": "sam. 7 novembre 2026 · 13 h 30",
+      "place": "Ludothèque de Tourcoing",
+      "town": "Tourcoing",
+      "kind": "culture",
+      "url": "https://openagenda.com/reseau-des-idees-mediatheques-de-tourcoing/events/3319701_fotopaton",
+      "source": "Le réseau des bibliothèques et médiathèques de la MEL",
+      "age": "Âge indiqué : 5–99 ans",
+      "description": "Qu'est ce que le Fotopaton ? Il s'agit d'une cabine bien particulière dans laquelle une prise de vue est réalisée par un artiste associé, puis par la suite par un usager croqueur."
     },
     {
       "title": "Gang des dévoreurs",
