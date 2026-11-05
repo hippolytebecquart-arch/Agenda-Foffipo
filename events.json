@@ -1,17 +1,6 @@
 {
-  "updatedAt": "2026-11-04T18:05:52.218609+00:00",
+  "updatedAt": "2026-11-05T06:17:27.421182+00:00",
   "events": [
-    {
-      "title": "16 ans du Musical: Jam du musical",
-      "date": "mer. 4 novembre 2026 · 20 h 00",
-      "place": "le musical",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/max-fb100003037778845/events/57597375_16-ans-du-musical-jam-du-musical",
-      "source": "Office de Tourisme de la Métropole Européenne de Lille",
-      "age": "Âge indiqué : 18–99 ans",
-      "description": "Viens fêter les 16 ans du Musical et on se fait la plus ouf des jams ! Des musiciens avec le smile toujours près à jamer et qui n'attendent que toi ;)"
-    },
     {
       "title": "V.I.B. Very Important Baby",
       "date": "jeu. 5 novembre 2026 · 10 h 00",
@@ -22,6 +11,28 @@
       "source": "Le réseau des bibliothèques et médiathèques de la MEL",
       "age": "Âge indiqué : 0–3 ans",
       "description": "Des jeux, des livres, une musique douce et une bibliothécaire aux petits soins auprès des plus jeunes et de leurs parents. Tous les jeudis, de 10h à 11h30."
+    },
+    {
+      "title": "Au Cœur lillois cherche son staff pour le marché de Noël",
+      "date": "jeu. 5 novembre 2026 · 14 h 00",
+      "place": "LILLE AVENIRS",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/ville-de-lille/events/53825535_au-coeur-lillois-cherche-son-staff-pour-le-marche-de-noel",
+      "source": "Ville de Lille",
+      "age": "Âge conseillé à vérifier",
+      "description": "Plusieurs postes d'équipiers polyvalents"
+    },
+    {
+      "title": "Citéphilo - Une histoire de la philosophie",
+      "date": "jeu. 5 novembre 2026 · 14 h 30",
+      "place": "Médiathèque Jean-Lévy - Lille",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/ville-de-lille/events/33292574_citephilo-une-histoire-de-la-philosophie",
+      "source": "Ville de Lille",
+      "age": "Âge conseillé à vérifier",
+      "description": "Une histoire de la philosophie par Pierre-François Moreau et Géraldine Lepan"
     },
     {
       "title": "\"À quoi sert l’histoire de la philosophie ?\"",
@@ -44,6 +55,17 @@
       "source": "Wattrelos Tourisme",
       "age": "Âge indiqué : 16–99 ans",
       "description": "Découvrez l'hôtel de ville et l'empreinte des maires qui s'y sont succédé."
+    },
+    {
+      "title": "Citéphilo - Le vrai du beau. \nRegards sur la peinture",
+      "date": "jeu. 5 novembre 2026 · 16 h 45",
+      "place": "Médiathèque Jean-Lévy - Lille",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/ville-de-lille/events/17300327_citephilo-le-vrai-du-beau-regards-sur-la-peinture",
+      "source": "Ville de Lille",
+      "age": "Âge conseillé à vérifier",
+      "description": "Le vrai du beau Regards sur la peinture par Paul Audi"
     },
     {
       "title": "\"Le vrai du beau. Regards sur la peinture\"",
