@@ -1,6 +1,61 @@
 {
-  "updatedAt": "2026-11-05T18:01:02.087456+00:00",
+  "updatedAt": "2026-11-06T06:16:35.756307+00:00",
   "events": [
+    {
+      "title": "Collecte nationale des Banques Alimentaires",
+      "date": "ven. 6 novembre 2026 · 08 h 00",
+      "place": "Lille",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/ville-de-lille/events/18767535_collecte-nationale-des-banques-alimentaires-2696879",
+      "source": "Ville de Lille",
+      "age": "Âge conseillé à vérifier",
+      "description": "Rendez-vous les 6, 7 et 8 novembre 2026 dans le Nord"
+    },
+    {
+      "title": "Midi regard",
+      "date": "ven. 6 novembre 2026 · 12 h 30",
+      "place": "Palais des beaux arts",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/vdl-palais-des-beaux-arts/events/3897485_midi-regard-6723718",
+      "source": "Wattrelos Tourisme",
+      "age": "Âge indiqué : 7–99 ans",
+      "description": "Cinq tableaux pour penser notre monde"
+    },
+    {
+      "title": "Auto-rénovation accompagnée : l’isolation",
+      "date": "ven. 6 novembre 2026 · 14 h 00",
+      "place": "Lille",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/mhd/events/94191363_auto-renovation-accompagnee-lisolation",
+      "source": "Ville de Lille",
+      "age": "Âge conseillé à vérifier",
+      "description": "Atelier"
+    },
+    {
+      "title": "Citéphilo - Penser et résister",
+      "date": "ven. 6 novembre 2026 · 15 h 30",
+      "place": "Palais des Beaux-Arts - Salle Valmy",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/ville-de-lille/events/84033882_citephilo-penser-et-resister",
+      "source": "Ville de Lille",
+      "age": "Âge conseillé à vérifier",
+      "description": "Penser et résister avec Herbert Marcus par Haud Guéguen"
+    },
+    {
+      "title": "Les Rencontres pro",
+      "date": "ven. 6 novembre 2026 · 16 h 00",
+      "place": "La Condition Publique - Roubaix",
+      "town": "Roubaix",
+      "kind": "culture",
+      "url": "https://openagenda.com/la-condition-publique/events/18552216_les-rencontres-pro-9178201",
+      "source": "Wattrelos Tourisme",
+      "age": "Âge indiqué : 15–30 ans",
+      "description": "Ismail Said Mohamed Boun- Fondateur de la Librairie Combo"
+    },
     {
       "title": "Eveil des sens",
       "date": "ven. 6 novembre 2026 · 18 h 00",
