@@ -1,71 +1,93 @@
 {
-  "updatedAt": "2026-11-06T06:16:35.756307+00:00",
+  "updatedAt": "2026-11-06T18:00:04.198902+00:00",
   "events": [
     {
-      "title": "Collecte nationale des Banques Alimentaires",
-      "date": "ven. 6 novembre 2026 · 08 h 00",
-      "place": "Lille",
+      "title": "Lille Leaders Meet, afterwork business et tech",
+      "date": "ven. 6 novembre 2026 · 19 h 00",
+      "place": "Mesa Rooftop",
       "town": "Lille",
       "kind": "culture",
-      "url": "https://openagenda.com/ville-de-lille/events/18767535_collecte-nationale-des-banques-alimentaires-2696879",
+      "url": "https://openagenda.com/ville-de-lille/events/85463453_lille-leaders-meet-afterwork-business-et-tech-9696454",
       "source": "Ville de Lille",
       "age": "Âge conseillé à vérifier",
-      "description": "Rendez-vous les 6, 7 et 8 novembre 2026 dans le Nord"
+      "description": "Le club business et tech de la métropole lilloise. Afterwork mensuel au Mesa Rooftop, trente places, le premier vendredi du mois."
     },
     {
-      "title": "Midi regard",
-      "date": "ven. 6 novembre 2026 · 12 h 30",
-      "place": "Palais des beaux arts",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/vdl-palais-des-beaux-arts/events/3897485_midi-regard-6723718",
-      "source": "Wattrelos Tourisme",
-      "age": "Âge indiqué : 7–99 ans",
-      "description": "Cinq tableaux pour penser notre monde"
-    },
-    {
-      "title": "Auto-rénovation accompagnée : l’isolation",
-      "date": "ven. 6 novembre 2026 · 14 h 00",
-      "place": "Lille",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/mhd/events/94191363_auto-renovation-accompagnee-lisolation",
-      "source": "Ville de Lille",
-      "age": "Âge conseillé à vérifier",
-      "description": "Atelier"
-    },
-    {
-      "title": "Citéphilo - Penser et résister",
-      "date": "ven. 6 novembre 2026 · 15 h 30",
-      "place": "Palais des Beaux-Arts - Salle Valmy",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/ville-de-lille/events/84033882_citephilo-penser-et-resister",
-      "source": "Ville de Lille",
-      "age": "Âge conseillé à vérifier",
-      "description": "Penser et résister avec Herbert Marcus par Haud Guéguen"
-    },
-    {
-      "title": "Les Rencontres pro",
-      "date": "ven. 6 novembre 2026 · 16 h 00",
-      "place": "La Condition Publique - Roubaix",
-      "town": "Roubaix",
-      "kind": "culture",
-      "url": "https://openagenda.com/la-condition-publique/events/18552216_les-rencontres-pro-9178201",
-      "source": "Wattrelos Tourisme",
-      "age": "Âge indiqué : 15–30 ans",
-      "description": "Ismail Said Mohamed Boun- Fondateur de la Librairie Combo"
-    },
-    {
-      "title": "Eveil des sens",
-      "date": "ven. 6 novembre 2026 · 18 h 00",
-      "place": "Médiathèque Lille Wazemmes",
+      "title": "DARPAN",
+      "date": "ven. 6 novembre 2026 · 19 h 00",
+      "place": "Halle  aux Sucres",
       "town": "Lille",
       "kind": "baby",
-      "url": "https://openagenda.com/bml/events/2968294_eveil-des-sens-4226",
-      "source": "Le réseau des bibliothèques et médiathèques de la MEL",
-      "age": "Âge indiqué : 18–99 ans",
-      "description": "Lecture en lien avec l'exposition Le Boudoir d'Edas"
+      "url": "https://openagenda.com/ville-de-lille/events/27614251_darpan",
+      "source": "Ville de Lille",
+      "age": "Âge indiqué : 0–99 ans",
+      "description": "Spectacle de Danse Indienne a Lille le 07 Novembre 2026"
+    },
+    {
+      "title": "Didier Super (Metal) + Guests",
+      "date": "ven. 6 novembre 2026 · 20 h 00",
+      "place": "Le Bistrot de St So",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/bistrot-de-st-so/events/1059787_didier-super-metal-guests",
+      "source": "Ville de Lille",
+      "age": "Âge conseillé à vérifier",
+      "description": "Didier Super débarque au Bistrot de St So en version Metal ! Une soirée exceptionnelle avec des groupes locaux en guests."
+    },
+    {
+      "title": "Cerbère Coryphée & GZLVNR présentent : Release party Deûle + Canteleu + Ana Iesu",
+      "date": "ven. 6 novembre 2026 · 20 h 00",
+      "place": "La malterie",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/la-culture-en-continu/events/44607903_cerbere-coryphee-and-gzlvnr-presentent-release-party-deule-canteleu-ana-iesu-3030224",
+      "source": "Ville de Lille",
+      "age": "Âge conseillé à vérifier",
+      "description": "La release party du nouvel album de Deûle \"L'appel du vide\" aura lieu à La Malterie le 6 Novembre!"
+    },
+    {
+      "title": "concert : Darling Chouchou",
+      "date": "ven. 6 novembre 2026 · 20 h 00",
+      "place": "FLOW - Centre Eurorégional des Cultures Urbaines",
+      "town": "Lille",
+      "kind": "baby",
+      "url": "https://openagenda.com/flow/events/49968706_concert-darling-chouchou",
+      "source": "Ville de Lille",
+      "age": "Âge indiqué : 0–99 ans",
+      "description": "Retrouvez Darling Chouchou pour une soirée intimiste et pleine d'énergie au Flow !"
+    },
+    {
+      "title": "Redouane Bougheraba",
+      "date": "ven. 6 novembre 2026 · 20 h 00",
+      "place": "Zénith de Lille",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/la-culture-en-continu/events/43326778_redouane-bougheraba-2712932",
+      "source": "Ville de Lille",
+      "age": "Âge conseillé à vérifier",
+      "description": "Redouane revient avec un nouveau show le 6 novembre au Zénith de Lille !"
+    },
+    {
+      "title": "Le documentaire s’anime !",
+      "date": "ven. 6 novembre 2026 · 20 h 30",
+      "place": "L'hybride",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/la-culture-en-continu/events/72747087_le-documentaire-sanime-7853557",
+      "source": "Ville de Lille",
+      "age": "Âge indiqué : 16–99 ans",
+      "description": "Récit intime ou politique, témoignage historique ou quotidien croqué, venez découvrir de multiples formes du documentaire animé."
+    },
+    {
+      "title": "Dakeez",
+      "date": "ven. 6 novembre 2026 · 20 h 30",
+      "place": "Le Splendid",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/ville-de-lille/events/65113245_dakeez",
+      "source": "Ville de Lille",
+      "age": "Âge conseillé à vérifier",
+      "description": "Retrouvez Dakeez, l’artiste franco-italien qui redéfinit le R&B et la trapsoul. Ancien danseur d’élite pour Justin Bieber, il allie une maîtrise scénique hors norme à des mélodies envoûtantes."
     },
     {
       "title": "La Grande Braderie de la Médiathèque de Roubaix",
@@ -77,6 +99,28 @@
       "source": "Médiathèque de Roubaix",
       "age": "Âge conseillé à vérifier",
       "description": "Toute la journée, la Médiathèque organise une grande vente pour vous permettre d'acheter à de tout petits prix des livres, des disques, des vinyles et des revues retirés de ses collections ou issus…"
+    },
+    {
+      "title": "Citéphilo - Huit thèses sur le Mal. \nUne enquête morale",
+      "date": "sam. 7 novembre 2026 · 10 h 00",
+      "place": "Couvent des Dominicains",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/ville-de-lille/events/19839462_citephilo-huit-theses-sur-le-mal-une-enquete-morale",
+      "source": "Ville de Lille",
+      "age": "Âge conseillé à vérifier",
+      "description": "Huit thèses sur le Mal.  Une enquête morale par Hervé Vautrelle"
+    },
+    {
+      "title": "La Fabrique, les sciences et moi !",
+      "date": "sam. 7 novembre 2026 · 10 h 30",
+      "place": "Fabrique du Sud",
+      "town": "Lille",
+      "kind": "baby",
+      "url": "https://openagenda.com/lille-sud/events/45833026_la-fabrique-les-sciences-et-moi",
+      "source": "Ville de Lille",
+      "age": "Âge indiqué : 0–99 ans",
+      "description": "La Fabrique du Sud vous invite à explorer les sciences en famille à travers des ateliers ludiques, des expériences et de nombreuses découvertes"
     },
     {
       "title": "Café langue anglais",
@@ -112,6 +156,50 @@
       "description": "Une heure du conte pour les tout-petits. Des mots, des images, des couleurs… La découverte des livres et de la littérature dès le plus jeune âge."
     },
     {
+      "title": "Terre et Briques 2026 - Festival de céramiques",
+      "date": "sam. 7 novembre 2026 · 11 h 00",
+      "place": "Bazaar St-So",
+      "town": "Lille",
+      "kind": "baby",
+      "url": "https://openagenda.com/ville-de-lille/events/26822072_terre-et-briques-2026-festival-de-ceramiques",
+      "source": "Ville de Lille",
+      "age": "Âge indiqué : 0–121 ans",
+      "description": "Festival de céramiques des Hauts-de-France"
+    },
+    {
+      "title": "Silicate — Salon de l’image imprimée et de la microédition",
+      "date": "sam. 7 novembre 2026 · 11 h 00",
+      "place": "Centre d'Arts Plastiques et Visuels",
+      "town": "Lille",
+      "kind": "baby",
+      "url": "https://openagenda.com/ville-de-lille/events/34236451_silicate-salon-de-limage-imprimee-et-de-la-microedition",
+      "source": "Ville de Lille",
+      "age": "Âge indiqué : 1–99 ans",
+      "description": "Une vingtaine d’artistes invités, des livres d’artistes, des fanzines et des images imprimées à la main : Silicate célèbre la microédition et la création indépendante sous toutes ses formes."
+    },
+    {
+      "title": "Citéphilo - Injustices, racismes, discriminations",
+      "date": "sam. 7 novembre 2026 · 11 h 00",
+      "place": "Palais des Beaux-Arts - Salle Valmy",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/ville-de-lille/events/9377989_citephilo-injustices-racismes-discriminations",
+      "source": "Ville de Lille",
+      "age": "Âge conseillé à vérifier",
+      "description": "Injustices, racismes, discriminations de Magali Bessonne et Hanane Karimi"
+    },
+    {
+      "title": "Festival Bière à Lille",
+      "date": "sam. 7 novembre 2026 · 13 h 00",
+      "place": "Gare saint Sauveur",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/ville-de-lille/events/45408183_festival-biere-a-lille-193817",
+      "source": "Ville de Lille",
+      "age": "Âge conseillé à vérifier",
+      "description": "Le Festival Bière à Lille fait son grand retour du 2 au 8 novembre prochain : 50 événements dans la Métropole Lilloise et un week-end de clôture les 7 et 8 novembre à la Gare Saint-Sauveur de Lille."
+    },
+    {
       "title": "Fotopaton",
       "date": "sam. 7 novembre 2026 · 13 h 30",
       "place": "Ludothèque de Tourcoing",
@@ -121,6 +209,28 @@
       "source": "Le réseau des bibliothèques et médiathèques de la MEL",
       "age": "Âge indiqué : 5–99 ans",
       "description": "Qu'est ce que le Fotopaton ? Il s'agit d'une cabine bien particulière dans laquelle une prise de vue est réalisée par un artiste associé, puis par la suite par un usager croqueur."
+    },
+    {
+      "title": "Ateliers d'écriture : les bizarreries de Lille",
+      "date": "sam. 7 novembre 2026 · 14 h 00",
+      "place": "Palais Rihour",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/ville-dart-et-dhistoire-de-lille/events/98970030_ateliers-decriture-les-bizarreries-de-lille",
+      "source": "Ville de Lille",
+      "age": "Âge indiqué : 14–99 ans",
+      "description": "Laissez-vous guider dans l'écriture et créez votre histoire dans un univers imaginaire peuplé de monstres, légendes et autres étrangetés."
+    },
+    {
+      "title": "L’intelligence artificielle dans nos vies, et si on en parlait ?",
+      "date": "sam. 7 novembre 2026 · 14 h 00",
+      "place": "Espace des Acacias + Le Kursaal",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/maif-lillemetropole/events/86390917_lintelligence-artificielle-dans-nos-vies-et-si-on-en-parlait",
+      "source": "Ville de Lille",
+      "age": "Âge conseillé à vérifier",
+      "description": "🤖 L’Intelligence Artificielle transforme nos façons d’apprendre, de travailler et de créer. Curieux d’en savoir plus ?"
     },
     {
       "title": "Gang des dévoreurs",
@@ -517,6 +627,17 @@
       "source": "Vieux-Lille",
       "age": "Âge conseillé à vérifier",
       "description": "Les jam sessions du Conservatoire sont de retour à la malterie !"
+    },
+    {
+      "title": "Lire à Voix haute",
+      "date": "sam. 6 février 2027 · 14 h 30",
+      "place": "médiathèque Lille-Moulins",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/conservatoiredelille/events/44929981_lire-a-voix-haute-5150704",
+      "source": "Vieux-Lille",
+      "age": "Âge conseillé à vérifier",
+      "description": "Atelier Théâtre Ouvert"
     },
     {
       "title": "Jam Session",
