@@ -1,94 +1,6 @@
 {
-  "updatedAt": "2026-11-06T18:00:04.198902+00:00",
+  "updatedAt": "2026-11-07T06:00:59.198412+00:00",
   "events": [
-    {
-      "title": "Lille Leaders Meet, afterwork business et tech",
-      "date": "ven. 6 novembre 2026 · 19 h 00",
-      "place": "Mesa Rooftop",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/ville-de-lille/events/85463453_lille-leaders-meet-afterwork-business-et-tech-9696454",
-      "source": "Ville de Lille",
-      "age": "Âge conseillé à vérifier",
-      "description": "Le club business et tech de la métropole lilloise. Afterwork mensuel au Mesa Rooftop, trente places, le premier vendredi du mois."
-    },
-    {
-      "title": "DARPAN",
-      "date": "ven. 6 novembre 2026 · 19 h 00",
-      "place": "Halle  aux Sucres",
-      "town": "Lille",
-      "kind": "baby",
-      "url": "https://openagenda.com/ville-de-lille/events/27614251_darpan",
-      "source": "Ville de Lille",
-      "age": "Âge indiqué : 0–99 ans",
-      "description": "Spectacle de Danse Indienne a Lille le 07 Novembre 2026"
-    },
-    {
-      "title": "Didier Super (Metal) + Guests",
-      "date": "ven. 6 novembre 2026 · 20 h 00",
-      "place": "Le Bistrot de St So",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/bistrot-de-st-so/events/1059787_didier-super-metal-guests",
-      "source": "Ville de Lille",
-      "age": "Âge conseillé à vérifier",
-      "description": "Didier Super débarque au Bistrot de St So en version Metal ! Une soirée exceptionnelle avec des groupes locaux en guests."
-    },
-    {
-      "title": "Cerbère Coryphée & GZLVNR présentent : Release party Deûle + Canteleu + Ana Iesu",
-      "date": "ven. 6 novembre 2026 · 20 h 00",
-      "place": "La malterie",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/la-culture-en-continu/events/44607903_cerbere-coryphee-and-gzlvnr-presentent-release-party-deule-canteleu-ana-iesu-3030224",
-      "source": "Ville de Lille",
-      "age": "Âge conseillé à vérifier",
-      "description": "La release party du nouvel album de Deûle \"L'appel du vide\" aura lieu à La Malterie le 6 Novembre!"
-    },
-    {
-      "title": "concert : Darling Chouchou",
-      "date": "ven. 6 novembre 2026 · 20 h 00",
-      "place": "FLOW - Centre Eurorégional des Cultures Urbaines",
-      "town": "Lille",
-      "kind": "baby",
-      "url": "https://openagenda.com/flow/events/49968706_concert-darling-chouchou",
-      "source": "Ville de Lille",
-      "age": "Âge indiqué : 0–99 ans",
-      "description": "Retrouvez Darling Chouchou pour une soirée intimiste et pleine d'énergie au Flow !"
-    },
-    {
-      "title": "Redouane Bougheraba",
-      "date": "ven. 6 novembre 2026 · 20 h 00",
-      "place": "Zénith de Lille",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/la-culture-en-continu/events/43326778_redouane-bougheraba-2712932",
-      "source": "Ville de Lille",
-      "age": "Âge conseillé à vérifier",
-      "description": "Redouane revient avec un nouveau show le 6 novembre au Zénith de Lille !"
-    },
-    {
-      "title": "Le documentaire s’anime !",
-      "date": "ven. 6 novembre 2026 · 20 h 30",
-      "place": "L'hybride",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/la-culture-en-continu/events/72747087_le-documentaire-sanime-7853557",
-      "source": "Ville de Lille",
-      "age": "Âge indiqué : 16–99 ans",
-      "description": "Récit intime ou politique, témoignage historique ou quotidien croqué, venez découvrir de multiples formes du documentaire animé."
-    },
-    {
-      "title": "Dakeez",
-      "date": "ven. 6 novembre 2026 · 20 h 30",
-      "place": "Le Splendid",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/ville-de-lille/events/65113245_dakeez",
-      "source": "Ville de Lille",
-      "age": "Âge conseillé à vérifier",
-      "description": "Retrouvez Dakeez, l’artiste franco-italien qui redéfinit le R&B et la trapsoul. Ancien danseur d’élite pour Justin Bieber, il allie une maîtrise scénique hors norme à des mélodies envoûtantes."
-    },
     {
       "title": "La Grande Braderie de la Médiathèque de Roubaix",
       "date": "sam. 7 novembre 2026 · 09 h 00",
@@ -162,7 +74,7 @@
       "town": "Lille",
       "kind": "baby",
       "url": "https://openagenda.com/ville-de-lille/events/26822072_terre-et-briques-2026-festival-de-ceramiques",
-      "source": "Ville de Lille",
+      "source": "Wattrelos Tourisme",
       "age": "Âge indiqué : 0–121 ans",
       "description": "Festival de céramiques des Hauts-de-France"
     },
