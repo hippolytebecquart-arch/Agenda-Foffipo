@@ -1,170 +1,27 @@
 {
-  "updatedAt": "2026-11-07T06:00:59.198412+00:00",
+  "updatedAt": "2026-11-07T17:50:59.442377+00:00",
   "events": [
     {
-      "title": "La Grande Braderie de la Médiathèque de Roubaix",
-      "date": "sam. 7 novembre 2026 · 09 h 00",
-      "place": "Médiathèque de Roubaix - La Grand-Plage",
-      "town": "Roubaix",
-      "kind": "baby",
-      "url": "https://openagenda.com/mediatheque-de-roubaix/events/79113913_la-grande-braderie-de-la-mediatheque-de-roubaix-1764903",
-      "source": "Médiathèque de Roubaix",
-      "age": "Âge conseillé à vérifier",
-      "description": "Toute la journée, la Médiathèque organise une grande vente pour vous permettre d'acheter à de tout petits prix des livres, des disques, des vinyles et des revues retirés de ses collections ou issus…"
-    },
-    {
-      "title": "Citéphilo - Huit thèses sur le Mal. \nUne enquête morale",
-      "date": "sam. 7 novembre 2026 · 10 h 00",
-      "place": "Couvent des Dominicains",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/ville-de-lille/events/19839462_citephilo-huit-theses-sur-le-mal-une-enquete-morale",
-      "source": "Ville de Lille",
-      "age": "Âge conseillé à vérifier",
-      "description": "Huit thèses sur le Mal.  Une enquête morale par Hervé Vautrelle"
-    },
-    {
-      "title": "La Fabrique, les sciences et moi !",
-      "date": "sam. 7 novembre 2026 · 10 h 30",
-      "place": "Fabrique du Sud",
+      "title": "concert : ajna",
+      "date": "sam. 7 novembre 2026 · 20 h 00",
+      "place": "FLOW - Centre Eurorégional des Cultures Urbaines",
       "town": "Lille",
       "kind": "baby",
-      "url": "https://openagenda.com/lille-sud/events/45833026_la-fabrique-les-sciences-et-moi",
+      "url": "https://openagenda.com/flow/events/17050868_concert-ajna",
       "source": "Ville de Lille",
       "age": "Âge indiqué : 0–99 ans",
-      "description": "La Fabrique du Sud vous invite à explorer les sciences en famille à travers des ateliers ludiques, des expériences et de nombreuses découvertes"
+      "description": "À l'occasion de la sortie de son nouvel album Antidote, Ajna sera présent le 7 novembre 2026 au Flow !"
     },
     {
-      "title": "Café langue anglais",
-      "date": "sam. 7 novembre 2026 · 10 h 30",
-      "place": "Médiathèque Andrée Chedid",
-      "town": "Tourcoing",
-      "kind": "culture",
-      "url": "https://openagenda.com/reseau-des-idees-mediatheques-de-tourcoing/events/84384236_cafe-langue-anglais-9567587",
-      "source": "Le réseau des bibliothèques et médiathèques de la MEL",
-      "age": "Âge indiqué : 14–99 ans",
-      "description": "The café langue is back ! Retrouvez votre rendez-vous en langue anglaise un samedi par mois à la médiathèque Andrée Chedid !"
-    },
-    {
-      "title": "Café lecture",
-      "date": "sam. 7 novembre 2026 · 10 h 30",
-      "place": "Médiathèque André Malraux",
-      "town": "Tourcoing",
-      "kind": "culture",
-      "url": "https://openagenda.com/reseau-des-idees-mediatheques-de-tourcoing/events/88383615_cafe-lecture-5768287",
-      "source": "Le réseau des bibliothèques et médiathèques de la MEL",
-      "age": "Âge indiqué : 16–99 ans",
-      "description": "Découvrez le nouveau rendez-vous de la médiathèque André Malraux et venez partager vos coups de cœur littéraires autour d'un café dans une ambiance conviviale."
-    },
-    {
-      "title": "Les P´tits Kili",
-      "date": "sam. 7 novembre 2026 · 10 h 30",
-      "place": "Médiathèque André Malraux",
-      "town": "Tourcoing",
-      "kind": "baby",
-      "url": "https://openagenda.com/reseau-des-idees-mediatheques-de-tourcoing/events/8346287_les-ptits-kili-4477",
-      "source": "Le réseau des bibliothèques et médiathèques de la MEL",
-      "age": "Âge indiqué : 0–3 ans",
-      "description": "Une heure du conte pour les tout-petits. Des mots, des images, des couleurs… La découverte des livres et de la littérature dès le plus jeune âge."
-    },
-    {
-      "title": "Terre et Briques 2026 - Festival de céramiques",
-      "date": "sam. 7 novembre 2026 · 11 h 00",
-      "place": "Bazaar St-So",
-      "town": "Lille",
-      "kind": "baby",
-      "url": "https://openagenda.com/ville-de-lille/events/26822072_terre-et-briques-2026-festival-de-ceramiques",
-      "source": "Wattrelos Tourisme",
-      "age": "Âge indiqué : 0–121 ans",
-      "description": "Festival de céramiques des Hauts-de-France"
-    },
-    {
-      "title": "Silicate — Salon de l’image imprimée et de la microédition",
-      "date": "sam. 7 novembre 2026 · 11 h 00",
-      "place": "Centre d'Arts Plastiques et Visuels",
-      "town": "Lille",
-      "kind": "baby",
-      "url": "https://openagenda.com/ville-de-lille/events/34236451_silicate-salon-de-limage-imprimee-et-de-la-microedition",
-      "source": "Ville de Lille",
-      "age": "Âge indiqué : 1–99 ans",
-      "description": "Une vingtaine d’artistes invités, des livres d’artistes, des fanzines et des images imprimées à la main : Silicate célèbre la microédition et la création indépendante sous toutes ses formes."
-    },
-    {
-      "title": "Citéphilo - Injustices, racismes, discriminations",
-      "date": "sam. 7 novembre 2026 · 11 h 00",
-      "place": "Palais des Beaux-Arts - Salle Valmy",
+      "title": "Miossec",
+      "date": "sam. 7 novembre 2026 · 20 h 00",
+      "place": "L'Aéronef",
       "town": "Lille",
       "kind": "culture",
-      "url": "https://openagenda.com/ville-de-lille/events/9377989_citephilo-injustices-racismes-discriminations",
+      "url": "https://openagenda.com/la-culture-en-continu/events/82439391_miossec-1250857",
       "source": "Ville de Lille",
       "age": "Âge conseillé à vérifier",
-      "description": "Injustices, racismes, discriminations de Magali Bessonne et Hanane Karimi"
-    },
-    {
-      "title": "Festival Bière à Lille",
-      "date": "sam. 7 novembre 2026 · 13 h 00",
-      "place": "Gare saint Sauveur",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/ville-de-lille/events/45408183_festival-biere-a-lille-193817",
-      "source": "Ville de Lille",
-      "age": "Âge conseillé à vérifier",
-      "description": "Le Festival Bière à Lille fait son grand retour du 2 au 8 novembre prochain : 50 événements dans la Métropole Lilloise et un week-end de clôture les 7 et 8 novembre à la Gare Saint-Sauveur de Lille."
-    },
-    {
-      "title": "Fotopaton",
-      "date": "sam. 7 novembre 2026 · 13 h 30",
-      "place": "Ludothèque de Tourcoing",
-      "town": "Tourcoing",
-      "kind": "culture",
-      "url": "https://openagenda.com/reseau-des-idees-mediatheques-de-tourcoing/events/3319701_fotopaton",
-      "source": "Le réseau des bibliothèques et médiathèques de la MEL",
-      "age": "Âge indiqué : 5–99 ans",
-      "description": "Qu'est ce que le Fotopaton ? Il s'agit d'une cabine bien particulière dans laquelle une prise de vue est réalisée par un artiste associé, puis par la suite par un usager croqueur."
-    },
-    {
-      "title": "Ateliers d'écriture : les bizarreries de Lille",
-      "date": "sam. 7 novembre 2026 · 14 h 00",
-      "place": "Palais Rihour",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/ville-dart-et-dhistoire-de-lille/events/98970030_ateliers-decriture-les-bizarreries-de-lille",
-      "source": "Ville de Lille",
-      "age": "Âge indiqué : 14–99 ans",
-      "description": "Laissez-vous guider dans l'écriture et créez votre histoire dans un univers imaginaire peuplé de monstres, légendes et autres étrangetés."
-    },
-    {
-      "title": "L’intelligence artificielle dans nos vies, et si on en parlait ?",
-      "date": "sam. 7 novembre 2026 · 14 h 00",
-      "place": "Espace des Acacias + Le Kursaal",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/maif-lillemetropole/events/86390917_lintelligence-artificielle-dans-nos-vies-et-si-on-en-parlait",
-      "source": "Ville de Lille",
-      "age": "Âge conseillé à vérifier",
-      "description": "🤖 L’Intelligence Artificielle transforme nos façons d’apprendre, de travailler et de créer. Curieux d’en savoir plus ?"
-    },
-    {
-      "title": "Gang des dévoreurs",
-      "date": "sam. 7 novembre 2026 · 15 h 00",
-      "place": "Médiathèque La Corderie",
-      "town": "Marcq-en-Barœul",
-      "kind": "culture",
-      "url": "https://openagenda.com/reseau-des-bibliotheques-et-mediatheques-de-la-mel/events/78190737_gang-des-devoreurs-8525998",
-      "source": "La Corderie",
-      "age": "Âge indiqué : 8–12 ans",
-      "description": "Club de lecture des 8-12 ans"
-    },
-    {
-      "title": "De l’hôpital médiéval au musée d’art et d’histoire de Lille",
-      "date": "sam. 7 novembre 2026 · 15 h 00",
-      "place": "Musée de l'Hospice Comtesse",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/hospice-comtesse/events/45674724_de-lhopital-medieval-au-musee-dart-et-dhistoire-de-lille-9982531",
-      "source": "Vieux-Lille",
-      "age": "Âge indiqué : 10–99 ans",
-      "description": "Laissez-vous conter l’histoire singulière de ce musée chargé d’histoire(s)"
+      "description": "Tonnerre, tonnerre, tonnerre de Brest. Auteur-compositeur aussi lettré que provocateur, l’emblématique chanteur finistérien Miossec a repris la route."
     },
     {
       "title": "Chambre à Part",
@@ -200,6 +57,28 @@
       "description": "Racontées"
     },
     {
+      "title": "Heure du conte pour les petits à la médiathèque",
+      "date": "mer. 11 novembre 2026 · 10 h 00",
+      "place": "Villeneuve d'Ascq/Médiathèque Till L'espiègle",
+      "town": "Villeneuve-d'Ascq",
+      "kind": "baby",
+      "url": "https://openagenda.com/mediatheque-de-villeneuve-dascq/events/4477489_verhalende-tijd-voor-de-kleintjes-in-de-mediabibliotheek-4053085",
+      "source": "Le réseau des bibliothèques et médiathèques de la MEL",
+      "age": "Âge indiqué : 0–4 ans",
+      "description": "Rendez-vous mercredi 11 novembre à 10h à la médiathèque pour une heure du conte spéciale enquête pour les 0-4 ans !"
+    },
+    {
+      "title": "V.I.B. Very Important Baby",
+      "date": "jeu. 12 novembre 2026 · 10 h 00",
+      "place": "Médiathèque André Malraux",
+      "town": "Tourcoing",
+      "kind": "baby",
+      "url": "https://openagenda.com/reseau-des-idees-mediatheques-de-tourcoing/events/25094318_vib-very-important-baby-4216125",
+      "source": "Le réseau des bibliothèques et médiathèques de la MEL",
+      "age": "Âge indiqué : 0–3 ans",
+      "description": "Des jeux, des livres, une musique douce et une bibliothécaire aux petits soins auprès des plus jeunes et de leurs parents. Tous les jeudis, de 10h à 11h30."
+    },
+    {
       "title": "La Baleine Tatouée - Compagnie du Bonjour",
       "date": "ven. 13 novembre 2026 · 10 h 00",
       "place": "Maison Folie Moulins",
@@ -209,6 +88,28 @@
       "source": "Lille-Moulins",
       "age": "Âge indiqué : 8–99 ans",
       "description": "Kahutia naît dans une famille maorie impatiente d’accueillir le premier héritier. Seulement voilà, Kahutia est une fille. Plongez dans une fable féministe & écologique, mêlant marionnettes et ombres."
+    },
+    {
+      "title": "Les P´tits Kili",
+      "date": "ven. 13 novembre 2026 · 10 h 00",
+      "place": "Tourcoing/Médiathèque Aimé Césaire",
+      "town": "Tourcoing",
+      "kind": "baby",
+      "url": "https://openagenda.com/reseau-des-idees-mediatheques-de-tourcoing/events/72611836_les-ptits-kili-6498065",
+      "source": "Le réseau des bibliothèques et médiathèques de la MEL",
+      "age": "Âge indiqué : 0–3 ans",
+      "description": "Une heure du conte pour les tout-petits. Des mots, des images, des couleurs… La découverte des livres et de la littérature dès le plus jeune âge."
+    },
+    {
+      "title": "Rencontre littéraire avec Pauline Ferrari",
+      "date": "ven. 13 novembre 2026 · 18 h 00",
+      "place": "Médiathèque Saint-Maurice Pellevoisin",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/bml/events/92532427_rencontre-litteraire-avec-pauline-ferrari",
+      "source": "Le réseau des bibliothèques et médiathèques de la MEL",
+      "age": "Âge indiqué : 18–99 ans",
+      "description": "Journaliste indépendante dans le cadre de la lutte contre les violences faites aux femmes."
     },
     {
       "title": "Récital de harpe classique",
@@ -231,6 +132,17 @@
       "source": "Vieux-Lille",
       "age": "Âge conseillé à vérifier",
       "description": "Du 13 au 15 novembre 2026"
+    },
+    {
+      "title": "3e salon du livre journalisme et médias",
+      "date": "sam. 14 novembre 2026 · 10 h 00",
+      "place": "ESJ Lille",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/bml/events/45076416_3e-salon-du-livre-journalisme-et-medias",
+      "source": "Le réseau des bibliothèques et médiathèques de la MEL",
+      "age": "Âge conseillé à vérifier",
+      "description": "Rendez-vous à l'ESJ Lille !"
     },
     {
       "title": "Conférence par Alexandra Luiceanu",
