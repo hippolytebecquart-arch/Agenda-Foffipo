@@ -1,27 +1,60 @@
 {
-  "updatedAt": "2026-11-11T06:15:37.270871+00:00",
+  "updatedAt": "2026-11-11T18:07:46.074136+00:00",
   "events": [
     {
-      "title": "Heure du conte pour les petits à la médiathèque",
-      "date": "mer. 11 novembre 2026 · 10 h 00",
-      "place": "Villeneuve d'Ascq/Médiathèque Till L'espiègle",
-      "town": "Villeneuve-d'Ascq",
-      "kind": "baby",
-      "url": "https://openagenda.com/mediatheque-de-villeneuve-dascq/events/4477489_verhalende-tijd-voor-de-kleintjes-in-de-mediabibliotheek-4053085",
-      "source": "Le réseau des bibliothèques et médiathèques de la MEL",
-      "age": "Âge indiqué : 0–4 ans",
-      "description": "Rendez-vous mercredi 11 novembre à 10h à la médiathèque pour une heure du conte spéciale enquête pour les 0-4 ans !"
+      "title": "Avant-première | Las paredes hablan",
+      "date": "mer. 11 novembre 2026 · 19 h 30",
+      "place": "Le Fresnoy, Studio National des Arts Contemporains",
+      "town": "Tourcoing",
+      "kind": "culture",
+      "url": "https://openagenda.com/le-fresnoy-studio-national-des-arts-contemporains/events/27225310_premiere-or-las-paredes-hablan",
+      "source": "Métropole Européenne de Lille",
+      "age": "Âge conseillé à vérifier",
+      "description": "Rencontre avec Nicolas Mélard, archéo logue-Conservateur du Patrimoine, Service Régional de l’Archéologie, Direction Régionale des affaires culturelles des Hauts de France"
     },
     {
-      "title": "Commémoration de la victoire et la paix, jour anniversaire de l'armistice du 11 novembre 1918 et Hommage à tous les morts pour la France",
-      "date": "mer. 11 novembre 2026 · 11 h 00",
-      "place": "Monument aux Morts",
-      "town": "Roubaix",
-      "kind": "baby",
-      "url": "https://openagenda.com/roubaix/events/76281010_commemoration-de-la-victoire-et-la-paix-jour-anniversaire-de-larmistice-du-11-novembre-1918-et-hommage-a-tous-les-morts-pour-la-france",
-      "source": "Ville de Roubaix",
-      "age": "Âge indiqué : 0–99 ans",
-      "description": "Commémoration de la victoire et la paix, jour anniversaire de l'armistice du 11 novembre 1918"
+      "title": "Easy Lover plays Phil Collins",
+      "date": "mer. 11 novembre 2026 · 20 h 00",
+      "place": "Le Splendid",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/ville-de-lille/events/57120752_easy-lover-plays-phil-collins",
+      "source": "Ville de Lille",
+      "age": "Âge conseillé à vérifier",
+      "description": "Plongez dans l’univers incontournable de Phil Collins avec EASY LOVER, un spectacle hommage porté par 10 musiciens passionnés !"
+    },
+    {
+      "title": "Easy Lover plays Phil Collins",
+      "date": "mer. 11 novembre 2026 · 20 h 00",
+      "place": "Le Splendid",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/la-culture-en-continu/events/80657115_easy-lover-plays-phil-collins-8105936",
+      "source": "Ville de Lille",
+      "age": "Âge conseillé à vérifier",
+      "description": "Plongez dans l’univers incontournable de Phil Collins avec EASY LOVER, un spectacle hommage porté par 10 musiciens passionnés !"
+    },
+    {
+      "title": "The 5 Rosies",
+      "date": "mer. 11 novembre 2026 · 20 h 00",
+      "place": "Théâtre Sébastopol",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/la-culture-en-continu/events/84082486_the-5-rosies-9016669",
+      "source": "Ville de Lille",
+      "age": "Âge conseillé à vérifier",
+      "description": "Préparez-vous à une décharge de pur HARD ROCK au Théâtre Sébastopol avec The 5 Rosies !"
+    },
+    {
+      "title": "16 ans du Musical: Jam du musical",
+      "date": "mer. 11 novembre 2026 · 20 h 00",
+      "place": "le musical",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/max-fb100003037778845/events/87051511_16-ans-du-musical-jam-du-musical-6441955",
+      "source": "Office de Tourisme de la Métropole Européenne de Lille",
+      "age": "Âge indiqué : 18–99 ans",
+      "description": "Viens fêter les 16 ans du Musical et on se fait la plus ouf des jams ! Des musiciens avec le smile toujours près à jamer et qui n'attendent que toi ;)"
     },
     {
       "title": "V.I.B. Very Important Baby",
@@ -33,6 +66,61 @@
       "source": "Le réseau des bibliothèques et médiathèques de la MEL",
       "age": "Âge indiqué : 0–3 ans",
       "description": "Des jeux, des livres, une musique douce et une bibliothécaire aux petits soins auprès des plus jeunes et de leurs parents. Tous les jeudis, de 10h à 11h30."
+    },
+    {
+      "title": "Atelier Nou Parlach'",
+      "date": "jeu. 12 novembre 2026 · 15 h 00",
+      "place": "Centre Socio-Éducatif",
+      "town": "Wattrelos",
+      "kind": "culture",
+      "url": "https://openagenda.com/ville-de-wattrelos/events/69598174_atelier-nou-parlach-6580967",
+      "source": "Ville de Wattrelos",
+      "age": "Âge conseillé à vérifier",
+      "description": "au centre socio-éducatif"
+    },
+    {
+      "title": "Citéphilo - La vocation de philosophe. Puissance de la mise en question",
+      "date": "jeu. 12 novembre 2026 · 16 h 00",
+      "place": "Palais des Beaux-Arts - Salle Valmy",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/ville-de-lille/events/34341866_citephilo-la-vocation-de-philosophe-puissance-de-la-mise-en-question",
+      "source": "Ville de Lille",
+      "age": "Âge conseillé à vérifier",
+      "description": "La vocation de philosophe. Puissance de la mise en question par Sophie Nordmann"
+    },
+    {
+      "title": "Thomas Tudoux, Une année de dix mois",
+      "date": "jeu. 12 novembre 2026 · 17 h 30",
+      "place": "artconnexion",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/ville-de-lille/events/40073282_thomas-tudoux-une-annee-de-dix-mois",
+      "source": "Ville de Lille",
+      "age": "Âge conseillé à vérifier",
+      "description": "Exposition de Thomas Tudoux"
+    },
+    {
+      "title": "Bilan 2026 et perspectives 2027",
+      "date": "jeu. 12 novembre 2026 · 17 h 30",
+      "place": "La Maison de l'Habitat Durable",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/mhd/events/89308088_reseau-des-syndics-benevoles-bilan-2026-et-perspectives-2027",
+      "source": "Ville de Lille",
+      "age": "Âge conseillé à vérifier",
+      "description": "Atelier du réseau des syndics bénévoles"
+    },
+    {
+      "title": "Envers du décor",
+      "date": "jeu. 12 novembre 2026 · 17 h 30",
+      "place": "Palais des beaux arts",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/vdl-palais-des-beaux-arts/events/96924492_envers-du-decor-8634366",
+      "source": "Ville de Lille",
+      "age": "Âge indiqué : 7–99 ans",
+      "description": "Du tissage au tableau. Matérialité et représentation des textiles à la Renaissance"
     },
     {
       "title": "Conseil Municipal",
@@ -178,6 +266,17 @@
       "description": "C'est la Nuit du Cirque ! Découvrez le documentaire \"Les Drôles de dames\", un reportage sensible qui explore la quête d'humanisme d'un collectif de femmes clownes."
     },
     {
+      "title": "\"La moustache\"",
+      "date": "sam. 14 novembre 2026 · 19 h 30",
+      "place": "Centre Socio-Éducatif",
+      "town": "Wattrelos",
+      "kind": "culture",
+      "url": "https://openagenda.com/ville-de-wattrelos/events/41937181_la-moustache-5102424",
+      "source": "Ville de Wattrelos",
+      "age": "Âge conseillé à vérifier",
+      "description": "dans le cadre de l'Automne de l'Humour"
+    },
+    {
       "title": "Concert découverte",
       "date": "sam. 14 novembre 2026 · 20 h 00",
       "place": "Auditorium du Conservatoire de Lille",
@@ -222,6 +321,17 @@
       "description": "Atelier de groupe"
     },
     {
+      "title": "Nou Parlach' s'invite au Musée",
+      "date": "dim. 15 novembre 2026 · 15 h 00",
+      "place": "Musée des Arts et Traditions Populaires",
+      "town": "Wattrelos",
+      "kind": "culture",
+      "url": "https://openagenda.com/ville-de-wattrelos/events/78926614_nou-parlach-sinvite-au-musee",
+      "source": "Ville de Wattrelos",
+      "age": "Âge conseillé à vérifier",
+      "description": "une après-midi 100% ch'ti"
+    },
+    {
       "title": "Citéphilo | Christian Jambet - L'Ordre de l'être, providence et platonisme dans la philosophie iranienne",
       "date": "dim. 15 novembre 2026 · 15 h 00",
       "place": "Institut du monde arabe-Tourcoing",
@@ -233,6 +343,17 @@
       "description": "Christian Jambet est directeur d’études émérite à l’École pratique des hautes études. Il a consacré une quinzaine de livres et de nombreux articles à la philosophie et à la poésie en terre d’islam."
     },
     {
+      "title": "\"En attendant le divorce, marions-nous !\"",
+      "date": "dim. 15 novembre 2026 · 16 h 00",
+      "place": "Centre Socio-Éducatif",
+      "town": "Wattrelos",
+      "kind": "culture",
+      "url": "https://openagenda.com/ville-de-wattrelos/events/39571041_en-attendant-le-divorce-marions-nous",
+      "source": "Ville de Wattrelos",
+      "age": "Âge conseillé à vérifier",
+      "description": "dans le cadre de l'Automne de l'Humour"
+    },
+    {
       "title": "Conte Musical Baba Yaga",
       "date": "dim. 15 novembre 2026 · 17 h 00",
       "place": "Auditorium du Conservatoire de Lille",
@@ -242,6 +363,17 @@
       "source": "Vieux-Lille",
       "age": "Âge conseillé à vérifier",
       "description": "ou la véritable histoire des poupées russes"
+    },
+    {
+      "title": "Ensemble contre les violences faites aux femmes",
+      "date": "mar. 17 novembre 2026 · 10 h 00",
+      "place": "Centre Socio-Éducatif",
+      "town": "Wattrelos",
+      "kind": "culture",
+      "url": "https://openagenda.com/ville-de-wattrelos/events/83077042_ensemble-contre-les-violences-faites-aux-femmes-7900613",
+      "source": "Ville de Wattrelos",
+      "age": "Âge conseillé à vérifier",
+      "description": "au Centre socio-éducatif"
     },
     {
       "title": "Mon bestiaire étoilé !",
