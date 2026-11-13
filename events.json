@@ -1,126 +1,27 @@
 {
-  "updatedAt": "2026-11-13T06:17:29.124706+00:00",
+  "updatedAt": "2026-11-13T18:04:32.666775+00:00",
   "events": [
     {
-      "title": "La Baleine Tatouée - Compagnie du Bonjour",
-      "date": "ven. 13 novembre 2026 · 10 h 00",
-      "place": "Maison Folie Moulins",
-      "town": "Lille",
+      "title": "Soirée \"En attendant le grand soir\" + \"Lbrzl, et nous regardons ailleurs\", par la Cie La Vache bleue dans le cadre du week-end mANIFESTE",
+      "date": "ven. 13 novembre 2026 · 19 h 30",
+      "place": "La Ferme d'en Haut",
+      "town": "Villeneuve-d'Ascq",
       "kind": "culture",
-      "url": "https://openagenda.com/maisons-folie/events/80247112_la-baleine-tatouee-compagnie-du-bonjour",
-      "source": "Ville de Lille",
-      "age": "Âge indiqué : 8–99 ans",
-      "description": "Kahutia naît dans une famille maorie impatiente d’accueillir le premier héritier. Seulement voilà, Kahutia est une fille. Plongez dans une fable féministe & écologique, mêlant marionnettes et ombres."
+      "url": "https://openagenda.com/ferme-den-haut/events/65455045_soiree-en-attendant-le-grand-soir-lbrzl-et-nous-regardons-ailleurs-par-la-cie-la-vache-bleue",
+      "source": "Métropole Européenne de Lille",
+      "age": "Âge indiqué : 10–99 ans",
+      "description": "Vendredi 13 novembre 2026 à 19h30 et 21h, à la Ferme d'en Haut"
     },
     {
-      "title": "Les P´tits Kili",
-      "date": "ven. 13 novembre 2026 · 10 h 00",
-      "place": "Tourcoing/Médiathèque Aimé Césaire",
+      "title": "Masterclass | Hassen Ferhani",
+      "date": "ven. 13 novembre 2026 · 19 h 30",
+      "place": "Le Fresnoy, Studio National des Arts Contemporains",
       "town": "Tourcoing",
-      "kind": "baby",
-      "url": "https://openagenda.com/reseau-des-idees-mediatheques-de-tourcoing/events/72611836_les-ptits-kili-6498065",
-      "source": "Le réseau des bibliothèques et médiathèques de la MEL",
-      "age": "Âge indiqué : 0–3 ans",
-      "description": "Une heure du conte pour les tout-petits. Des mots, des images, des couleurs… La découverte des livres et de la littérature dès le plus jeune âge."
-    },
-    {
-      "title": "Petits travaux dans le logement : la plomberie",
-      "date": "ven. 13 novembre 2026 · 14 h 00",
-      "place": "Lille",
-      "town": "Lille",
       "kind": "culture",
-      "url": "https://openagenda.com/mhd/events/56948187_petits-travaux-dans-le-logement-la-plomberie",
-      "source": "Ville de Lille",
+      "url": "https://openagenda.com/le-fresnoy-studio-national-des-arts-contemporains/events/5698477_masterclass-or-hassen-ferhani",
+      "source": "Métropole Européenne de Lille",
       "age": "Âge conseillé à vérifier",
-      "description": "Atelier de bricolage"
-    },
-    {
-      "title": "Visite descriptive de l'exposition \"République\" de Bérangère Fromont",
-      "date": "ven. 13 novembre 2026 · 14 h 30",
-      "place": "Théâtre du Nord",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/ville-de-lille/events/71171303_visite-descriptive-republique-de-berangere-fromont",
-      "source": "Ville de Lille",
-      "age": "Âge conseillé à vérifier",
-      "description": "L'Institut pour la photographie propose une visite descriptive de l'exposition République de Bérangère Fromont au Théâtre du Nord."
-    },
-    {
-      "title": "Visite descriptive de l'exposition \"République\" de Bérangère Fromont",
-      "date": "ven. 13 novembre 2026 · 14 h 30",
-      "place": "Théâtre du Nord",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/la-culture-en-continu/events/93210633_visite-descriptive-de-lexposition-republique-de-berangere-fromont",
-      "source": "Ville de Lille",
-      "age": "Âge conseillé à vérifier",
-      "description": "L'Institut pour la photographie propose une visite descriptive de l'exposition République de Bérangère Fromont au Théâtre du Nord."
-    },
-    {
-      "title": "Citéphilo - François Bégaudeau- moraliste analytique",
-      "date": "ven. 13 novembre 2026 · 15 h 30",
-      "place": "Palais des Beaux-Arts - Salle Valmy",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/ville-de-lille/events/78815731_citephilo-francois-begaudeau-moraliste-analytique",
-      "source": "Ville de Lille",
-      "age": "Âge conseillé à vérifier",
-      "description": "François Bégaudeau, moraliste analytique par François Bégaudeau"
-    },
-    {
-      "title": "Visites guidées du Flow",
-      "date": "ven. 13 novembre 2026 · 17 h 00",
-      "place": "FLOW - Centre Eurorégional des Cultures Urbaines",
-      "town": "Lille",
-      "kind": "baby",
-      "url": "https://openagenda.com/flow/events/99125978_visites-guidees-du-flow",
-      "source": "Ville de Lille",
-      "age": "Âge indiqué : 0–99 ans",
-      "description": "Plongez dans les coulisses du Flow !"
-    },
-    {
-      "title": "Fête des Allumoirs",
-      "date": "ven. 13 novembre 2026 · 17 h 00",
-      "place": "Quartier Bois-Blancs, Lille",
-      "town": "Lille",
-      "kind": "baby",
-      "url": "https://openagenda.com/bois-blancs/events/63097224_fete-des-allumoirs-1498252",
-      "source": "Ville de Lille",
-      "age": "Âge indiqué : 0–99 ans",
-      "description": "Rejoignez nous pour notre traditionnel rendez-vous d'automne !                  Viv ‘ les allumoirs, ma mère, viv’ les allumoirs, on les allume quand il fait noir, viv’ les allumoirs !"
-    },
-    {
-      "title": "Les coulisses du Flow, découverte de la culture hip-hop",
-      "date": "ven. 13 novembre 2026 · 17 h 00",
-      "place": "1 rue de fontenoy, Lille-Moulins",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/hello-lille-destination/events/22382154_les-coulisses-du-flow-decouverte-de-la-culture-hip-hop",
-      "source": "Wattrelos Tourisme",
-      "age": "Âge conseillé à vérifier",
-      "description": "Le Flow, lieu incontournable du hip-hop à Lille, fait vibrer la culture urbaine entre création, partage et rencontres."
-    },
-    {
-      "title": "Citéphilo - La France éternelle ?",
-      "date": "ven. 13 novembre 2026 · 18 h 00",
-      "place": "Palais des Beaux-Arts - Salle Valmy",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/ville-de-lille/events/56619472_citephilo-la-france-eternelle",
-      "source": "Ville de Lille",
-      "age": "Âge conseillé à vérifier",
-      "description": "La France éternelle ? par Jean-Paul Demoule"
-    },
-    {
-      "title": "Rencontre littéraire avec Pauline Ferrari",
-      "date": "ven. 13 novembre 2026 · 18 h 00",
-      "place": "Médiathèque Saint-Maurice Pellevoisin",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/bml/events/92532427_rencontre-litteraire-avec-pauline-ferrari",
-      "source": "Le réseau des bibliothèques et médiathèques de la MEL",
-      "age": "Âge indiqué : 18–99 ans",
-      "description": "Journaliste indépendante dans le cadre de la lutte contre les violences faites aux femmes."
+      "description": "Masterclass avec le réalisateur Hassen Ferhani. À partir d’extraits de ses films, le cinéaste reviendra sur son parcours, sa démarche documentaire, ses choix de mise en scène et son rapport au réel."
     },
     {
       "title": "Récital de harpe classique",
@@ -195,6 +96,17 @@
       "town": "Lille",
       "kind": "culture",
       "url": "https://openagenda.com/la-culture-en-continu/events/32101526_cine-concert-autour-d-a-propos-de-nice-de-jean-vigo-4718347",
+      "source": "Ville de Lille",
+      "age": "Âge conseillé à vérifier",
+      "description": "Mohamed Dali, Chapô l'art triste et Kino Zéro présentent un ciné-concert autour d’ \"À propos de Nice\" de Jean Vigo avec : TuRBo SLoW + Xuân Mai DANG + Énergivores & Chronophages"
+    },
+    {
+      "title": "Ciné-concert autour d’ \"À propos de Nice\" de Jean Vigo",
+      "date": "ven. 13 novembre 2026 · 20 h 00",
+      "place": "La malterie",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/ville-de-lille/events/57768844_cine-concert-autour-d-a-propos-de-nice-de-jean-vigo",
       "source": "Ville de Lille",
       "age": "Âge conseillé à vérifier",
       "description": "Mohamed Dali, Chapô l'art triste et Kino Zéro présentent un ciné-concert autour d’ \"À propos de Nice\" de Jean Vigo avec : TuRBo SLoW + Xuân Mai DANG + Énergivores & Chronophages"
@@ -486,6 +398,17 @@
       "description": "Une conférence menée dans le cadre du festival Citéphilo sur le thème « Urgences »"
     },
     {
+      "title": "Apéro dinatoire entre hommes !",
+      "date": "ven. 20 novembre 2026 · 17 h 30",
+      "place": "Maison de Quartier les Moulins",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/lille-moulins/events/44245617_apero-dinatoire-entre-hommes",
+      "source": "Lille-Moulins",
+      "age": "Âge indiqué : 18–99 ans",
+      "description": "Soirée entre hommes !"
+    },
+    {
       "title": "10 ans ! Le Bal des 10 ans | Cérémonie & concert dansant  - Quartet Areski",
       "date": "ven. 20 novembre 2026 · 18 h 00",
       "place": "Institut du monde arabe-Tourcoing",
@@ -528,6 +451,28 @@
       "source": "Vieux-Lille",
       "age": "Âge conseillé à vérifier",
       "description": "Atelier Théâtre Ouvert"
+    },
+    {
+      "title": "Conférence Citéphilo : Théories du complot VS vérité",
+      "date": "sam. 21 novembre 2026 · 11 h 00",
+      "place": "Médiathèque de Roubaix - La Grand-Plage",
+      "town": "Roubaix",
+      "kind": "culture",
+      "url": "https://openagenda.com/mediatheque-de-roubaix/events/8445913_conference-citephilo-theories-du-complot-vs-verite-4148926",
+      "source": "Médiathèque de Roubaix",
+      "age": "Âge conseillé à vérifier",
+      "description": "Que nous arrive-t-il quand la vérité se défait ?"
+    },
+    {
+      "title": "Le Petit Géant",
+      "date": "sam. 21 novembre 2026 · 15 h 00",
+      "place": "Médiathèque de Roubaix - La Grand-Plage",
+      "town": "Roubaix",
+      "kind": "culture",
+      "url": "https://openagenda.com/mediatheque-de-roubaix/events/89704567_le-petit-geant-4485849",
+      "source": "Médiathèque de Roubaix",
+      "age": "Âge conseillé à vérifier",
+      "description": "Concert"
     },
     {
       "title": "Les Monologues de Gaza | Carte blanche au Théâtre du Nord",
@@ -574,6 +519,17 @@
       "description": "De l'image à l'écrit, de l'écrit à la voix"
     },
     {
+      "title": "Décorations de Noël Zéro Déchet",
+      "date": "dim. 22 novembre 2026 · 14 h 30",
+      "place": "Médiathèque de Roubaix - La Grand-Plage",
+      "town": "Roubaix",
+      "kind": "culture",
+      "url": "https://openagenda.com/mediatheque-de-roubaix/events/22712936_decorations-de-noel-zero-dechet",
+      "source": "Médiathèque de Roubaix",
+      "age": "Âge conseillé à vérifier",
+      "description": "A partir de livres recyclés"
+    },
+    {
       "title": "Christine Zayed, la Palestine au coeur | Carte blanche à Attacafa",
       "date": "dim. 22 novembre 2026 · 15 h 00",
       "place": "Institut du monde arabe-Tourcoing",
@@ -594,6 +550,17 @@
       "source": "Institut du monde arabe-Tourcoing",
       "age": "Âge conseillé à vérifier",
       "description": "Fakir réunit les musiciens Marwan Fakir (violon), Louis Desseigne (guitares et saz) et Pierre-Antoine Despatures (contrebasse)."
+    },
+    {
+      "title": "Tournoi football entre habitants de Moulins",
+      "date": "ven. 27 novembre 2026 · 17 h 30",
+      "place": "Stade Jean Bouin",
+      "town": "Lille",
+      "kind": "sport",
+      "url": "https://openagenda.com/lille-moulins/events/3914784_tournoi-football-entre-habitants-de-moulins",
+      "source": "Lille-Moulins",
+      "age": "Âge indiqué : 18–99 ans",
+      "description": "Tournoi football entre habitants de Moulins"
     },
     {
       "title": "Kilikili: Chouette, une histoire !",
@@ -618,6 +585,28 @@
       "description": "Découverte de documents sortis spécialement des réserves"
     },
     {
+      "title": "Rêvons c'est l'heure",
+      "date": "sam. 28 novembre 2026 · 11 h 00",
+      "place": "Médiathèque de Roubaix - La Grand-Plage",
+      "town": "Roubaix",
+      "kind": "baby",
+      "url": "https://openagenda.com/mediatheque-de-roubaix/events/26071301_revons-cest-lheure-1802629",
+      "source": "Médiathèque de Roubaix",
+      "age": "Âge conseillé à vérifier",
+      "description": "Spectacle pour tout-petits"
+    },
+    {
+      "title": "Création d'un carnet",
+      "date": "dim. 29 novembre 2026 · 15 h 00",
+      "place": "Médiathèque de Roubaix - La Grand-Plage",
+      "town": "Roubaix",
+      "kind": "culture",
+      "url": "https://openagenda.com/mediatheque-de-roubaix/events/95521200_creation-dun-carnet",
+      "source": "Médiathèque de Roubaix",
+      "age": "Âge conseillé à vérifier",
+      "description": "Atelier créatif"
+    },
+    {
       "title": "Entre ombre et lumière !",
       "date": "mar. 1 décembre 2026 · 18 h 15",
       "place": "Musée de l'Hospice Comtesse",
@@ -638,6 +627,28 @@
       "source": "Vieux-Lille",
       "age": "Âge conseillé à vérifier",
       "description": "De l'image à l'écrit, de l'écrit à la voix"
+    },
+    {
+      "title": "Dolly Parton : l’Amérique réconciliée",
+      "date": "jeu. 3 décembre 2026 · 18 h 30",
+      "place": "Médiathèque de Roubaix - La Grand-Plage",
+      "town": "Roubaix",
+      "kind": "culture",
+      "url": "https://openagenda.com/mediatheque-de-roubaix/events/73172898_dolly-parton-lamerique-reconciliee-7335534",
+      "source": "Médiathèque de Roubaix",
+      "age": "Âge conseillé à vérifier",
+      "description": "Projection"
+    },
+    {
+      "title": "Carte blanche aux étudiants de l'ESAAT",
+      "date": "ven. 4 décembre 2026 · 17 h 00",
+      "place": "Médiathèque de Roubaix - La Grand-Plage",
+      "town": "Roubaix",
+      "kind": "culture",
+      "url": "https://openagenda.com/mediatheque-de-roubaix/events/51524792_carte-blanche-aux-etudiants-de-lesaat",
+      "source": "Médiathèque de Roubaix",
+      "age": "Âge conseillé à vérifier",
+      "description": "Exposition dans le cadre de la Nuit des arts"
     },
     {
       "title": "Carte blanche à Monsieur Mozart",
@@ -693,6 +704,17 @@
       "source": "Institut du monde arabe-Tourcoing",
       "age": "Âge conseillé à vérifier",
       "description": "Sophie Fontanel est journaliste. Elle a été rédactrice en chef adjointe de Cosmopolitan, a animé Nulle part ailleurs sur Canal+, puis a été grand reporter à Elle, avant d’entrer à L’Obs."
+    },
+    {
+      "title": "Chambre à Part",
+      "date": "dim. 13 décembre 2026 · 11 h 00",
+      "place": "Auditorium du Conservatoire de Lille",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/conservatoiredelille/events/10034711_chambre-a-part-9925925",
+      "source": "Vieux-Lille",
+      "age": "Âge conseillé à vérifier",
+      "description": "Fauré en miroir"
     },
     {
       "title": "Concert de Simon DIRICQ et des classes de saxophone des Conservatoires de Lille et Lens",
