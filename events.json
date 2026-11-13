@@ -1,39 +1,6 @@
 {
-  "updatedAt": "2026-11-12T18:06:37.865370+00:00",
+  "updatedAt": "2026-11-13T06:17:29.124706+00:00",
   "events": [
-    {
-      "title": "Shii Foo Miix",
-      "date": "jeu. 12 novembre 2026 · 20 h 00",
-      "place": "Le Bistrot de St So",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/bistrot-de-st-so/events/52612209_shii-foo-miix-7152730",
-      "source": "Ville de Lille",
-      "age": "Âge conseillé à vérifier",
-      "description": "Andy Smith (Portishead) + Local Guests"
-    },
-    {
-      "title": "16 ans du Musical: Musical d'Oz comedy club",
-      "date": "jeu. 12 novembre 2026 · 20 h 00",
-      "place": "le musical",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/max-fb100003037778845/events/87235708_16-ans-du-musical-musical-doz-comedy-club",
-      "source": "Office de Tourisme de la Métropole Européenne de Lille",
-      "age": "Âge indiqué : 18–99 ans",
-      "description": "aujourd'hui on est heureux de vous présenter notre comedy club organisé par D .BW comedy club qui met en avant les jeunes humoristes et en en particulier les femmes trop peu représentées."
-    },
-    {
-      "title": "Kid Francescoli et Woody",
-      "date": "jeu. 12 novembre 2026 · 20 h 00",
-      "place": "L'Aéronef",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/la-culture-en-continu/events/96034608_kid-francescoli-et-woody",
-      "source": "Ville de Lille",
-      "age": "Âge conseillé à vérifier",
-      "description": "Electro-pop magnétique au programme."
-    },
     {
       "title": "La Baleine Tatouée - Compagnie du Bonjour",
       "date": "ven. 13 novembre 2026 · 10 h 00",
@@ -41,7 +8,7 @@
       "town": "Lille",
       "kind": "culture",
       "url": "https://openagenda.com/maisons-folie/events/80247112_la-baleine-tatouee-compagnie-du-bonjour",
-      "source": "Lille-Moulins",
+      "source": "Ville de Lille",
       "age": "Âge indiqué : 8–99 ans",
       "description": "Kahutia naît dans une famille maorie impatiente d’accueillir le premier héritier. Seulement voilà, Kahutia est une fille. Plongez dans une fable féministe & écologique, mêlant marionnettes et ombres."
     },
@@ -57,6 +24,72 @@
       "description": "Une heure du conte pour les tout-petits. Des mots, des images, des couleurs… La découverte des livres et de la littérature dès le plus jeune âge."
     },
     {
+      "title": "Petits travaux dans le logement : la plomberie",
+      "date": "ven. 13 novembre 2026 · 14 h 00",
+      "place": "Lille",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/mhd/events/56948187_petits-travaux-dans-le-logement-la-plomberie",
+      "source": "Ville de Lille",
+      "age": "Âge conseillé à vérifier",
+      "description": "Atelier de bricolage"
+    },
+    {
+      "title": "Visite descriptive de l'exposition \"République\" de Bérangère Fromont",
+      "date": "ven. 13 novembre 2026 · 14 h 30",
+      "place": "Théâtre du Nord",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/ville-de-lille/events/71171303_visite-descriptive-republique-de-berangere-fromont",
+      "source": "Ville de Lille",
+      "age": "Âge conseillé à vérifier",
+      "description": "L'Institut pour la photographie propose une visite descriptive de l'exposition République de Bérangère Fromont au Théâtre du Nord."
+    },
+    {
+      "title": "Visite descriptive de l'exposition \"République\" de Bérangère Fromont",
+      "date": "ven. 13 novembre 2026 · 14 h 30",
+      "place": "Théâtre du Nord",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/la-culture-en-continu/events/93210633_visite-descriptive-de-lexposition-republique-de-berangere-fromont",
+      "source": "Ville de Lille",
+      "age": "Âge conseillé à vérifier",
+      "description": "L'Institut pour la photographie propose une visite descriptive de l'exposition République de Bérangère Fromont au Théâtre du Nord."
+    },
+    {
+      "title": "Citéphilo - François Bégaudeau- moraliste analytique",
+      "date": "ven. 13 novembre 2026 · 15 h 30",
+      "place": "Palais des Beaux-Arts - Salle Valmy",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/ville-de-lille/events/78815731_citephilo-francois-begaudeau-moraliste-analytique",
+      "source": "Ville de Lille",
+      "age": "Âge conseillé à vérifier",
+      "description": "François Bégaudeau, moraliste analytique par François Bégaudeau"
+    },
+    {
+      "title": "Visites guidées du Flow",
+      "date": "ven. 13 novembre 2026 · 17 h 00",
+      "place": "FLOW - Centre Eurorégional des Cultures Urbaines",
+      "town": "Lille",
+      "kind": "baby",
+      "url": "https://openagenda.com/flow/events/99125978_visites-guidees-du-flow",
+      "source": "Ville de Lille",
+      "age": "Âge indiqué : 0–99 ans",
+      "description": "Plongez dans les coulisses du Flow !"
+    },
+    {
+      "title": "Fête des Allumoirs",
+      "date": "ven. 13 novembre 2026 · 17 h 00",
+      "place": "Quartier Bois-Blancs, Lille",
+      "town": "Lille",
+      "kind": "baby",
+      "url": "https://openagenda.com/bois-blancs/events/63097224_fete-des-allumoirs-1498252",
+      "source": "Ville de Lille",
+      "age": "Âge indiqué : 0–99 ans",
+      "description": "Rejoignez nous pour notre traditionnel rendez-vous d'automne !                  Viv ‘ les allumoirs, ma mère, viv’ les allumoirs, on les allume quand il fait noir, viv’ les allumoirs !"
+    },
+    {
       "title": "Les coulisses du Flow, découverte de la culture hip-hop",
       "date": "ven. 13 novembre 2026 · 17 h 00",
       "place": "1 rue de fontenoy, Lille-Moulins",
@@ -66,6 +99,17 @@
       "source": "Wattrelos Tourisme",
       "age": "Âge conseillé à vérifier",
       "description": "Le Flow, lieu incontournable du hip-hop à Lille, fait vibrer la culture urbaine entre création, partage et rencontres."
+    },
+    {
+      "title": "Citéphilo - La France éternelle ?",
+      "date": "ven. 13 novembre 2026 · 18 h 00",
+      "place": "Palais des Beaux-Arts - Salle Valmy",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/ville-de-lille/events/56619472_citephilo-la-france-eternelle",
+      "source": "Ville de Lille",
+      "age": "Âge conseillé à vérifier",
+      "description": "La France éternelle ? par Jean-Paul Demoule"
     },
     {
       "title": "Rencontre littéraire avec Pauline Ferrari",
@@ -85,9 +129,108 @@
       "town": "Lille",
       "kind": "culture",
       "url": "https://openagenda.com/conservatoiredelille/events/45456264_recital-de-harpe-classique",
-      "source": "Vieux-Lille",
+      "source": "Ville de Lille",
       "age": "Âge conseillé à vérifier",
       "description": "Découvrez un récital de harpe classique"
+    },
+    {
+      "title": "Le poids des choses - Compagnie L'immédiat",
+      "date": "ven. 13 novembre 2026 · 20 h 00",
+      "place": "Le Grand Sud",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/le-grand-sud/events/15911469_le-poids-des-choses-compagnie-limmediat",
+      "source": "Ville de Lille",
+      "age": "Âge indiqué : 7–99 ans",
+      "description": "C'est la Nuit du Cirque 2026 au Grand Sud ! Venez bousculer toutes les logiques de la gravité lors du vertigineux spectacle de Camille Boitel"
+    },
+    {
+      "title": "Le poids des choses | Cie L’immédiat - Camille Boitel et Sève Bernard",
+      "date": "ven. 13 novembre 2026 · 20 h 00",
+      "place": "Le Grand Sud",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/la-culture-en-continu/events/64129879_le-poids-des-choses-or-cie-limmediat-camille-boitel-et-seve-bernard",
+      "source": "Ville de Lille",
+      "age": "Âge indiqué : 7–99 ans",
+      "description": "Une fantaisie qui rend le monde de la gravité de plus en plus douteux."
+    },
+    {
+      "title": "Androgynous",
+      "date": "ven. 13 novembre 2026 · 20 h 00",
+      "place": "Opéra de Lille",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/la-culture-en-continu/events/71085666_androgynous",
+      "source": "Ville de Lille",
+      "age": "Âge conseillé à vérifier",
+      "description": "Portrait of a Naked Dancer"
+    },
+    {
+      "title": "Cosmonaute",
+      "date": "ven. 13 novembre 2026 · 20 h 00",
+      "place": "Théâtre Le Grand Bleu",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/bois-blancs/events/39810781_cosmonaute-117537",
+      "source": "Ville de Lille",
+      "age": "Âge indiqué : 7–99 ans",
+      "description": "Un récit initiatique poignant sur l'absence et la dureté du réel."
+    },
+    {
+      "title": "Cosmonaute",
+      "date": "ven. 13 novembre 2026 · 20 h 00",
+      "place": "Théâtre Le Grand Bleu",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/la-culture-en-continu/events/79635956_cosmonaute-2510380",
+      "source": "Ville de Lille",
+      "age": "Âge indiqué : 7–99 ans",
+      "description": "Où est ton papa ?"
+    },
+    {
+      "title": "Ciné-concert autour d’ \"À propos de Nice\" de Jean Vigo",
+      "date": "ven. 13 novembre 2026 · 20 h 00",
+      "place": "La malterie",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/la-culture-en-continu/events/32101526_cine-concert-autour-d-a-propos-de-nice-de-jean-vigo-4718347",
+      "source": "Ville de Lille",
+      "age": "Âge conseillé à vérifier",
+      "description": "Mohamed Dali, Chapô l'art triste et Kino Zéro présentent un ciné-concert autour d’ \"À propos de Nice\" de Jean Vigo avec : TuRBo SLoW + Xuân Mai DANG + Énergivores & Chronophages"
+    },
+    {
+      "title": "Miki et Jäde",
+      "date": "ven. 13 novembre 2026 · 20 h 00",
+      "place": "L'Aéronef",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/la-culture-en-continu/events/99455232_miki-et-jade",
+      "source": "Ville de Lille",
+      "age": "Âge conseillé à vérifier",
+      "description": "La pop moderne et hybride de Miki à L'Aéronef."
+    },
+    {
+      "title": "Aziz Shokhakimov & Lawrence Power",
+      "date": "ven. 13 novembre 2026 · 20 h 00",
+      "place": "Orchestre National de Lille",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/ville-de-lille/events/38466009_aziz-shokhakimov-and-lawrence-power",
+      "source": "Ville de Lille",
+      "age": "Âge conseillé à vérifier",
+      "description": "Entre sanglots et renaissance, un même souffle."
+    },
+    {
+      "title": "Des voix s'élèvent : 1936 ou une mémoire en musique",
+      "date": "ven. 13 novembre 2026 · 20 h 00",
+      "place": "Maison folie Baulieu",
+      "town": "Lille",
+      "kind": "baby",
+      "url": "https://openagenda.com/ville-dart-et-dhistoire-de-lille/events/17608189_des-voix-selevent-1936-ou-une-memoire-en-musique",
+      "source": "Ville de Lille",
+      "age": "Âge indiqué : 0–99 ans",
+      "description": "Vibrez pour la musique des années 1920-1930 portée par les voix du Chœur régional."
     },
     {
       "title": "Les Harpes Camac France font leur festival à... Lille",
@@ -96,9 +239,53 @@
       "town": "Lille",
       "kind": "culture",
       "url": "https://openagenda.com/conservatoiredelille/events/19975854_les-harpes-camac-france-font-leur-festival-a-lille",
-      "source": "Vieux-Lille",
+      "source": "Ville de Lille",
       "age": "Âge conseillé à vérifier",
       "description": "Du 13 au 15 novembre 2026"
+    },
+    {
+      "title": "Citéphilo - Florence Aubenas, \nrécits d’en France",
+      "date": "ven. 13 novembre 2026 · 20 h 30",
+      "place": "Palais des Beaux-Arts - Salle Valmy",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/ville-de-lille/events/79443248_citephilo-florence-aubenas-recits-den-france",
+      "source": "Ville de Lille",
+      "age": "Âge conseillé à vérifier",
+      "description": "Florence Aubenas,  récits d’en France par Florence Aubenas"
+    },
+    {
+      "title": "AĦNA + The Lumberjack Feedback + Guests",
+      "date": "ven. 13 novembre 2026 · 21 h 00",
+      "place": "Le Bistrot de St So",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/bistrot-de-st-so/events/11396760_ana-the-lumberjack-feedback-guests",
+      "source": "Ville de Lille",
+      "age": "Âge conseillé à vérifier",
+      "description": "Metal Alternatif / Post Metal"
+    },
+    {
+      "title": "Journalivre, salon du livre journalisme et médias - 3e édition",
+      "date": "sam. 14 novembre 2026 · 09 h 00",
+      "place": "École Supérieure de Journalisme - ESJ",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/la-culture-en-continu/events/67593113_journalivre-salon-du-livre-journalisme-et-medias-3e-edition-3564270",
+      "source": "Ville de Lille",
+      "age": "Âge conseillé à vérifier",
+      "description": "Vous vous intéressez à l’actualité, au monde de la presse ou à la littérature ? Rendez-vous pour la 3e édition du Journalivre, un salon du livre entièrement consacré au journalisme et aux médias."
+    },
+    {
+      "title": "Journalivre, salon du livre journalisme et médias - 3e édition",
+      "date": "sam. 14 novembre 2026 · 09 h 00",
+      "place": "École Supérieure de Journalisme - ESJ",
+      "town": "Lille",
+      "kind": "baby",
+      "url": "https://openagenda.com/ville-de-lille/events/88670017_journalivre-salon-du-livre-journalisme-et-medias-3e-edition",
+      "source": "Ville de Lille",
+      "age": "Âge indiqué : 3–99 ans",
+      "description": "Vous vous intéressez à l’actualité, au monde de la presse ou à la littérature ? Rendez-vous pour la 3e édition du Journalivre, un salon du livre entièrement consacré au journalisme et aux médias."
     },
     {
       "title": "Permanences roubaisiennes - novembre 2026",
@@ -110,6 +297,17 @@
       "source": "Ville de Roubaix",
       "age": "Âge conseillé à vérifier",
       "description": "Une question, une difficulté ou une demande concernant votre quotidien à Roubaix ? Venez échanger avec Monsieur le Maire, les élus et les services de la Ville lors des Permanences roubaisiennes."
+    },
+    {
+      "title": "Championnats régionaux de K1",
+      "date": "sam. 14 novembre 2026 · 09 h 30",
+      "place": "Palais des Sports Saint-Sauveur",
+      "town": "Lille",
+      "kind": "sport",
+      "url": "https://openagenda.com/ville-de-lille/events/68358985_championnats-regionaux-de-k1",
+      "source": "Ville de Lille",
+      "age": "Âge conseillé à vérifier",
+      "description": "Compétition de K1 organisée par le Panther's Club Lille qui décernera les titres régionaux."
     },
     {
       "title": "3e salon du livre journalisme et médias",
