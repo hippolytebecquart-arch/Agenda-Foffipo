@@ -1,49 +1,27 @@
 {
-  "updatedAt": "2026-11-15T06:08:41.968258+00:00",
+  "updatedAt": "2026-11-15T17:52:30.924870+00:00",
   "events": [
     {
-      "title": "Écoutez l'atelier de groupe avec Milla Leika",
-      "date": "dim. 15 novembre 2026 · 10 h 30",
-      "place": "salle C1/10 du Conservatoire",
+      "title": "Concert GZLVNR : Convulsif + Toru  + Crew Barrymore",
+      "date": "dim. 15 novembre 2026 · 20 h 00",
+      "place": "La malterie",
       "town": "Lille",
       "kind": "culture",
-      "url": "https://openagenda.com/conservatoiredelille/events/9248928_atelier-de-groupe-avec-milla-leika",
-      "source": "Vieux-Lille",
+      "url": "https://openagenda.com/la-culture-en-continu/events/37082622_concert-gzlvnr-convulsif-toru-crew-barrymore-2418504",
+      "source": "Métropole Européenne de Lille",
       "age": "Âge conseillé à vérifier",
-      "description": "Musiques Actuelles Amplifiées"
+      "description": "GZL VNR à la Malterie pour une soirée noise rock/ prog punkkkkk le 15 novembre ʕ•́ᴥ•̀ʔっ"
     },
     {
-      "title": "Participez à l'atelier de groupe avec Milla Leika",
-      "date": "dim. 15 novembre 2026 · 10 h 30",
-      "place": "salle C1/10 du Conservatoire",
+      "title": "Malik Bentalha",
+      "date": "dim. 15 novembre 2026 · 20 h 00",
+      "place": "Zénith de Lille",
       "town": "Lille",
       "kind": "culture",
-      "url": "https://openagenda.com/conservatoiredelille/events/90432513_participez-a-latelier-de-groupe-avec-milla-leika",
-      "source": "Vieux-Lille",
+      "url": "https://openagenda.com/la-culture-en-continu/events/32033376_malik-bentalha-2197808",
+      "source": "Métropole Européenne de Lille",
       "age": "Âge conseillé à vérifier",
-      "description": "Atelier de groupe"
-    },
-    {
-      "title": "Citéphilo | Christian Jambet - L'Ordre de l'être, providence et platonisme dans la philosophie iranienne",
-      "date": "dim. 15 novembre 2026 · 15 h 00",
-      "place": "Institut du monde arabe-Tourcoing",
-      "town": "Tourcoing",
-      "kind": "culture",
-      "url": "https://openagenda.com/institut-du-monde-arabe-tourcoing/events/33293245_citephilo-or-christian-jambet-lordre-de-letre-providence-et-platonisme-dans-la-philosophie-iranienne",
-      "source": "Institut du monde arabe-Tourcoing",
-      "age": "Âge conseillé à vérifier",
-      "description": "Christian Jambet est directeur d’études émérite à l’École pratique des hautes études. Il a consacré une quinzaine de livres et de nombreux articles à la philosophie et à la poésie en terre d’islam."
-    },
-    {
-      "title": "Conte Musical Baba Yaga",
-      "date": "dim. 15 novembre 2026 · 17 h 00",
-      "place": "Auditorium du Conservatoire de Lille",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/conservatoiredelille/events/91264539_conte-musical-baba-yaga",
-      "source": "Vieux-Lille",
-      "age": "Âge conseillé à vérifier",
-      "description": "ou la véritable histoire des poupées russes"
+      "description": "Avec Nouveau Monde, Malik Bentalha signe son retour sur scène dans un one-man-show à la fois drôle, touchant et engagé."
     },
     {
       "title": "Portes ouvertes du Centre d'Examens de Santé de Roubaix",
@@ -57,15 +35,26 @@
       "description": "Portes ouvertes du Centre d'Examens de Santé du Centre Hospitalier de Roubaix"
     },
     {
-      "title": "Projection du film documentaire « Raving Iran », un film documentaire de Susanne Regina Meures (Suisse, 2016, 84 minutes)",
-      "date": "mer. 18 novembre 2026 · 14 h 00",
-      "place": "Ludomédiathèque Colette",
-      "town": "Tourcoing",
+      "title": "Kilikili, la lecture d’histoires pour les petits",
+      "date": "mer. 18 novembre 2026 · 10 h 30",
+      "place": "Médiathèque Jean-Lévy - Lille",
+      "town": "Lille",
       "kind": "culture",
-      "url": "https://openagenda.com/reseau-des-idees-mediatheques-de-tourcoing/events/13451569_projection-du-film-documentaire-raving-iran",
-      "source": "Programmation culturelle du réseau des médiathèques de Tourcoing",
-      "age": "Âge indiqué : 14–99 ans",
-      "description": "La ludomédiathèque Colette propose la projection du film documentaire « Raving Iran » consacré au milieu underground de la musique techno à Téhéran."
+      "url": "https://openagenda.com/bml/events/34616093_kilikili-la-lecture-dhistoires-pour-les-petits-9424864",
+      "source": "Le réseau des bibliothèques et médiathèques de la MEL",
+      "age": "Âge indiqué : 4–7 ans",
+      "description": "Vous explorez avec votre bibliothécaire des albums, contes et légendes pour les enfants de 4 à 7 ans. Ce temps de lecture prépare vos enfants au plaisir de lire et laisse une place à l’imaginaire !"
+    },
+    {
+      "title": "Les P´tits Kili",
+      "date": "mer. 18 novembre 2026 · 10 h 30",
+      "place": "Médiathèque Andrée Chedid",
+      "town": "Tourcoing",
+      "kind": "baby",
+      "url": "https://openagenda.com/reseau-des-idees-mediatheques-de-tourcoing/events/45394546_les-ptits-kili-9220683",
+      "source": "Le réseau des bibliothèques et médiathèques de la MEL",
+      "age": "Âge indiqué : 0–3 ans",
+      "description": "Une heure du conte pour les tout-petits. Des mots, des images, des couleurs… La découverte des livres et de la littérature dès le plus jeune âge."
     },
     {
       "title": "Mon bestiaire étoilé !",
@@ -110,6 +99,17 @@
       "source": "Vieux-Lille",
       "age": "Âge conseillé à vérifier",
       "description": "Une conférence menée dans le cadre du festival Citéphilo sur le thème « Urgences »"
+    },
+    {
+      "title": "Apéro dinatoire entre hommes !",
+      "date": "ven. 20 novembre 2026 · 17 h 30",
+      "place": "Maison de Quartier les Moulins",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/lille-moulins/events/44245617_apero-dinatoire-entre-hommes",
+      "source": "Lille-Moulins",
+      "age": "Âge indiqué : 18–99 ans",
+      "description": "Soirée entre hommes !"
     },
     {
       "title": "10 ans ! Le Bal des 10 ans | Cérémonie & concert dansant  - Quartet Areski",
@@ -176,17 +176,6 @@
       "source": "Médiathèque de Roubaix",
       "age": "Âge conseillé à vérifier",
       "description": "Que nous arrive-t-il quand la vérité se défait ?"
-    },
-    {
-      "title": "Atelier d'écriture : Des mots qui engagent",
-      "date": "sam. 21 novembre 2026 · 14 h 30",
-      "place": "Médiathèque Andrée Chedid",
-      "town": "Tourcoing",
-      "kind": "culture",
-      "url": "https://openagenda.com/reseau-des-idees-mediatheques-de-tourcoing/events/19150006_atelier-decriture-des-mots-qui-engagent",
-      "source": "Programmation culturelle du réseau des médiathèques de Tourcoing",
-      "age": "Âge indiqué : 18–99 ans",
-      "description": "La médiathèque Andrée Chedid vous invite à participer à un atelier d'écriture dans le cadre du Kiosque citoyen \"Solidarités et engagement\"."
     },
     {
       "title": "Le Petit Géant",
@@ -275,6 +264,28 @@
       "source": "Institut du monde arabe-Tourcoing",
       "age": "Âge conseillé à vérifier",
       "description": "Fakir réunit les musiciens Marwan Fakir (violon), Louis Desseigne (guitares et saz) et Pierre-Antoine Despatures (contrebasse)."
+    },
+    {
+      "title": "Tournoi football entre habitants de Moulins",
+      "date": "ven. 27 novembre 2026 · 17 h 30",
+      "place": "Stade Jean Bouin",
+      "town": "Lille",
+      "kind": "sport",
+      "url": "https://openagenda.com/lille-moulins/events/3914784_tournoi-football-entre-habitants-de-moulins",
+      "source": "Lille-Moulins",
+      "age": "Âge indiqué : 18–99 ans",
+      "description": "Tournoi football entre habitants de Moulins"
+    },
+    {
+      "title": "Kilikili: Chouette, une histoire !",
+      "date": "sam. 28 novembre 2026 · 10 h 30",
+      "place": "Médiathèque de Lille-Moulins",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/bml/events/83208694_kilikili-chouette-une-histoire",
+      "source": "Lille-Moulins",
+      "age": "Âge indiqué : 4–7 ans",
+      "description": "Chouette, une histoire ! Ecouter des histoires, c'est chouette. Alors quand elles racontent sur les chouettes c'est encore mieux..."
     },
     {
       "title": "Speed-dating patrimonial",
