@@ -1,138 +1,6 @@
 {
-  "updatedAt": "2026-11-14T17:51:55.607490+00:00",
+  "updatedAt": "2026-11-15T06:08:41.968258+00:00",
   "events": [
-    {
-      "title": "RÉSONANCES MÉDITERRANÉENNES",
-      "date": "sam. 14 novembre 2026 · 19 h 00",
-      "place": "Bureau d'Art et de Recherche | Qsp galerie",
-      "town": "Roubaix",
-      "kind": "culture",
-      "url": "https://openagenda.com/bureau-dart-et-de-recherche/events/62602158_resonances-mediterraneennes",
-      "source": "Office de Tourisme de Roubaix",
-      "age": "Âge conseillé à vérifier",
-      "description": "Samedi 14 nov. dès 19h, les Plaisirs de plage se font sonores : synthés modulaires, poèmes, archives des plages de Méditerranée… Une dernière traversée entre sons, voix et mémoires littorales."
-    },
-    {
-      "title": "Les Drôles de Dames",
-      "date": "sam. 14 novembre 2026 · 19 h 00",
-      "place": "Maison Folie Moulins",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/maisons-folie/events/24218193_les-droles-de-dames-9992195",
-      "source": "Ville de Lille",
-      "age": "Âge indiqué : 8–99 ans",
-      "description": "C'est la Nuit du Cirque ! Découvrez le documentaire \"Les Drôles de dames\", un reportage sensible qui explore la quête d'humanisme d'un collectif de femmes clownes."
-    },
-    {
-      "title": "\"La moustache\"",
-      "date": "sam. 14 novembre 2026 · 19 h 30",
-      "place": "Centre Socio-Éducatif",
-      "town": "Wattrelos",
-      "kind": "culture",
-      "url": "https://openagenda.com/ville-de-wattrelos/events/41937181_la-moustache-5102424",
-      "source": "Métropole Européenne de Lille",
-      "age": "Âge conseillé à vérifier",
-      "description": "dans le cadre de l'Automne de l'Humour"
-    },
-    {
-      "title": "\"ça va (super) marcher\" par la Cie La Vache bleue dans le cadre du week end mANIFESTE",
-      "date": "sam. 14 novembre 2026 · 19 h 30",
-      "place": "La Ferme d'en Haut",
-      "town": "Villeneuve-d'Ascq",
-      "kind": "culture",
-      "url": "https://openagenda.com/ferme-den-haut/events/36618021_ca-va-super-marcher-par-la-cie-la-vache-bleue",
-      "source": "Métropole Européenne de Lille",
-      "age": "Âge indiqué : 8–99 ans",
-      "description": "Samedi 14 novembre 2026 à 19h30, à La Ferme d'en Haut"
-    },
-    {
-      "title": "Drag quizz show by Musaregne & la Casstagne",
-      "date": "sam. 14 novembre 2026 · 20 h 00",
-      "place": "le musical",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/max-fb100003037778845/events/79280131_drag-quizz-show-by-musaregne-and-la-casstagne",
-      "source": "Wattrelos Tourisme",
-      "age": "Âge indiqué : 18–99 ans",
-      "description": "Tu penses être incollable sur la musique, et le drag lillois ? Viens vérifier ça autour d’une soirée jeux avec @la.casstagne et @musaregne_drag. C’est gratuit et en plus il y pleins de lots à gagner !"
-    },
-    {
-      "title": "Concert découverte",
-      "date": "sam. 14 novembre 2026 · 20 h 00",
-      "place": "Auditorium du Conservatoire de Lille",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/conservatoiredelille/events/56205486_concert-decouverte-3564991",
-      "source": "Ville de Lille",
-      "age": "Âge conseillé à vérifier",
-      "description": "Profitez d'un concert découverte"
-    },
-    {
-      "title": "Soirée de lancement Réédition 10 ans de l'album \"Oh my...\"",
-      "date": "sam. 14 novembre 2026 · 20 h 00",
-      "place": "La malterie",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/la-culture-en-continu/events/14332641_soiree-de-lancement-reedition-10-ans-de-lalbum-oh-my-9292289",
-      "source": "Ville de Lille",
-      "age": "Âge conseillé à vérifier",
-      "description": "Mohamed Dali présente : Soirée de lancement. Réédition 10 ans de l'album \"Oh my...\" DEAR DEER LILLE/ELECTRO POST-PUNK PARTIKUL BRUXELLES/DARKWAVE DJSET"
-    },
-    {
-      "title": "[SCENE OUVERTE] - Spéciale Nuit du Cirque",
-      "date": "sam. 14 novembre 2026 · 20 h 30",
-      "place": "Le cirque du bout du monde",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/ville-de-lille/events/55271884_scene-ouverte-speciale-nuit-du-cirque",
-      "source": "Ville de Lille",
-      "age": "Âge conseillé à vérifier",
-      "description": "[SCENE OUVERTE] - Spéciale Nuit du Cirque"
-    },
-    {
-      "title": "From Rijsel With Love",
-      "date": "sam. 14 novembre 2026 · 21 h 00",
-      "place": "Le Bistrot de St So",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/bistrot-de-st-so/events/58384458_from-rijsel-with-love-8844825",
-      "source": "Ville de Lille",
-      "age": "Âge conseillé à vérifier",
-      "description": "Drum & Bass"
-    },
-    {
-      "title": "Soirée électro avec Milla Leika",
-      "date": "sam. 14 novembre 2026 · 23 h 00",
-      "place": "Salle Lannoy",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/conservatoiredelille/events/90328397_soiree-electro-avec-milla-leika",
-      "source": "Ville de Lille",
-      "age": "Âge conseillé à vérifier",
-      "description": "Harpe et chant"
-    },
-    {
-      "title": "Family Circus !",
-      "date": "dim. 15 novembre 2026 · 10 h 00",
-      "place": "Le Grand Sud",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/le-grand-sud/events/73025663_family-circus-1567710",
-      "source": "Ville de Lille",
-      "age": "Âge indiqué : 5–99 ans",
-      "description": "C'est la Nuit du Cirque 2026 au Grand Sud ! Venez vous essayer au cirque, en famille !"
-    },
-    {
-      "title": "Family Circus",
-      "date": "dim. 15 novembre 2026 · 10 h 00",
-      "place": "Le Grand Sud",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/la-culture-en-continu/events/45232725_family-circus-4031009",
-      "source": "Ville de Lille",
-      "age": "Âge indiqué : 5–99 ans",
-      "description": "Essayez-vous au cirque en famille !"
-    },
     {
       "title": "Écoutez l'atelier de groupe avec Milla Leika",
       "date": "dim. 15 novembre 2026 · 10 h 30",
@@ -140,7 +8,7 @@
       "town": "Lille",
       "kind": "culture",
       "url": "https://openagenda.com/conservatoiredelille/events/9248928_atelier-de-groupe-avec-milla-leika",
-      "source": "Ville de Lille",
+      "source": "Vieux-Lille",
       "age": "Âge conseillé à vérifier",
       "description": "Musiques Actuelles Amplifiées"
     },
@@ -151,53 +19,9 @@
       "town": "Lille",
       "kind": "culture",
       "url": "https://openagenda.com/conservatoiredelille/events/90432513_participez-a-latelier-de-groupe-avec-milla-leika",
-      "source": "Ville de Lille",
+      "source": "Vieux-Lille",
       "age": "Âge conseillé à vérifier",
       "description": "Atelier de groupe"
-    },
-    {
-      "title": "Citéphilo - Politique de la représentation. \nPhilosophie de terrain et photographie \ndocumentaire critique",
-      "date": "dim. 15 novembre 2026 · 11 h 00",
-      "place": "Palais des Beaux-Arts - Salle Valmy",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/ville-de-lille/events/42646766_citephilo-politique-de-la-representation-philosophie-de-terrain-et-photographie-documentaire-critique",
-      "source": "Ville de Lille",
-      "age": "Âge conseillé à vérifier",
-      "description": "Politique de la représentation.  Philosophie de terrain et photographie  documentaire critique avec Christian Vollaire et Philippe Bazin"
-    },
-    {
-      "title": "La reine  des citadelles",
-      "date": "dim. 15 novembre 2026 · 14 h 00",
-      "place": "Citadelle de Lille",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/vauban-esquermes/events/89343670_la-reine-des-citadelles-4596903",
-      "source": "Ville de Lille",
-      "age": "Âge conseillé à vérifier",
-      "description": "Pour découvrir un joyaux de notre histoire"
-    },
-    {
-      "title": "Prise de bec",
-      "date": "dim. 15 novembre 2026 · 14 h 30",
-      "place": "Ferme Pédagogique Marcel Dhénin",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/nature-lille/events/85471115_prise-de-bec",
-      "source": "Ville de Lille",
-      "age": "Âge indiqué : 5–99 ans",
-      "description": "Les oiseaux"
-    },
-    {
-      "title": "Citéphilo - Enfermer, punir, retenir",
-      "date": "dim. 15 novembre 2026 · 15 h 00",
-      "place": "Palais des Beaux-Arts - Salle Valmy",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/ville-de-lille/events/32785484_citephilo-enfermer-punir-retenir",
-      "source": "Ville de Lille",
-      "age": "Âge conseillé à vérifier",
-      "description": "Enfermer, punir, retenir par Louise Tassin et Estelle Royer"
     },
     {
       "title": "Citéphilo | Christian Jambet - L'Ordre de l'être, providence et platonisme dans la philosophie iranienne",
@@ -211,180 +35,15 @@
       "description": "Christian Jambet est directeur d’études émérite à l’École pratique des hautes études. Il a consacré une quinzaine de livres et de nombreux articles à la philosophie et à la poésie en terre d’islam."
     },
     {
-      "title": "Les Dimanches en Famille",
-      "date": "dim. 15 novembre 2026 · 16 h 30",
-      "place": "Le Bistrot de St So",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/bistrot-de-st-so/events/66779351_les-dimanches-en-famille-8514758",
-      "source": "Ville de Lille",
-      "age": "Âge conseillé à vérifier",
-      "description": "Concert de TWO OF US"
-    },
-    {
       "title": "Conte Musical Baba Yaga",
       "date": "dim. 15 novembre 2026 · 17 h 00",
       "place": "Auditorium du Conservatoire de Lille",
       "town": "Lille",
       "kind": "culture",
       "url": "https://openagenda.com/conservatoiredelille/events/91264539_conte-musical-baba-yaga",
-      "source": "Ville de Lille",
+      "source": "Vieux-Lille",
       "age": "Âge conseillé à vérifier",
       "description": "ou la véritable histoire des poupées russes"
-    },
-    {
-      "title": "Pièce de cirque - Compagnie Décor à corps",
-      "date": "dim. 15 novembre 2026 · 17 h 00",
-      "place": "Salle des Fêtes de Fives",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/fives/events/44996498_piece-de-cirque-compagnie-decor-a-corps",
-      "source": "Ville de Lille",
-      "age": "Âge indiqué : 6–99 ans",
-      "description": "\"Pièce de cirque\" explore la rencontre d’un homme et d’une femme qui s’engagent dans une vie commune, entre réalité et imaginaire."
-    },
-    {
-      "title": "[DIMANCHE EN FAMILLE] Pièce de cirque - Compagnie Décor à Corps",
-      "date": "dim. 15 novembre 2026 · 17 h 00",
-      "place": "Salle des Fêtes de Fives",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/ville-de-lille/events/80038836_dimanche-en-famille-piece-de-cirque-compagnie-decor-a-corps",
-      "source": "Ville de Lille",
-      "age": "Âge indiqué : 6–99 ans",
-      "description": "[DIMANCHE EN FAMILLE] Pièce de cirque - Compagnie Décor à Corps"
-    },
-    {
-      "title": "Citéphilo - Fin de l’universalisme, commencement \nde l’universel : une contribution \nphilosophique africaine",
-      "date": "dim. 15 novembre 2026 · 17 h 30",
-      "place": "Palais des Beaux-Arts - Salle Valmy",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/ville-de-lille/events/4884338_citephilo-fin-de-luniversalisme-commencement-de-luniversel-une-contribution-philosophique-africaine",
-      "source": "Ville de Lille",
-      "age": "Âge conseillé à vérifier",
-      "description": "Fin de l’universalisme, commencement  de l’universel : une contribution  philosophique africaine avec Souleymane Bachir Diagne"
-    },
-    {
-      "title": "Horse Lords et Claptrap",
-      "date": "dim. 15 novembre 2026 · 18 h 30",
-      "place": "L'Aéronef",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/la-culture-en-continu/events/61209606_horse-lords-et-claptrap",
-      "source": "Ville de Lille",
-      "age": "Âge conseillé à vérifier",
-      "description": "Un dimanche soir aux couleurs rock expérimental et pop tropicale au Club de L'Aéronef"
-    },
-    {
-      "title": "Concert GZLVNR : Convulsif + Toru  + Crew Barrymore",
-      "date": "dim. 15 novembre 2026 · 20 h 00",
-      "place": "La malterie",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/la-culture-en-continu/events/37082622_concert-gzlvnr-convulsif-toru-crew-barrymore-2418504",
-      "source": "Ville de Lille",
-      "age": "Âge conseillé à vérifier",
-      "description": "GZL VNR à la Malterie pour une soirée noise rock/ prog punkkkkk le 15 novembre ʕ•́ᴥ•̀ʔっ"
-    },
-    {
-      "title": "Malik Bentalha",
-      "date": "dim. 15 novembre 2026 · 20 h 00",
-      "place": "Zénith de Lille",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/la-culture-en-continu/events/32033376_malik-bentalha-2197808",
-      "source": "Ville de Lille",
-      "age": "Âge conseillé à vérifier",
-      "description": "Avec Nouveau Monde, Malik Bentalha signe son retour sur scène dans un one-man-show à la fois drôle, touchant et engagé."
-    },
-    {
-      "title": "Festival des Solidarités Internationales (FSI) « Et les jeunes dans tout ça ? »",
-      "date": "lun. 16 novembre 2026 · 09 h 00",
-      "place": "Ville de Lille",
-      "town": "Lille",
-      "kind": "baby",
-      "url": "https://openagenda.com/ville-de-lille/events/44939721_festival-des-solidarites-internationales-fsi-et-les-jeunes-dans-tout-ca",
-      "source": "Ville de Lille",
-      "age": "Âge indiqué : 0–99 ans",
-      "description": "Du 16 au 22 novembre 2026, le Festival des Solidarités Internationales (FSI) revient pour une 23ᵉ édition placée sous le signe des jeunesses."
-    },
-    {
-      "title": "SEEPH : Semaine Européenne pour l'Emploi des Personnes Handicapées 2026",
-      "date": "lun. 16 novembre 2026 · 09 h 30",
-      "place": "LILLE AVENIRS",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/ville-de-lille/events/57985305_seeph-semaine-europeenne-pour-lemploi-des-personnes-handicapees-2026",
-      "source": "Ville de Lille",
-      "age": "Âge conseillé à vérifier",
-      "description": "SEEPH 2026, le programme"
-    },
-    {
-      "title": "Citéphilo - Actualité de Carl Schmitt?",
-      "date": "lun. 16 novembre 2026 · 15 h 30",
-      "place": "Palais des Beaux-Arts - Salle Valmy",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/ville-de-lille/events/40103674_citephilo-actualite-de-carl-schmitt",
-      "source": "Ville de Lille",
-      "age": "Âge conseillé à vérifier",
-      "description": "Actualité de Carl Schmitt? par Jean-Claude Monod et Jean-François Kervégan"
-    },
-    {
-      "title": "Citéphilo - Ils ne sont pas d’extrême-droite, \nils font l’extrême-droite",
-      "date": "lun. 16 novembre 2026 · 16 h 00",
-      "place": "ESJ Lille",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/ville-de-lille/events/19228347_citephilo-ils-ne-sont-pas-dextreme-droite-ils-font-lextreme-droite",
-      "source": "Ville de Lille",
-      "age": "Âge conseillé à vérifier",
-      "description": "Ils ne sont pas d’extrême-droite,  ils font l’extrême-droite par Sylvain Bourmeau"
-    },
-    {
-      "title": "Projection-Débat de \"Ebullition\" au Tok'Ici dans le cadre du Festival ALIMENTERRE",
-      "date": "lun. 16 novembre 2026 · 18 h 30",
-      "place": "Tok'Ici",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/ville-de-lille/events/31737824_projection-debat-de-ebullition-au-tokici-dans-le-cadre-du-festival-alimenterre",
-      "source": "Ville de Lille",
-      "age": "Âge conseillé à vérifier",
-      "description": "Projection-Débat de \"Ebullition\" au Tok'Ici dans le cadre du Festival ALIMENTERRE"
-    },
-    {
-      "title": "LUN19h | LUNprovisé - Dans l’oreille d’un chœur #1",
-      "date": "lun. 16 novembre 2026 · 19 h 00",
-      "place": "La malterie",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/la-culture-en-continu/events/46595905_lun19h-or-lunprovise-dans-loreille-dun-choeur-1-1145670",
-      "source": "Ville de Lille",
-      "age": "Âge conseillé à vérifier",
-      "description": "Les LUNprovisé sont les rendez-vous quasi mensuels d’improvisation libre ouverts à toutes et à tous. Pour participer, il vous suffit de vous inscrire le soir même entre 19h et 19h30."
-    },
-    {
-      "title": "LUN19h | LUNprovisé - Dans l’oreille d’un chœur #1",
-      "date": "lun. 16 novembre 2026 · 19 h 00",
-      "place": "La malterie",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/ville-de-lille/events/99387556_lun19h-or-lunprovise-dans-loreille-dun-choeur-1",
-      "source": "Ville de Lille",
-      "age": "Âge conseillé à vérifier",
-      "description": "Les LUNprovisé sont les rendez-vous quasi mensuels d’improvisation libre ouverts à toutes et à tous. Pour participer, il vous suffit de vous inscrire le soir même entre 19h et 19h30."
-    },
-    {
-      "title": "Prostitution : une réalité bien cachée",
-      "date": "lun. 16 novembre 2026 · 19 h 00",
-      "place": "Salle du 17",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/ville-de-lille/events/70375068_prostitution-une-realite-bien-cachee",
-      "source": "Ville de Lille",
-      "age": "Âge indiqué : 14–99 ans",
-      "description": "Éclairage sur les conséquences en matière de santé"
     },
     {
       "title": "Portes ouvertes du Centre d'Examens de Santé de Roubaix",
@@ -398,26 +57,15 @@
       "description": "Portes ouvertes du Centre d'Examens de Santé du Centre Hospitalier de Roubaix"
     },
     {
-      "title": "Citéphilo - Des cartes et des territoires. \nLa France est-elle en voie",
-      "date": "mar. 17 novembre 2026 · 15 h 00",
-      "place": "Palais des Beaux-Arts - Salle Valmy",
-      "town": "Lille",
+      "title": "Projection du film documentaire « Raving Iran », un film documentaire de Susanne Regina Meures (Suisse, 2016, 84 minutes)",
+      "date": "mer. 18 novembre 2026 · 14 h 00",
+      "place": "Ludomédiathèque Colette",
+      "town": "Tourcoing",
       "kind": "culture",
-      "url": "https://openagenda.com/ville-de-lille/events/78222169_citephilo-des-cartes-et-des-territoires-la-france-est-elle-en-voie",
-      "source": "Ville de Lille",
-      "age": "Âge conseillé à vérifier",
-      "description": "Des cartes et des territoires.  La France est-elle en voie avec Jacques Lévy et Ilaria Casillo"
-    },
-    {
-      "title": "Citéphilo - Mazan. Anthropologie \nd’un procès pour viols",
-      "date": "mar. 17 novembre 2026 · 18 h 15",
-      "place": "Sciences Po",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/ville-de-lille/events/57665830_citephilo-mazan-anthropologie-dun-proces-pour-viols",
-      "source": "Ville de Lille",
-      "age": "Âge conseillé à vérifier",
-      "description": "Mazan. Anthropologie  d’un procès pour viols par Parrine Lachenal et Fatma Hamdoun"
+      "url": "https://openagenda.com/reseau-des-idees-mediatheques-de-tourcoing/events/13451569_projection-du-film-documentaire-raving-iran",
+      "source": "Programmation culturelle du réseau des médiathèques de Tourcoing",
+      "age": "Âge indiqué : 14–99 ans",
+      "description": "La ludomédiathèque Colette propose la projection du film documentaire « Raving Iran » consacré au milieu underground de la musique techno à Téhéran."
     },
     {
       "title": "Mon bestiaire étoilé !",
@@ -464,17 +112,6 @@
       "description": "Une conférence menée dans le cadre du festival Citéphilo sur le thème « Urgences »"
     },
     {
-      "title": "Apéro dinatoire entre hommes !",
-      "date": "ven. 20 novembre 2026 · 17 h 30",
-      "place": "Maison de Quartier les Moulins",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/lille-moulins/events/44245617_apero-dinatoire-entre-hommes",
-      "source": "Lille-Moulins",
-      "age": "Âge indiqué : 18–99 ans",
-      "description": "Soirée entre hommes !"
-    },
-    {
       "title": "10 ans ! Le Bal des 10 ans | Cérémonie & concert dansant  - Quartet Areski",
       "date": "ven. 20 novembre 2026 · 18 h 00",
       "place": "Institut du monde arabe-Tourcoing",
@@ -508,6 +145,17 @@
       "description": "Quatuor Poulenc"
     },
     {
+      "title": "TOUR DE CHAUFFE #20 - LAIV / 0 DEGRÉ",
+      "date": "ven. 20 novembre 2026 · 20 h 00",
+      "place": "Maison Folie Hospice d'Havré",
+      "town": "Tourcoing",
+      "kind": "baby",
+      "url": "https://openagenda.com/maison-folie-hospice-d-havre/events/67087601_tour-de-chauffe-20-laiv-0-degre",
+      "source": "Maison Folie Hospice d'Havré - Tourcoing",
+      "age": "Âge indiqué : 0–99 ans",
+      "description": "TOUR DE CHAUFFE #20 - LAIV / 0 DEGRÉ"
+    },
+    {
       "title": "Être en scène - Initiation",
       "date": "sam. 21 novembre 2026 · 10 h 00",
       "place": "Ateliers Théâtre",
@@ -528,6 +176,17 @@
       "source": "Médiathèque de Roubaix",
       "age": "Âge conseillé à vérifier",
       "description": "Que nous arrive-t-il quand la vérité se défait ?"
+    },
+    {
+      "title": "Atelier d'écriture : Des mots qui engagent",
+      "date": "sam. 21 novembre 2026 · 14 h 30",
+      "place": "Médiathèque Andrée Chedid",
+      "town": "Tourcoing",
+      "kind": "culture",
+      "url": "https://openagenda.com/reseau-des-idees-mediatheques-de-tourcoing/events/19150006_atelier-decriture-des-mots-qui-engagent",
+      "source": "Programmation culturelle du réseau des médiathèques de Tourcoing",
+      "age": "Âge indiqué : 18–99 ans",
+      "description": "La médiathèque Andrée Chedid vous invite à participer à un atelier d'écriture dans le cadre du Kiosque citoyen \"Solidarités et engagement\"."
     },
     {
       "title": "Le Petit Géant",
@@ -616,28 +275,6 @@
       "source": "Institut du monde arabe-Tourcoing",
       "age": "Âge conseillé à vérifier",
       "description": "Fakir réunit les musiciens Marwan Fakir (violon), Louis Desseigne (guitares et saz) et Pierre-Antoine Despatures (contrebasse)."
-    },
-    {
-      "title": "Tournoi football entre habitants de Moulins",
-      "date": "ven. 27 novembre 2026 · 17 h 30",
-      "place": "Stade Jean Bouin",
-      "town": "Lille",
-      "kind": "sport",
-      "url": "https://openagenda.com/lille-moulins/events/3914784_tournoi-football-entre-habitants-de-moulins",
-      "source": "Lille-Moulins",
-      "age": "Âge indiqué : 18–99 ans",
-      "description": "Tournoi football entre habitants de Moulins"
-    },
-    {
-      "title": "Kilikili: Chouette, une histoire !",
-      "date": "sam. 28 novembre 2026 · 10 h 30",
-      "place": "Médiathèque de Lille-Moulins",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/bml/events/83208694_kilikili-chouette-une-histoire",
-      "source": "Lille-Moulins",
-      "age": "Âge indiqué : 4–7 ans",
-      "description": "Chouette, une histoire ! Ecouter des histoires, c'est chouette. Alors quand elles racontent sur les chouettes c'est encore mieux..."
     },
     {
       "title": "Speed-dating patrimonial",
