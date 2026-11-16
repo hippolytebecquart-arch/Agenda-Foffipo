@@ -1,28 +1,6 @@
 {
-  "updatedAt": "2026-11-15T17:52:30.924870+00:00",
+  "updatedAt": "2026-11-16T06:50:53.413016+00:00",
   "events": [
-    {
-      "title": "Concert GZLVNR : Convulsif + Toru  + Crew Barrymore",
-      "date": "dim. 15 novembre 2026 · 20 h 00",
-      "place": "La malterie",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/la-culture-en-continu/events/37082622_concert-gzlvnr-convulsif-toru-crew-barrymore-2418504",
-      "source": "Métropole Européenne de Lille",
-      "age": "Âge conseillé à vérifier",
-      "description": "GZL VNR à la Malterie pour une soirée noise rock/ prog punkkkkk le 15 novembre ʕ•́ᴥ•̀ʔっ"
-    },
-    {
-      "title": "Malik Bentalha",
-      "date": "dim. 15 novembre 2026 · 20 h 00",
-      "place": "Zénith de Lille",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/la-culture-en-continu/events/32033376_malik-bentalha-2197808",
-      "source": "Métropole Européenne de Lille",
-      "age": "Âge conseillé à vérifier",
-      "description": "Avec Nouveau Monde, Malik Bentalha signe son retour sur scène dans un one-man-show à la fois drôle, touchant et engagé."
-    },
     {
       "title": "Portes ouvertes du Centre d'Examens de Santé de Roubaix",
       "date": "mar. 17 novembre 2026 · 13 h 30",
@@ -33,6 +11,17 @@
       "source": "Ville de Roubaix",
       "age": "Âge conseillé à vérifier",
       "description": "Portes ouvertes du Centre d'Examens de Santé du Centre Hospitalier de Roubaix"
+    },
+    {
+      "title": "Concert",
+      "date": "mar. 17 novembre 2026 · 20 h 00",
+      "place": "MUba Eugène Leroy",
+      "town": "Tourcoing",
+      "kind": "culture",
+      "url": "https://openagenda.com/muba-eugene-leroy-tourcoing/events/69583075_concert-3600314",
+      "source": "Wattrelos Tourisme",
+      "age": "Âge conseillé à vérifier",
+      "description": "Anmoor - proposé par le Tourcoing Jazz"
     },
     {
       "title": "Kilikili, la lecture d’histoires pour les petits",
@@ -143,17 +132,6 @@
       "source": "Conservatoire de Roubaix",
       "age": "Âge indiqué : 0–99 ans",
       "description": "Quatuor Poulenc"
-    },
-    {
-      "title": "TOUR DE CHAUFFE #20 - LAIV / 0 DEGRÉ",
-      "date": "ven. 20 novembre 2026 · 20 h 00",
-      "place": "Maison Folie Hospice d'Havré",
-      "town": "Tourcoing",
-      "kind": "baby",
-      "url": "https://openagenda.com/maison-folie-hospice-d-havre/events/67087601_tour-de-chauffe-20-laiv-0-degre",
-      "source": "Maison Folie Hospice d'Havré - Tourcoing",
-      "age": "Âge indiqué : 0–99 ans",
-      "description": "TOUR DE CHAUFFE #20 - LAIV / 0 DEGRÉ"
     },
     {
       "title": "Être en scène - Initiation",
