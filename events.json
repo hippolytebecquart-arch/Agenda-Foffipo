@@ -1,50 +1,6 @@
 {
-  "updatedAt": "2026-11-17T06:17:44.001518+00:00",
+  "updatedAt": "2026-11-17T18:13:24.769722+00:00",
   "events": [
-    {
-      "title": "Portes ouvertes du Centre d'Examens de Santé de Roubaix",
-      "date": "mar. 17 novembre 2026 · 13 h 30",
-      "place": "Centre d'Examens de Santé",
-      "town": "Roubaix",
-      "kind": "culture",
-      "url": "https://openagenda.com/roubaix/events/88305085_portes-ouvertes-du-centre-dexamens-de-sante-de-roubaix-1317160",
-      "source": "Ville de Roubaix",
-      "age": "Âge conseillé à vérifier",
-      "description": "Portes ouvertes du Centre d'Examens de Santé du Centre Hospitalier de Roubaix"
-    },
-    {
-      "title": "Citéphilo - Des cartes et des territoires. \nLa France est-elle en voie",
-      "date": "mar. 17 novembre 2026 · 15 h 00",
-      "place": "Palais des Beaux-Arts - Salle Valmy",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/ville-de-lille/events/78222169_citephilo-des-cartes-et-des-territoires-la-france-est-elle-en-voie",
-      "source": "Ville de Lille",
-      "age": "Âge conseillé à vérifier",
-      "description": "Des cartes et des territoires.  La France est-elle en voie avec Jacques Lévy et Ilaria Casillo"
-    },
-    {
-      "title": "Citéphilo - Mazan. Anthropologie \nd’un procès pour viols",
-      "date": "mar. 17 novembre 2026 · 18 h 15",
-      "place": "Sciences Po",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/ville-de-lille/events/57665830_citephilo-mazan-anthropologie-dun-proces-pour-viols",
-      "source": "Ville de Lille",
-      "age": "Âge conseillé à vérifier",
-      "description": "Mazan. Anthropologie  d’un procès pour viols par Parrine Lachenal et Fatma Hamdoun"
-    },
-    {
-      "title": "Concert",
-      "date": "mar. 17 novembre 2026 · 20 h 00",
-      "place": "MUba Eugène Leroy",
-      "town": "Tourcoing",
-      "kind": "culture",
-      "url": "https://openagenda.com/muba-eugene-leroy-tourcoing/events/69583075_concert-3600314",
-      "source": "Wattrelos Tourisme",
-      "age": "Âge conseillé à vérifier",
-      "description": "Anmoor - proposé par le Tourcoing Jazz"
-    },
     {
       "title": "Kilikili, la lecture d’histoires pour les petits",
       "date": "mer. 18 novembre 2026 · 10 h 30",
@@ -200,6 +156,17 @@
       "description": "A partir de livres recyclés"
     },
     {
+      "title": "Murray Head",
+      "date": "dim. 22 novembre 2026 · 19 h 00",
+      "place": "Casino Barrière de Lille",
+      "town": "Lille",
+      "kind": "baby",
+      "url": "https://openagenda.com/theatre-barriere-de-lille/events/2056131_murray-head-6574557",
+      "source": "Théâtre Barrière de Lille",
+      "age": "Âge indiqué : 0–99 ans",
+      "description": "Le grand Murray Head, artiste incontournable aux succès intemporels, vous donne rendez-vous pour un concert exceptionnel."
+    },
+    {
       "title": "Tournoi football entre habitants de Moulins",
       "date": "ven. 27 novembre 2026 · 17 h 30",
       "place": "Stade Jean Bouin",
@@ -253,6 +220,17 @@
       "source": "Médiathèque de Roubaix",
       "age": "Âge conseillé à vérifier",
       "description": "Atelier créatif"
+    },
+    {
+      "title": "Le comte de Bouderbala 4",
+      "date": "dim. 29 novembre 2026 · 18 h 00",
+      "place": "Casino Barrière de Lille",
+      "town": "Lille",
+      "kind": "baby",
+      "url": "https://openagenda.com/theatre-barriere-de-lille/events/818637_le-comte-de-bouderbala-4-1753508",
+      "source": "Théâtre Barrière de Lille",
+      "age": "Âge indiqué : 0–99 ans",
+      "description": "15 ans de carrière et + de 2,5 millions de spectateurs en salle, le Comte de Bouderbala revient plus affûté que jamais avec un quatrième opus !"
     },
     {
       "title": "Entre ombre et lumière !",
@@ -321,6 +299,17 @@
       "description": "Atelier Théâtre Ouvert"
     },
     {
+      "title": "Marché de Noël de créateurs et streetwear",
+      "date": "sam. 12 décembre 2026 · 12 h 00",
+      "place": "Bazaar St-So",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/lille-centre/events/99519484_week-end-a-lille-les-12-et-13-decembre-marche-de-noel-de-createurs-et-streetwear-gratuit",
+      "source": "Lille-Centre",
+      "age": "Âge conseillé à vérifier",
+      "description": "Pop-up de Noël à Lille : 50+ créateurs et marques streetwear, entrée gratuite"
+    },
+    {
       "title": "Chambre à Part",
       "date": "dim. 13 décembre 2026 · 11 h 00",
       "place": "Auditorium du Conservatoire de Lille",
@@ -330,6 +319,17 @@
       "source": "Vieux-Lille",
       "age": "Âge conseillé à vérifier",
       "description": "Fauré en miroir"
+    },
+    {
+      "title": "Joséphine Baker - Le musical",
+      "date": "dim. 13 décembre 2026 · 18 h 00",
+      "place": "Casino Barrière de Lille",
+      "town": "Lille",
+      "kind": "baby",
+      "url": "https://openagenda.com/theatre-barriere-de-lille/events/59555895_josephine-baker-le-musical-1583877",
+      "source": "Théâtre Barrière de Lille",
+      "age": "Âge indiqué : 0–99 ans",
+      "description": "Sa vie est un roman, ce spectacle sa lumière !"
     },
     {
       "title": "Concert de Simon DIRICQ et des classes de saxophone des Conservatoires de Lille et Lens",
@@ -363,6 +363,17 @@
       "source": "Vieux-Lille",
       "age": "Âge conseillé à vérifier",
       "description": "Concert de Noël du Chœur Régional Hauts-de-France 🎄✨"
+    },
+    {
+      "title": "Match d'Impro",
+      "date": "lun. 21 décembre 2026 · 20 h 00",
+      "place": "Théâtre Charcot",
+      "town": "Marcq-en-Barœul",
+      "kind": "culture",
+      "url": "https://openagenda.com/conservatoiredelille/events/32891171_match-dimpro-2167334",
+      "source": "Vieux-Lille",
+      "age": "Âge conseillé à vérifier",
+      "description": "Match Impro Marcq / Conservatoire"
     },
     {
       "title": "Encre chimérique !",
