@@ -1,72 +1,6 @@
 {
-  "updatedAt": "2026-11-18T18:07:09.427350+00:00",
+  "updatedAt": "2026-11-19T06:19:28.721415+00:00",
   "events": [
-    {
-      "title": "Concert Pierre Gisèle & Jokari",
-      "date": "mer. 18 novembre 2026 · 19 h 30",
-      "place": "Albedo Kitchen",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/ville-de-lille/events/38609299_concert-pierre-gisel-and-jokari",
-      "source": "Ville de Lille",
-      "age": "Âge conseillé à vérifier",
-      "description": "Deux concerts pop lofi / synthpop"
-    },
-    {
-      "title": "Jam Session #1",
-      "date": "mer. 18 novembre 2026 · 20 h 00",
-      "place": "La malterie",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/la-culture-en-continu/events/47778353_jam-session-1-720384",
-      "source": "Ville de Lille",
-      "age": "Âge conseillé à vérifier",
-      "description": "Le Conservatoire de Lille, la malterie et Muzzix présentent : Jam Session #1"
-    },
-    {
-      "title": "Jam Session #1",
-      "date": "mer. 18 novembre 2026 · 20 h 00",
-      "place": "La malterie",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/ville-de-lille/events/66746019_jam-session-1-6766409",
-      "source": "Ville de Lille",
-      "age": "Âge conseillé à vérifier",
-      "description": "Le Conservatoire de Lille, la malterie et Muzzix présentent : Jam Session #1"
-    },
-    {
-      "title": "Colours in the Street",
-      "date": "mer. 18 novembre 2026 · 20 h 00",
-      "place": "Le Splendid",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/ville-de-lille/events/1619888_colours-in-the-street-2362534",
-      "source": "Ville de Lille",
-      "age": "Âge conseillé à vérifier",
-      "description": "Colours in the Street s’inscrit dans le mouvement d’une pop massive, élégante, percutante, taillée pour les grandes scènes."
-    },
-    {
-      "title": "Jam Session",
-      "date": "mer. 18 novembre 2026 · 20 h 30",
-      "place": "La malterie",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/conservatoiredelille/events/26554543_jam-session-5461068",
-      "source": "Ville de Lille",
-      "age": "Âge conseillé à vérifier",
-      "description": "Les jam sessions du Conservatoire sont de retour à la malterie !"
-    },
-    {
-      "title": "KS6: Small forward",
-      "date": "mer. 18 novembre 2026 · 20 h 30",
-      "place": "Théâtre du Nord",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/la-culture-en-continu/events/16536979_ks6-small-forward",
-      "source": "Ville de Lille",
-      "age": "Âge indiqué : 14–99 ans",
-      "description": "“Un spectacle qui smash” The Financial Times"
-    },
     {
       "title": "Journée d'étude du festival \"D'un pays l'autre\"",
       "date": "jeu. 19 novembre 2026 · 09 h 00",
@@ -330,17 +264,6 @@
       "source": "Vieux-Lille",
       "age": "Âge conseillé à vérifier",
       "description": "Atelier Théâtre Ouvert"
-    },
-    {
-      "title": "Marché de Noël de créateurs et streetwear",
-      "date": "sam. 12 décembre 2026 · 12 h 00",
-      "place": "Bazaar St-So",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/lille-centre/events/99519484_week-end-a-lille-les-12-et-13-decembre-marche-de-noel-de-createurs-et-streetwear-gratuit",
-      "source": "Lille-Centre",
-      "age": "Âge conseillé à vérifier",
-      "description": "Pop-up de Noël à Lille : 50+ créateurs et marques streetwear, entrée gratuite"
     },
     {
       "title": "Chambre à Part",
