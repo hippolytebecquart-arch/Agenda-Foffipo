@@ -1,27 +1,71 @@
 {
-  "updatedAt": "2026-11-19T06:19:28.721415+00:00",
+  "updatedAt": "2026-11-19T18:08:57.063481+00:00",
   "events": [
     {
-      "title": "Journée d'étude du festival \"D'un pays l'autre\"",
-      "date": "jeu. 19 novembre 2026 · 09 h 00",
+      "title": "L’art de vivre au palais Stoclet, véritable sanctuaire de formalités sociales.",
+      "date": "jeu. 19 novembre 2026 · 18 h 30",
+      "place": "Villa Cavrois",
+      "town": "Croix",
+      "kind": "culture",
+      "url": "https://openagenda.com/villa-cavrois/events/32085538_lart-de-vivre-au-palais-stoclet-veritable-sanctuaire-de-formalites-sociales",
+      "source": "Office de Tourisme de la Métropole Européenne de Lille",
+      "age": "Âge conseillé à vérifier",
+      "description": "Conférence sur la vie au palais Stoclet"
+    },
+    {
+      "title": "FSI - Jeunesses solidaires : agir ici, ailleurs, ensemble",
+      "date": "jeu. 19 novembre 2026 · 19 h 30",
+      "place": "Cinéma L'Univers",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/ville-de-lille/events/76325259_jeunesses-solidaires-agir-ici-ailleurs-ensemble",
+      "source": "Ville de Lille",
+      "age": "Âge conseillé à vérifier",
+      "description": "Assistez à un spectacle interactive interrogeant les rôle des médias et les nouvelles technologies dans la démocratie !"
+    },
+    {
+      "title": "Surtout pas le silence - Compagnie A Ciel Ouvert",
+      "date": "jeu. 19 novembre 2026 · 20 h 00",
+      "place": "Théâtre Massenet, Lille",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/la-culture-en-continu/events/94764039_surtout-pas-le-silence-compagnie-a-ciel-ouvert",
+      "source": "Ville de Lille",
+      "age": "Âge indiqué : 13–99 ans",
+      "description": "Théâtre"
+    },
+    {
+      "title": "Improvisation avec les Illico's",
+      "date": "jeu. 19 novembre 2026 · 20 h 00",
+      "place": "le musical",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/max-fb100003037778845/events/47718170_improvisation-avec-les-illicos-1381144",
+      "source": "Office de Tourisme de la Métropole Européenne de Lille",
+      "age": "Âge indiqué : 18–99 ans",
+      "description": "Les matchs d'impro se passent soit un individuel soit en équipes avec des thèmes aussi riches que variés."
+    },
+    {
+      "title": "La bibliothèque idéale de Guillaume Contré",
+      "date": "ven. 20 novembre 2026 · 12 h 30",
       "place": "Médiathèque Jean-Lévy - Lille",
       "town": "Lille",
       "kind": "culture",
-      "url": "https://openagenda.com/bml/events/56386807_journee-detude-du-festival-dun-pays-lautre",
+      "url": "https://openagenda.com/bml/events/23310387_la-bibliotheque-ideale-de-guillaume-contre",
       "source": "Le réseau des bibliothèques et médiathèques de la MEL",
       "age": "Âge indiqué : 18–99 ans",
       "description": "Dans le cadre du festival de traduction \"D'un pays l'autre\" se déroulant du mercredi 18 au dimanche 22 novembre 2026 organisé par les éditions de la contre-allée."
     },
     {
-      "title": "V.I.B. Very Important Baby",
-      "date": "jeu. 19 novembre 2026 · 10 h 00",
-      "place": "Médiathèque André Malraux",
+      "title": "À nous de jouer !",
+      "date": "ven. 20 novembre 2026 · 15 h 30",
+      "place": "Tourcoing/Médiathèque Aimé Césaire",
       "town": "Tourcoing",
-      "kind": "baby",
-      "url": "https://openagenda.com/reseau-des-idees-mediatheques-de-tourcoing/events/54303466_vib-very-important-baby-2438138",
+      "kind": "culture",
+      "url": "https://openagenda.com/reseau-des-idees-mediatheques-de-tourcoing/events/28274808_a-nous-de-jouer-8941441",
       "source": "Le réseau des bibliothèques et médiathèques de la MEL",
-      "age": "Âge indiqué : 0–3 ans",
-      "description": "Des jeux, des livres, une musique douce et une bibliothécaire aux petits soins auprès des plus jeunes et de leurs parents. Tous les jeudis, de 10h à 11h30."
+      "age": "Âge indiqué : 18–99 ans",
+      "description": "Envie de jouer et partager un bon moment ? La médiathèque Aimé Césaire vous accueille un vendredi après-midi par mois. Au programme : jeux classiques et nouveautés à découvrir."
     },
     {
       "title": "Dernières folies. Vieillesse et santé mentale (19e-20e siècle)",
@@ -44,6 +88,17 @@
       "source": "Lille-Moulins",
       "age": "Âge indiqué : 18–99 ans",
       "description": "Soirée entre hommes !"
+    },
+    {
+      "title": "Ciné-tricot cosy crime",
+      "date": "ven. 20 novembre 2026 · 18 h 00",
+      "place": "Médiathèque Till L'Espiègle",
+      "town": "Villeneuve-d'Ascq",
+      "kind": "culture",
+      "url": "https://openagenda.com/mediatheque-de-villeneuve-dascq/events/6084687_cine-tricot-cosy-crime",
+      "source": "Le réseau des bibliothèques et médiathèques de la MEL",
+      "age": "Âge indiqué : 15–99 ans",
+      "description": "Rendez-vous le vendredi 20 novembre à 18h à la médiathèque pour un ciné-tricot cosy crime !"
     },
     {
       "title": "Récital de piano de Ryutaro Suzuki",
@@ -123,26 +178,37 @@
       "description": "A partir de livres recyclés"
     },
     {
-      "title": "FAKIR TRIO",
-      "date": "dim. 22 novembre 2026 · 17 h 00",
-      "place": "Institut du monde arabe-Tourcoing",
-      "town": "Tourcoing",
-      "kind": "culture",
-      "url": "https://openagenda.com/tourcoing-jazz/events/46837891_fakir-trio-924909",
-      "source": "Tourcoing Jazz",
-      "age": "Âge conseillé à vérifier",
-      "description": "CARTE BLANCHE AU TOURCOING JAZZ POUR LES 10 ANS DE L’INSTITUT DU MONDE ARABE-TOURCOING"
+      "title": "Murray Head",
+      "date": "dim. 22 novembre 2026 · 19 h 00",
+      "place": "Casino Barrière de Lille",
+      "town": "Lille",
+      "kind": "baby",
+      "url": "https://openagenda.com/theatre-barriere-de-lille/events/2056131_murray-head-6574557",
+      "source": "Théâtre Barrière de Lille",
+      "age": "Âge indiqué : 0–99 ans",
+      "description": "Le grand Murray Head, artiste incontournable aux succès intemporels, vous donne rendez-vous pour un concert exceptionnel."
     },
     {
-      "title": "DANIEL ZIMMERMANN",
-      "date": "jeu. 26 novembre 2026 · 17 h 30",
-      "place": "Maison Folie Hospice d'Havré",
-      "town": "Tourcoing",
+      "title": "Vente Solidaire - Marcq Tiers Monde",
+      "date": "jeu. 26 novembre 2026 · 18 h 30",
+      "place": "Salle Jean Degros",
+      "town": "Marcq-en-Barœul",
       "kind": "culture",
-      "url": "https://openagenda.com/tourcoing-jazz/events/14401999_daniel-zimmermann",
-      "source": "Tourcoing Jazz",
+      "url": "https://openagenda.com/ville-de-marcq-en-baroeul/events/16088055_vente-solidaire-marcq-tiers-monde",
+      "source": "Ville de Marcq-en-Baroeul",
       "age": "Âge conseillé à vérifier",
-      "description": "Tourcoing Jazz Club 2026"
+      "description": "Vente solidaire - Marcq Tiers Monde"
+    },
+    {
+      "title": "Les Rencards du climat au Bus Magique !",
+      "date": "jeu. 26 novembre 2026 · 19 h 00",
+      "place": "Le Bus Magique, Lille",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/les-rencards-du-climat-metropole-lilloise/events/86586114_rencard-du-climat-lieu-a-confirmer-285794",
+      "source": "Fresques Lille Métropole",
+      "age": "Âge conseillé à vérifier",
+      "description": "Temps de rencontre pour ceux qui s'investissent ou veulent s'investir en faveur de l'environnement"
     },
     {
       "title": "Tournoi football entre habitants de Moulins",
@@ -200,6 +266,17 @@
       "description": "Atelier créatif"
     },
     {
+      "title": "Le comte de Bouderbala 4",
+      "date": "dim. 29 novembre 2026 · 18 h 00",
+      "place": "Casino Barrière de Lille",
+      "town": "Lille",
+      "kind": "baby",
+      "url": "https://openagenda.com/theatre-barriere-de-lille/events/818637_le-comte-de-bouderbala-4-1753508",
+      "source": "Théâtre Barrière de Lille",
+      "age": "Âge indiqué : 0–99 ans",
+      "description": "15 ans de carrière et + de 2,5 millions de spectateurs en salle, le Comte de Bouderbala revient plus affûté que jamais avec un quatrième opus !"
+    },
+    {
       "title": "Entre ombre et lumière !",
       "date": "mar. 1 décembre 2026 · 18 h 15",
       "place": "Musée de l'Hospice Comtesse",
@@ -222,6 +299,17 @@
       "description": "De l'image à l'écrit, de l'écrit à la voix"
     },
     {
+      "title": "TÉLÉTHON 2026 du mercredi 02 décembre au samedi 05 décembre 2026.",
+      "date": "mer. 2 décembre 2026 · 10 h 30",
+      "place": "avenue",
+      "town": "Marcq-en-Barœul",
+      "kind": "culture",
+      "url": "https://openagenda.com/ville-de-marcq-en-baroeul/events/15542654_telethon-2026-du-mercredi-02-decembre-au-samedi-05-decembre-2026",
+      "source": "Ville de Marcq-en-Baroeul",
+      "age": "Âge conseillé à vérifier",
+      "description": "TÉLÉTHON 2026 du mercredi 02 décembre au samedi 05 décembre 2026."
+    },
+    {
       "title": "Dolly Parton : l’Amérique réconciliée",
       "date": "jeu. 3 décembre 2026 · 18 h 30",
       "place": "Médiathèque de Roubaix - La Grand-Plage",
@@ -231,6 +319,17 @@
       "source": "Médiathèque de Roubaix",
       "age": "Âge conseillé à vérifier",
       "description": "Projection"
+    },
+    {
+      "title": "Fête aux Huîtres",
+      "date": "ven. 4 décembre 2026 · 12 h 00",
+      "place": "Hippodrome",
+      "town": "Marcq-en-Barœul",
+      "kind": "culture",
+      "url": "https://openagenda.com/ville-de-marcq-en-baroeul/events/59202388_fete-aux-huitres",
+      "source": "Ville de Marcq-en-Baroeul",
+      "age": "Âge conseillé à vérifier",
+      "description": "Fête aux Huîtres"
     },
     {
       "title": "Carte blanche aux étudiants de l'ESAAT",
@@ -266,6 +365,61 @@
       "description": "Atelier Théâtre Ouvert"
     },
     {
+      "title": "Cérémonie d’hommage aux Morts",
+      "date": "sam. 5 décembre 2026 · 11 h 00",
+      "place": "Mémorial",
+      "town": "Marcq-en-Barœul",
+      "kind": "culture",
+      "url": "https://openagenda.com/ville-de-marcq-en-baroeul/events/67963734_ceremonie-dhommage-aux-morts-5024849",
+      "source": "Ville de Marcq-en-Baroeul",
+      "age": "Âge conseillé à vérifier",
+      "description": "Cérémonie d’hommage aux Morts"
+    },
+    {
+      "title": "De l’hôpital médiéval au musée d’art et d’histoire de Lille",
+      "date": "sam. 5 décembre 2026 · 15 h 00",
+      "place": "Musée de l'Hospice Comtesse",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/hospice-comtesse/events/43436947_de-lhopital-medieval-au-musee-dart-et-dhistoire-de-lille-7273780",
+      "source": "Vieux-Lille",
+      "age": "Âge indiqué : 10–99 ans",
+      "description": "Laissez-vous conter l’histoire singulière de ce musée chargé d’histoire(s)"
+    },
+    {
+      "title": "La Fresque du Numérique à Saint-André-lez-Lille",
+      "date": "mar. 8 décembre 2026 · 18 h 15",
+      "place": "Tiers-Lieu \"So Watt\"",
+      "town": "Saint-André-lez-Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/fresque-du-numerique-lille-metropole/events/99412259_la-fresque-du-numerique-a-saint-andre-lez-lille-4317029",
+      "source": "Fresques Lille Métropole",
+      "age": "Âge conseillé à vérifier",
+      "description": "En 3h, l'atelier Fresque du Numérique permet de comprendre l'essentiel des enjeux environnementaux liés à l'IA et aux technologies numériques, afin de pouvoir passer à l'action."
+    },
+    {
+      "title": "Le musée s'ouvre à la poésie",
+      "date": "sam. 12 décembre 2026 · 10 h 00",
+      "place": "Musée de l'Hospice Comtesse",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/hospice-comtesse/events/26411711_le-musee-souvre-a-la-poesie",
+      "source": "Vieux-Lille",
+      "age": "Âge indiqué : 9–99 ans",
+      "description": "En écho au Lille Poésie Festival 2026 et en partenariat avec la bibliothèque du Vieux-lille"
+    },
+    {
+      "title": "Marché de Noël de créateurs et streetwear",
+      "date": "sam. 12 décembre 2026 · 12 h 00",
+      "place": "Bazaar St-So",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/lille-centre/events/99519484_week-end-a-lille-les-12-et-13-decembre-marche-de-noel-de-createurs-et-streetwear-gratuit",
+      "source": "Lille-Centre",
+      "age": "Âge conseillé à vérifier",
+      "description": "Pop-up de Noël à Lille : 50+ créateurs et marques streetwear, entrée gratuite"
+    },
+    {
       "title": "Chambre à Part",
       "date": "dim. 13 décembre 2026 · 11 h 00",
       "place": "Auditorium du Conservatoire de Lille",
@@ -275,6 +429,28 @@
       "source": "Vieux-Lille",
       "age": "Âge conseillé à vérifier",
       "description": "Fauré en miroir"
+    },
+    {
+      "title": "Mon musée de poche",
+      "date": "dim. 13 décembre 2026 · 15 h 30",
+      "place": "Musée de l'Hospice Comtesse",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/hospice-comtesse/events/86405919_mon-musee-de-poche",
+      "source": "Vieux-Lille",
+      "age": "Âge indiqué : 7–99 ans",
+      "description": "Un atelier à expérimenter en famille !"
+    },
+    {
+      "title": "Joséphine Baker - Le musical",
+      "date": "dim. 13 décembre 2026 · 18 h 00",
+      "place": "Casino Barrière de Lille",
+      "town": "Lille",
+      "kind": "baby",
+      "url": "https://openagenda.com/theatre-barriere-de-lille/events/59555895_josephine-baker-le-musical-1583877",
+      "source": "Théâtre Barrière de Lille",
+      "age": "Âge indiqué : 0–99 ans",
+      "description": "Sa vie est un roman, ce spectacle sa lumière !"
     },
     {
       "title": "Concert de Simon DIRICQ et des classes de saxophone des Conservatoires de Lille et Lens",
@@ -297,6 +473,17 @@
       "source": "Vieux-Lille",
       "age": "Âge conseillé à vérifier",
       "description": "Les jam sessions du Conservatoire sont de retour à la malterie !"
+    },
+    {
+      "title": "Les Rencards du climat à Chaud Bouillon !",
+      "date": "jeu. 17 décembre 2026 · 19 h 00",
+      "place": "Chaud Bouillon",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/les-rencards-du-climat-metropole-lilloise/events/65489913_rencard-du-climat",
+      "source": "Fresques Lille Métropole",
+      "age": "Âge conseillé à vérifier",
+      "description": "Temps de rencontre pour ceux qui s'investissent ou veulent s'investir en faveur de l'environnement"
     },
     {
       "title": "Concert de Noël",
@@ -343,6 +530,17 @@
       "description": "Les jam sessions du Conservatoire sont de retour à la malterie !"
     },
     {
+      "title": "Les Rencards du climat au Bus Magique !",
+      "date": "jeu. 21 janvier 2027 · 19 h 00",
+      "place": "Le Bus Magique, Lille",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/les-rencards-du-climat-metropole-lilloise/events/17197301_rencard-du-climat-2852306",
+      "source": "Fresques Lille Métropole",
+      "age": "Âge conseillé à vérifier",
+      "description": "Temps de rencontre pour ceux qui s'investissent ou veulent s'investir en faveur de l'environnement"
+    },
+    {
       "title": "Lire à Voix haute",
       "date": "sam. 6 février 2027 · 14 h 30",
       "place": "médiathèque Lille-Moulins",
@@ -352,6 +550,17 @@
       "source": "Vieux-Lille",
       "age": "Âge conseillé à vérifier",
       "description": "Atelier Théâtre Ouvert"
+    },
+    {
+      "title": "Rencard du climat (lieu à confirmer)",
+      "date": "mar. 16 février 2027 · 19 h 00",
+      "place": "Arkose",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/les-rencards-du-climat-metropole-lilloise/events/73973473_rencard-du-climat-lieu-a-confirmer-9768527",
+      "source": "Fresques Lille Métropole",
+      "age": "Âge conseillé à vérifier",
+      "description": "Temps de rencontre pour ceux qui s'investissent ou veulent s'investir en faveur de l'environnement"
     },
     {
       "title": "Jam Session",
@@ -387,6 +596,17 @@
       "description": "Les jam sessions du Conservatoire sont de retour à la malterie !"
     },
     {
+      "title": "Rencard du climat (lieu à confirmer)",
+      "date": "jeu. 15 avril 2027 · 19 h 00",
+      "place": "Les Sarrazins",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/les-rencards-du-climat-metropole-lilloise/events/38388095_rencard-du-climat-9780248",
+      "source": "Fresques Lille Métropole",
+      "age": "Âge conseillé à vérifier",
+      "description": "Temps de rencontre pour ceux qui s'investissent ou veulent s'investir en faveur de l'environnement"
+    },
+    {
       "title": "Jam Session",
       "date": "mer. 12 mai 2027 · 20 h 30",
       "place": "La malterie",
@@ -396,6 +616,28 @@
       "source": "Vieux-Lille",
       "age": "Âge conseillé à vérifier",
       "description": "Les jam sessions du Conservatoire sont de retour à la malterie !"
+    },
+    {
+      "title": "Rencard du climat +  Vélorution (lieu à confirmer)",
+      "date": "ven. 28 mai 2027 · 19 h 00",
+      "place": "Vélorution, grand Place Lille",
+      "town": "Tourcoing",
+      "kind": "culture",
+      "url": "https://openagenda.com/les-rencards-du-climat-metropole-lilloise/events/12074087_rencard-du-climat-velorution-lieu-a-confirmer",
+      "source": "Fresques Lille Métropole",
+      "age": "Âge conseillé à vérifier",
+      "description": "Temps de rencontre pour ceux qui s'investissent ou veulent s'investir en faveur de l'environnement durant la vélorution du mois de \"mai à vélo\""
+    },
+    {
+      "title": "Les Rencards du climat aux Petites Cantines !",
+      "date": "mar. 8 juin 2027 · 19 h 00",
+      "place": "Les petites cantines",
+      "town": "Croix",
+      "kind": "culture",
+      "url": "https://openagenda.com/les-rencards-du-climat-metropole-lilloise/events/2331352_rencard-du-climat-1233335",
+      "source": "Fresques Lille Métropole",
+      "age": "Âge conseillé à vérifier",
+      "description": "Temps de rencontre pour ceux qui s'investissent ou veulent s'investir en faveur de l'environnement"
     }
   ]
 }
