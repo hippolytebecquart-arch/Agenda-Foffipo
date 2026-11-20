@@ -1,49 +1,49 @@
 {
-  "updatedAt": "2026-11-19T18:08:57.063481+00:00",
+  "updatedAt": "2026-11-20T06:21:32.308588+00:00",
   "events": [
     {
-      "title": "L’art de vivre au palais Stoclet, véritable sanctuaire de formalités sociales.",
-      "date": "jeu. 19 novembre 2026 · 18 h 30",
-      "place": "Villa Cavrois",
-      "town": "Croix",
-      "kind": "culture",
-      "url": "https://openagenda.com/villa-cavrois/events/32085538_lart-de-vivre-au-palais-stoclet-veritable-sanctuaire-de-formalites-sociales",
-      "source": "Office de Tourisme de la Métropole Européenne de Lille",
-      "age": "Âge conseillé à vérifier",
-      "description": "Conférence sur la vie au palais Stoclet"
+      "title": "Voyage à l'Anglaise\nWilliam Turner et les artistes du « Grand Tour »",
+      "date": "ven. 20 novembre 2026 · 10 h 00",
+      "place": "Palais des Beaux-Arts de Lille",
+      "town": "Lille",
+      "kind": "baby",
+      "url": "https://openagenda.com/vdl-palais-des-beaux-arts/events/35986682_voyage-a-langlaise-william-turner-et-les-artistes-du-grand-tour",
+      "source": "Wattrelos Tourisme",
+      "age": "Âge indiqué : 0–99 ans",
+      "description": "Cette exposition montre comment les voyages des artistes ont révolutionné l'art du paysage."
     },
     {
-      "title": "FSI - Jeunesses solidaires : agir ici, ailleurs, ensemble",
-      "date": "jeu. 19 novembre 2026 · 19 h 30",
-      "place": "Cinéma L'Univers",
+      "title": "Adaptation du logement : Forum \"Bien Chez Soi\" à Roubaix",
+      "date": "ven. 20 novembre 2026 · 10 h 00",
+      "place": "maison des Associations",
+      "town": "Roubaix",
+      "kind": "culture",
+      "url": "https://openagenda.com/mhd/events/6450563_adaptation-du-logement-forum-bien-chez-soi-a-roubaix",
+      "source": "Office de Tourisme de Roubaix",
+      "age": "Âge conseillé à vérifier",
+      "description": "Stand AMELIO"
+    },
+    {
+      "title": "Santé des femmes, parlons en !",
+      "date": "ven. 20 novembre 2026 · 10 h 00",
+      "place": "Salle du Gymnase",
       "town": "Lille",
       "kind": "culture",
-      "url": "https://openagenda.com/ville-de-lille/events/76325259_jeunesses-solidaires-agir-ici-ailleurs-ensemble",
+      "url": "https://openagenda.com/ville-de-lille/events/16012683_sante-des-femmes-parlons-en",
+      "source": "Ville de Lille",
+      "age": "Âge indiqué : 14–99 ans",
+      "description": "Une journée d’information et d’échanges ouverte à toutes et tous, autour de la santé gynécologique, de la santé mentale, de la santé globale et du bien-être."
+    },
+    {
+      "title": "FSI - Rencontre citoyenne : « Repenser la coopération internationale »",
+      "date": "ven. 20 novembre 2026 · 10 h 00",
+      "place": "Sciences po 9 rue Angellier, 59000 Lille",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/ville-de-lille/events/10862717_rencontre-citoyenne-repenser-la-cooperation-internationale",
       "source": "Ville de Lille",
       "age": "Âge conseillé à vérifier",
-      "description": "Assistez à un spectacle interactive interrogeant les rôle des médias et les nouvelles technologies dans la démocratie !"
-    },
-    {
-      "title": "Surtout pas le silence - Compagnie A Ciel Ouvert",
-      "date": "jeu. 19 novembre 2026 · 20 h 00",
-      "place": "Théâtre Massenet, Lille",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/la-culture-en-continu/events/94764039_surtout-pas-le-silence-compagnie-a-ciel-ouvert",
-      "source": "Ville de Lille",
-      "age": "Âge indiqué : 13–99 ans",
-      "description": "Théâtre"
-    },
-    {
-      "title": "Improvisation avec les Illico's",
-      "date": "jeu. 19 novembre 2026 · 20 h 00",
-      "place": "le musical",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/max-fb100003037778845/events/47718170_improvisation-avec-les-illicos-1381144",
-      "source": "Office de Tourisme de la Métropole Européenne de Lille",
-      "age": "Âge indiqué : 18–99 ans",
-      "description": "Les matchs d'impro se passent soit un individuel soit en équipes avec des thèmes aussi riches que variés."
+      "description": "Face aux crises, aux inégalités et aux discours de défiance, comment parler autrement de solidarité internationale ?"
     },
     {
       "title": "La bibliothèque idéale de Guillaume Contré",
@@ -57,6 +57,39 @@
       "description": "Dans le cadre du festival de traduction \"D'un pays l'autre\" se déroulant du mercredi 18 au dimanche 22 novembre 2026 organisé par les éditions de la contre-allée."
     },
     {
+      "title": "Un Noël d’autrefois au Musée de Plein Air – Marché des artisans",
+      "date": "ven. 20 novembre 2026 · 14 h 00",
+      "place": "Musée de Plein Air",
+      "town": "Villeneuve-d'Ascq",
+      "kind": "culture",
+      "url": "https://openagenda.com/espaces-naturels-metropolitains/events/89152629_un-noel-dautrefois-au-musee-de-plein-air-marche-des-artisans",
+      "source": "Wattrelos Tourisme",
+      "age": "Âge conseillé à vérifier",
+      "description": "Pour la première fois, le Musée de Plein Air se transforme en village de Noël pour faire vivre un Noël d'autrefois, au cœur du patrimoine rural du 20 au 22 novembre."
+    },
+    {
+      "title": "Les restaurants de Lille cherchent leurs staffs",
+      "date": "ven. 20 novembre 2026 · 14 h 00",
+      "place": "LILLE AVENIRS",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/ville-de-lille/events/83165429_les-restaurants-de-lille-cherchent-leurs-staffs",
+      "source": "Ville de Lille",
+      "age": "Âge conseillé à vérifier",
+      "description": "Plusieurs postes à pourvoir dans différents restaurants de Lille"
+    },
+    {
+      "title": "Animation \"Repassez votre code !\"",
+      "date": "ven. 20 novembre 2026 · 14 h 30",
+      "place": "Résidence l'Agapanthe",
+      "town": "Lille",
+      "kind": "baby",
+      "url": "https://openagenda.com/faubourg-de-bethune/events/37401603_animation-repassez-votre-code",
+      "source": "Ville de Lille",
+      "age": "Âge indiqué : 0–99 ans",
+      "description": "Une animation ludique pour faire travailler sa mémoire tout en s’amusant !"
+    },
+    {
       "title": "À nous de jouer !",
       "date": "ven. 20 novembre 2026 · 15 h 30",
       "place": "Tourcoing/Médiathèque Aimé Césaire",
@@ -68,13 +101,35 @@
       "description": "Envie de jouer et partager un bon moment ? La médiathèque Aimé Césaire vous accueille un vendredi après-midi par mois. Au programme : jeux classiques et nouveautés à découvrir."
     },
     {
+      "title": "Welsh'Fest 2026",
+      "date": "ven. 20 novembre 2026 · 17 h 00",
+      "place": "Gare Saint Sauveur",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/gare-saint-sauveur/events/75883166_welshfest-2026",
+      "source": "Ville de Lille",
+      "age": "Âge conseillé à vérifier",
+      "description": "Après le réussite de la première édition de 2025, le Welsh'Fest revient vous faire fondre à la Gare Saint Sauveur !"
+    },
+    {
+      "title": "Les allumoirs de Saint-Maurice Pellevoisin",
+      "date": "ven. 20 novembre 2026 · 17 h 00",
+      "place": "Parc Barberousse",
+      "town": "Lille",
+      "kind": "baby",
+      "url": "https://openagenda.com/st-maurice-pellevoisin/events/90950014_les-allumoirs-de-saint-maurice-pellevoisin",
+      "source": "Ville de Lille",
+      "age": "Âge indiqué : 0–99 ans",
+      "description": "Venez fêter les allumoirs dans le parc Barberousse"
+    },
+    {
       "title": "Dernières folies. Vieillesse et santé mentale (19e-20e siècle)",
       "date": "ven. 20 novembre 2026 · 17 h 30",
       "place": "Musée de l'Hospice Comtesse",
       "town": "Lille",
       "kind": "culture",
       "url": "https://openagenda.com/hospice-comtesse/events/14242213_dernieres-folies-vieillesse-et-sante-mentale-19e-20e-siecle",
-      "source": "Vieux-Lille",
+      "source": "Ville de Lille",
       "age": "Âge conseillé à vérifier",
       "description": "Une conférence menée dans le cadre du festival Citéphilo sur le thème « Urgences »"
     },
@@ -85,9 +140,53 @@
       "town": "Lille",
       "kind": "culture",
       "url": "https://openagenda.com/lille-moulins/events/44245617_apero-dinatoire-entre-hommes",
-      "source": "Lille-Moulins",
+      "source": "Ville de Lille",
       "age": "Âge indiqué : 18–99 ans",
       "description": "Soirée entre hommes !"
+    },
+    {
+      "title": "Citéphilo - Dernières folies. Vieillesse et santé \nmentale (XIXe-XXe siècle)",
+      "date": "ven. 20 novembre 2026 · 17 h 30",
+      "place": "Musée de l'Hospice Comtesse",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/ville-de-lille/events/36230866_citephilo-dernieres-folies-vieillesse-et-sante-mentale-xixe-xxe-siecle",
+      "source": "Ville de Lille",
+      "age": "Âge conseillé à vérifier",
+      "description": "Dernières folies. Vieillesse et santé  mentale (XIXe-XXe siècle) par Mathilde Rossigneux-Méheust et Marie Derrien"
+    },
+    {
+      "title": "Course nocturne #Stop contre les violences faites aux femmes",
+      "date": "ven. 20 novembre 2026 · 18 h 00",
+      "place": "Citadelle de Lille",
+      "town": "Lille",
+      "kind": "sport",
+      "url": "https://openagenda.com/ville-de-lille/events/6883297_course-nocturne-stop",
+      "source": "Ville de Lille",
+      "age": "Âge conseillé à vérifier",
+      "description": "Elle revient pour une 8ème édition !"
+    },
+    {
+      "title": "Citéphilo - La langue française en héritage \net en partage",
+      "date": "ven. 20 novembre 2026 · 18 h 00",
+      "place": "École Supérieure de Journalisme - ESJ",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/ville-de-lille/events/39193247_citephilo-la-langue-francaise-en-heritage-et-en-partage",
+      "source": "Ville de Lille",
+      "age": "Âge conseillé à vérifier",
+      "description": "La langue française en héritage  et en partage par Barbara Cassin et Bernard Cerquiglini"
+    },
+    {
+      "title": "Roger Salengro, maire bâtisseur",
+      "date": "ven. 20 novembre 2026 · 18 h 00",
+      "place": "Hôtel de Ville",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/ville-dart-et-dhistoire-de-lille/events/49357725_roger-salengro-maire-batisseur",
+      "source": "Ville de Lille",
+      "age": "Âge indiqué : 16–99 ans",
+      "description": "Découvrez comment Roger Salengro, maire soucieux du développement de sa ville, a fait entrer Lille dans la modernité."
     },
     {
       "title": "Ciné-tricot cosy crime",
@@ -101,6 +200,28 @@
       "description": "Rendez-vous le vendredi 20 novembre à 18h à la médiathèque pour un ciné-tricot cosy crime !"
     },
     {
+      "title": "10 ans ! Le Bal des 10 ans | Cérémonie & concert dansant  - Quartet Areski",
+      "date": "ven. 20 novembre 2026 · 18 h 00",
+      "place": "Institut du monde arabe-Tourcoing",
+      "town": "Tourcoing",
+      "kind": "culture",
+      "url": "https://openagenda.com/institut-du-monde-arabe-tourcoing/events/49579491_le-bal-des-10-ans-ceremonie-and-concert-dansant",
+      "source": "Tourcoing Tourisme",
+      "age": "Âge conseillé à vérifier",
+      "description": "L’Institut du monde arabe-Tourcoing vous accueille pour célébrer ensemble 10 ans de partage et de culture."
+    },
+    {
+      "title": "Conférence inaugurale avec David Blayney-Brown",
+      "date": "ven. 20 novembre 2026 · 18 h 30",
+      "place": "Palais des Beaux-Arts - Auditorium",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/vdl-palais-des-beaux-arts/events/10691746_conference-inaugurale-avec-david-blayney-brown",
+      "source": "Ville de Lille",
+      "age": "Âge indiqué : 7–99 ans",
+      "description": "Turner & les artistes du Grand Tour - Voyage à l’Anglaise  Exposition 20 novembre 2026 – 22 mars 2027"
+    },
+    {
       "title": "Récital de piano de Ryutaro Suzuki",
       "date": "ven. 20 novembre 2026 · 19 h 00",
       "place": "Auditorium du Conservatoire de Lille",
@@ -112,6 +233,17 @@
       "description": "L'Amour et la Passion"
     },
     {
+      "title": "Pièce de théâtre : OUED KISS",
+      "date": "ven. 20 novembre 2026 · 19 h 00",
+      "place": "Centre social Albert Jacquard",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/st-maurice-pellevoisin/events/8421110_piece-de-theatre-oued-kiss",
+      "source": "Ville de Lille",
+      "age": "Âge conseillé à vérifier",
+      "description": "Le vendredi 20 novembre 2026 à 19h"
+    },
+    {
       "title": "Quatuor Poulenc",
       "date": "ven. 20 novembre 2026 · 19 h 00",
       "place": "Conservatoire à Rayonnement Départemental de Roubaix",
@@ -121,6 +253,39 @@
       "source": "Conservatoire de Roubaix",
       "age": "Âge indiqué : 0–99 ans",
       "description": "Quatuor Poulenc"
+    },
+    {
+      "title": "Je suis une libre - Compagnie des Vagabondes",
+      "date": "ven. 20 novembre 2026 · 19 h 30",
+      "place": "Salle des Fêtes de Fives",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/fives/events/9653391_je-suis-une-libre-compagnie-des-vagabondes",
+      "source": "Ville de Lille",
+      "age": "Âge indiqué : 6–99 ans",
+      "description": "Écoutez \"les sentinelles\", un chœur de 6 femmes, qui chantent, observent et dansent. Avec empathie et auto-dérision elles plongent dans le monde tout à la fois beau et effrayant."
+    },
+    {
+      "title": "Soirée de lancement collectif SAV",
+      "date": "ven. 20 novembre 2026 · 20 h 00",
+      "place": "La malterie",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/la-culture-en-continu/events/45985457_soiree-de-lancement-collectif-sav",
+      "source": "Ville de Lille",
+      "age": "Âge conseillé à vérifier",
+      "description": "S.A.V invite l’audiovisuel dans la cave de la Malterie le vendredi 20 novembre et le samedi 21 novembre! Entre installations lumineuses, projections, moniteurs, caméras et TV cathodiques..."
+    },
+    {
+      "title": "TOUR DE CHAUFFE #20 - LAIV / 0 DEGRÉ",
+      "date": "ven. 20 novembre 2026 · 20 h 00",
+      "place": "Maison Folie Hospice d'Havré",
+      "town": "Tourcoing",
+      "kind": "baby",
+      "url": "https://openagenda.com/maison-folie-hospice-d-havre/events/67087601_tour-de-chauffe-20-laiv-0-degre",
+      "source": "Tourcoing Tourisme",
+      "age": "Âge indiqué : 0–99 ans",
+      "description": "TOUR DE CHAUFFE #20 - LAIV / 0 DEGRÉ"
     },
     {
       "title": "Être en scène - Initiation",
@@ -145,6 +310,17 @@
       "description": "Que nous arrive-t-il quand la vérité se défait ?"
     },
     {
+      "title": "Les Monologues de Gaza | Carte blanche au Théâtre du Nord",
+      "date": "sam. 21 novembre 2026 · 15 h 00",
+      "place": "Institut du monde arabe-Tourcoing",
+      "town": "Tourcoing",
+      "kind": "culture",
+      "url": "https://openagenda.com/institut-du-monde-arabe-tourcoing/events/66392034_les-monologues-de-gaza-or-carte-blanche-au-theatre-du-nord",
+      "source": "Tourcoing Tourisme",
+      "age": "Âge conseillé à vérifier",
+      "description": "Une lecture polyphonique des voix de la jeunesse gazaouie"
+    },
+    {
       "title": "Le Petit Géant",
       "date": "sam. 21 novembre 2026 · 15 h 00",
       "place": "Médiathèque de Roubaix - La Grand-Plage",
@@ -154,6 +330,28 @@
       "source": "Médiathèque de Roubaix",
       "age": "Âge conseillé à vérifier",
       "description": "Concert"
+    },
+    {
+      "title": "Dans la chambre de mes écritures | Carte blanche à Samira El Ayachi",
+      "date": "sam. 21 novembre 2026 · 17 h 00",
+      "place": "Institut du monde arabe-Tourcoing",
+      "town": "Tourcoing",
+      "kind": "culture",
+      "url": "https://openagenda.com/institut-du-monde-arabe-tourcoing/events/25840317_dans-la-chambre-de-mes-ecritures-or-carte-blanche-a-samira-el-ayachi",
+      "source": "Tourcoing Tourisme",
+      "age": "Âge conseillé à vérifier",
+      "description": "Pour cette carte blanche exceptionnelle, Samira El Ayachi ouvre son atelier et livre les coulisses de plus de vingt ans de création."
+    },
+    {
+      "title": "10 ans ! Fanfaraï Big Band + Karaoké de bled + Ben Bella Jazz",
+      "date": "sam. 21 novembre 2026 · 19 h 00",
+      "place": "LE GRAND MIX",
+      "town": "Tourcoing",
+      "kind": "culture",
+      "url": "https://openagenda.com/institut-du-monde-arabe-tourcoing/events/77622491_fanfarai-big-band-karaoke-de-bled-ben-bella-jazz",
+      "source": "Tourcoing Tourisme",
+      "age": "Âge conseillé à vérifier",
+      "description": "Une soirée festive aux couleurs du monde pour fêter les 10 ans de l’Institut du monde arabe-Tourcoing !"
     },
     {
       "title": "Voix de Traverse",
@@ -178,15 +376,48 @@
       "description": "A partir de livres recyclés"
     },
     {
-      "title": "Murray Head",
-      "date": "dim. 22 novembre 2026 · 19 h 00",
-      "place": "Casino Barrière de Lille",
-      "town": "Lille",
-      "kind": "baby",
-      "url": "https://openagenda.com/theatre-barriere-de-lille/events/2056131_murray-head-6574557",
-      "source": "Théâtre Barrière de Lille",
-      "age": "Âge indiqué : 0–99 ans",
-      "description": "Le grand Murray Head, artiste incontournable aux succès intemporels, vous donne rendez-vous pour un concert exceptionnel."
+      "title": "Christine Zayed, la Palestine au coeur | Carte blanche à Attacafa",
+      "date": "dim. 22 novembre 2026 · 15 h 00",
+      "place": "Institut du monde arabe-Tourcoing",
+      "town": "Tourcoing",
+      "kind": "culture",
+      "url": "https://openagenda.com/institut-du-monde-arabe-tourcoing/events/82293759_christine-zayed-la-palestine-au-coeur-or-carte-blanche-a-attacafa",
+      "source": "Tourcoing Tourisme",
+      "age": "Âge conseillé à vérifier",
+      "description": "Le projet musical de Christine Zayed est une exploration profondément personnelle, enracinée en Palestine, transformée en un langage universel de connexion."
+    },
+    {
+      "title": "FAKIR TRIO",
+      "date": "dim. 22 novembre 2026 · 17 h 00",
+      "place": "Institut du monde arabe-Tourcoing",
+      "town": "Tourcoing",
+      "kind": "culture",
+      "url": "https://openagenda.com/tourcoing-jazz/events/46837891_fakir-trio-924909",
+      "source": "Tourcoing Jazz",
+      "age": "Âge conseillé à vérifier",
+      "description": "CARTE BLANCHE AU TOURCOING JAZZ POUR LES 10 ANS DE L’INSTITUT DU MONDE ARABE-TOURCOING"
+    },
+    {
+      "title": "Fakir | Carte blanche au Tourcoing Jazz",
+      "date": "dim. 22 novembre 2026 · 17 h 00",
+      "place": "Institut du monde arabe-Tourcoing",
+      "town": "Tourcoing",
+      "kind": "culture",
+      "url": "https://openagenda.com/institut-du-monde-arabe-tourcoing/events/24429578_fakir-or-carte-blanche-au-tourcoing-jazz",
+      "source": "Tourcoing Tourisme",
+      "age": "Âge conseillé à vérifier",
+      "description": "Fakir réunit les musiciens Marwan Fakir (violon), Louis Desseigne (guitares et saz) et Pierre-Antoine Despatures (contrebasse)."
+    },
+    {
+      "title": "DANIEL ZIMMERMANN",
+      "date": "jeu. 26 novembre 2026 · 17 h 30",
+      "place": "Maison Folie Hospice d'Havré",
+      "town": "Tourcoing",
+      "kind": "culture",
+      "url": "https://openagenda.com/tourcoing-jazz/events/14401999_daniel-zimmermann",
+      "source": "Tourcoing Jazz",
+      "age": "Âge conseillé à vérifier",
+      "description": "Tourcoing Jazz Club 2026"
     },
     {
       "title": "Vente Solidaire - Marcq Tiers Monde",
@@ -264,17 +495,6 @@
       "source": "Médiathèque de Roubaix",
       "age": "Âge conseillé à vérifier",
       "description": "Atelier créatif"
-    },
-    {
-      "title": "Le comte de Bouderbala 4",
-      "date": "dim. 29 novembre 2026 · 18 h 00",
-      "place": "Casino Barrière de Lille",
-      "town": "Lille",
-      "kind": "baby",
-      "url": "https://openagenda.com/theatre-barriere-de-lille/events/818637_le-comte-de-bouderbala-4-1753508",
-      "source": "Théâtre Barrière de Lille",
-      "age": "Âge indiqué : 0–99 ans",
-      "description": "15 ans de carrière et + de 2,5 millions de spectateurs en salle, le Comte de Bouderbala revient plus affûté que jamais avec un quatrième opus !"
     },
     {
       "title": "Entre ombre et lumière !",
@@ -409,17 +629,6 @@
       "description": "En écho au Lille Poésie Festival 2026 et en partenariat avec la bibliothèque du Vieux-lille"
     },
     {
-      "title": "Marché de Noël de créateurs et streetwear",
-      "date": "sam. 12 décembre 2026 · 12 h 00",
-      "place": "Bazaar St-So",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/lille-centre/events/99519484_week-end-a-lille-les-12-et-13-decembre-marche-de-noel-de-createurs-et-streetwear-gratuit",
-      "source": "Lille-Centre",
-      "age": "Âge conseillé à vérifier",
-      "description": "Pop-up de Noël à Lille : 50+ créateurs et marques streetwear, entrée gratuite"
-    },
-    {
       "title": "Chambre à Part",
       "date": "dim. 13 décembre 2026 · 11 h 00",
       "place": "Auditorium du Conservatoire de Lille",
@@ -440,17 +649,6 @@
       "source": "Vieux-Lille",
       "age": "Âge indiqué : 7–99 ans",
       "description": "Un atelier à expérimenter en famille !"
-    },
-    {
-      "title": "Joséphine Baker - Le musical",
-      "date": "dim. 13 décembre 2026 · 18 h 00",
-      "place": "Casino Barrière de Lille",
-      "town": "Lille",
-      "kind": "baby",
-      "url": "https://openagenda.com/theatre-barriere-de-lille/events/59555895_josephine-baker-le-musical-1583877",
-      "source": "Théâtre Barrière de Lille",
-      "age": "Âge indiqué : 0–99 ans",
-      "description": "Sa vie est un roman, ce spectacle sa lumière !"
     },
     {
       "title": "Concert de Simon DIRICQ et des classes de saxophone des Conservatoires de Lille et Lens",
