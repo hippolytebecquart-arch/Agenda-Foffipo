@@ -1,160 +1,6 @@
 {
-  "updatedAt": "2026-11-21T06:12:45.295750+00:00",
+  "updatedAt": "2026-11-21T17:58:02.944289+00:00",
   "events": [
-    {
-      "title": "Être en scène - Initiation",
-      "date": "sam. 21 novembre 2026 · 10 h 00",
-      "place": "Ateliers Théâtre",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/conservatoiredelille/events/64476324_etre-en-scene-initiation",
-      "source": "Ville de Lille",
-      "age": "Âge conseillé à vérifier",
-      "description": "Atelier Théâtre Ouvert"
-    },
-    {
-      "title": "Plantation citoyenne au Jardin Jeanne Barret",
-      "date": "sam. 21 novembre 2026 · 10 h 00",
-      "place": "Jardin Jeanne Barret",
-      "town": "Lille",
-      "kind": "baby",
-      "url": "https://openagenda.com/ville-de-lille/events/37363717_plantation-citoyenne-au-jardin-jeanne-barret-4497451",
-      "source": "Ville de Lille",
-      "age": "Âge indiqué : 0–99 ans",
-      "description": "Participez aux plantations près de chez vous !"
-    },
-    {
-      "title": "Ca tombe à pic !",
-      "date": "sam. 21 novembre 2026 · 10 h 00",
-      "place": "Maison Lill'Âges",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/ville-de-lille/events/99677017_ca-tombe-a-pic",
-      "source": "Ville de Lille",
-      "age": "Âge indiqué : 55–100 ans",
-      "description": "Atelier pour prévenir les chutes à domicile"
-    },
-    {
-      "title": "Atelier de création de livres",
-      "date": "sam. 21 novembre 2026 · 10 h 00",
-      "place": "Médiathèque de Lille-Sud",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/bml/events/32017223_atelier-de-creation-de-livres",
-      "source": "Ville de Lille",
-      "age": "Âge conseillé à vérifier",
-      "description": "Venez participer à la création d'un petit livre dans le cadre d'un atelier parents/enfants encadré par Malika Doray."
-    },
-    {
-      "title": "JOYEUX BAZ'ARTS - De l'infiniment petit à l'infiniment grand, l'art de s'émerveiller !",
-      "date": "sam. 21 novembre 2026 · 10 h 30",
-      "place": "Bazaar St-So",
-      "town": "Lille",
-      "kind": "baby",
-      "url": "https://openagenda.com/ville-de-lille/events/13812712_joyeux-bazarts-3-de-linfiniment-petit-a-linfiniment-grand-lart-de-semerveiller",
-      "source": "Ville de Lille",
-      "age": "Âge indiqué : 0–4 ans",
-      "description": "Et si nous prenions le temps de regarder le monde avec les yeux des tout-petits ?"
-    },
-    {
-      "title": "Atelier Nuancier",
-      "date": "sam. 21 novembre 2026 · 10 h 30",
-      "place": "Médiathèque de Fives",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/bml/events/61496931_atelier-nuancier-4372969",
-      "source": "Ville de Lille",
-      "age": "Âge indiqué : 18–99 ans",
-      "description": "Un atelier de traduction créative avec en point d'orgue la fabrication d'un \"nuancier\" :"
-    },
-    {
-      "title": "Anna, Léo et le gros ours de l’armoire",
-      "date": "sam. 21 novembre 2026 · 11 h 00",
-      "place": "Orchestre National de Lille",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/ville-de-lille/events/77749281_anna-leo-et-le-gros-ours-de-larmoire",
-      "source": "Ville de Lille",
-      "age": "Âge conseillé à vérifier",
-      "description": "Ouvrage publié par les éditions Acte Sud Junior."
-    },
-    {
-      "title": "Citéphilo - Sur les traces du temps",
-      "date": "sam. 21 novembre 2026 · 11 h 00",
-      "place": "Palais des Beaux-Arts - Salle Valmy",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/ville-de-lille/events/42774424_citephilo-sur-les-traces-du-temps",
-      "source": "Ville de Lille",
-      "age": "Âge conseillé à vérifier",
-      "description": "Sur les traces du temps par Christophe Bouton"
-    },
-    {
-      "title": "Conférence Citéphilo : Théories du complot VS vérité",
-      "date": "sam. 21 novembre 2026 · 11 h 00",
-      "place": "Médiathèque de Roubaix - La Grand-Plage",
-      "town": "Roubaix",
-      "kind": "culture",
-      "url": "https://openagenda.com/mediatheque-de-roubaix/events/8445913_conference-citephilo-theories-du-complot-vs-verite-4148926",
-      "source": "Médiathèque de Roubaix",
-      "age": "Âge conseillé à vérifier",
-      "description": "Que nous arrive-t-il quand la vérité se défait ?"
-    },
-    {
-      "title": "Big Bang Happy Days des enfants",
-      "date": "sam. 21 novembre 2026 · 12 h 15",
-      "place": "Opéra de Lille",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/la-culture-en-continu/events/66881682_big-bang-happy-days-des-enfants-691904",
-      "source": "Ville de Lille",
-      "age": "Âge conseillé à vérifier",
-      "description": "Festival d'aventures musicales pour la jeunesse"
-    },
-    {
-      "title": "Et les jeunes dans tout ça ? - Festival des Solidarités Internationales",
-      "date": "sam. 21 novembre 2026 · 14 h 00",
-      "place": "maison Folie Wazemmes",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/maisons-folie/events/44874869_et-les-jeunes-dans-tout-ca-festival-des-solidarites-internationales",
-      "source": "Ville de Lille",
-      "age": "Âge conseillé à vérifier",
-      "description": "Et si l'on prenait le temps d'écouter les jeunes du monde, leurs rêves, leurs défis, leurs engagements et découvrir leurs créations ?"
-    },
-    {
-      "title": "Les Monologues de Gaza | Carte blanche au Théâtre du Nord",
-      "date": "sam. 21 novembre 2026 · 15 h 00",
-      "place": "Institut du monde arabe-Tourcoing",
-      "town": "Tourcoing",
-      "kind": "culture",
-      "url": "https://openagenda.com/institut-du-monde-arabe-tourcoing/events/66392034_les-monologues-de-gaza-or-carte-blanche-au-theatre-du-nord",
-      "source": "Tourcoing Tourisme",
-      "age": "Âge conseillé à vérifier",
-      "description": "Une lecture polyphonique des voix de la jeunesse gazaouie"
-    },
-    {
-      "title": "Le Petit Géant",
-      "date": "sam. 21 novembre 2026 · 15 h 00",
-      "place": "Médiathèque de Roubaix - La Grand-Plage",
-      "town": "Roubaix",
-      "kind": "culture",
-      "url": "https://openagenda.com/mediatheque-de-roubaix/events/89704567_le-petit-geant-4485849",
-      "source": "Médiathèque de Roubaix",
-      "age": "Âge conseillé à vérifier",
-      "description": "Concert"
-    },
-    {
-      "title": "Dans la chambre de mes écritures | Carte blanche à Samira El Ayachi",
-      "date": "sam. 21 novembre 2026 · 17 h 00",
-      "place": "Institut du monde arabe-Tourcoing",
-      "town": "Tourcoing",
-      "kind": "culture",
-      "url": "https://openagenda.com/institut-du-monde-arabe-tourcoing/events/25840317_dans-la-chambre-de-mes-ecritures-or-carte-blanche-a-samira-el-ayachi",
-      "source": "Tourcoing Tourisme",
-      "age": "Âge conseillé à vérifier",
-      "description": "Pour cette carte blanche exceptionnelle, Samira El Ayachi ouvre son atelier et livre les coulisses de plus de vingt ans de création."
-    },
     {
       "title": "10 ans ! Fanfaraï Big Band + Karaoké de bled + Ben Bella Jazz",
       "date": "sam. 21 novembre 2026 · 19 h 00",
@@ -176,6 +22,83 @@
       "source": "Vieux-Lille",
       "age": "Âge conseillé à vérifier",
       "description": "De l'image à l'écrit, de l'écrit à la voix"
+    },
+    {
+      "title": "Voix de traverse - Festival des Solidarités Internationales",
+      "date": "sam. 21 novembre 2026 · 19 h 30",
+      "place": "maison Folie Wazemmes",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/maisons-folie/events/91978346_voix-de-traverse-festival-des-solidarites-internationales",
+      "source": "Ville de Lille",
+      "age": "Âge conseillé à vérifier",
+      "description": "Et si l'on prenait le temps d'écouter les jeunes du monde, leurs rêves, leurs défis, leurs engagements et découvrir leurs créations ?"
+    },
+    {
+      "title": "La Grande Sophie",
+      "date": "sam. 21 novembre 2026 · 20 h 00",
+      "place": "Le Splendid",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/la-culture-en-continu/events/69271369_la-grande-sophie-1531985",
+      "source": "Ville de Lille",
+      "age": "Âge conseillé à vérifier",
+      "description": "La Grande Sophie revient seule sur scène le 21 novembre au Splendid !"
+    },
+    {
+      "title": "jam : house",
+      "date": "sam. 21 novembre 2026 · 20 h 00",
+      "place": "FLOW - Centre Eurorégional des Cultures Urbaines",
+      "town": "Lille",
+      "kind": "baby",
+      "url": "https://openagenda.com/flow/events/26211499_jam-house",
+      "source": "Ville de Lille",
+      "age": "Âge indiqué : 0–99 ans",
+      "description": "Jam House"
+    },
+    {
+      "title": "La Grande Sophie",
+      "date": "sam. 21 novembre 2026 · 20 h 00",
+      "place": "Le Splendid",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/ville-de-lille/events/75626064_la-grande-sophie-878597",
+      "source": "Ville de Lille",
+      "age": "Âge conseillé à vérifier",
+      "description": "La Grande Sophie revient seule sur scène le 21 novembre au Splendid !"
+    },
+    {
+      "title": "Release party: Violence Banalisée (punk) + Mere mortals (fast core)",
+      "date": "sam. 21 novembre 2026 · 20 h 30",
+      "place": "le musical",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/max-fb100003037778845/events/5080164_release-party-violence-banalisee-punk-mere-mortals-fast-core",
+      "source": "Ville de Lille",
+      "age": "Âge indiqué : 18–99 ans",
+      "description": "Go release party du nouvel EP de Violence Banalisée avec les colocs de répette de Mere mortals !"
+    },
+    {
+      "title": "Un air de famille",
+      "date": "sam. 21 novembre 2026 · 20 h 30",
+      "place": "Kursaal",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/ville-de-lille/events/99729460_un-air-de-famille-7070795",
+      "source": "Ville de Lille",
+      "age": "Âge conseillé à vérifier",
+      "description": "Vous êtes invité à aimer et détester les membres de la famille Mesnard lors de leur traditionnel dîner du vendredi. Les langues, enfin, vont se délier. Une jolie comédie douce-amère et décalée."
+    },
+    {
+      "title": "Un dimanche, un quartier : Lille en guerre 1914-1918",
+      "date": "dim. 22 novembre 2026 · 14 h 00",
+      "place": "Place Rihour",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/ville-dart-et-dhistoire-de-lille/events/96201079_un-dimanche-un-quartier-lille-en-guerre-1914-1918",
+      "source": "Wattrelos Tourisme",
+      "age": "Âge indiqué : 12–99 ans",
+      "description": "Découvrez la ville entre 1914 et 1918 à partir des monuments et statues  érigés dans l'espace public en mémoire de la Première Guerre mondiale."
     },
     {
       "title": "Décorations de Noël Zéro Déchet",
@@ -220,6 +143,50 @@
       "source": "Tourcoing Tourisme",
       "age": "Âge conseillé à vérifier",
       "description": "Fakir réunit les musiciens Marwan Fakir (violon), Louis Desseigne (guitares et saz) et Pierre-Antoine Despatures (contrebasse)."
+    },
+    {
+      "title": "Le p'tit yogi",
+      "date": "mer. 25 novembre 2026 · 10 h 30",
+      "place": "Médiathèque André Malraux",
+      "town": "Tourcoing",
+      "kind": "culture",
+      "url": "https://openagenda.com/reseau-des-idees-mediatheques-de-tourcoing/events/3632426_le-ptit-yogi-3920974",
+      "source": "Le réseau des bibliothèques et médiathèques de la MEL",
+      "age": "Âge indiqué : 4–7 ans",
+      "description": "Envie de partager un moment unique avec votre enfant ? Rejoignez-nous pour Le P’tit Yogi, une parenthèse enchantée pensée pour renforcer les liens et créer de doux souvenirs."
+    },
+    {
+      "title": "Chronicles of Crime",
+      "date": "mer. 25 novembre 2026 · 14 h 30",
+      "place": "Médiathèque Till L'Espiègle",
+      "town": "Villeneuve-d'Ascq",
+      "kind": "culture",
+      "url": "https://openagenda.com/mediatheque-de-villeneuve-dascq/events/56087262_chronicles-of-crime-7646069",
+      "source": "Le réseau des bibliothèques et médiathèques de la MEL",
+      "age": "Âge indiqué : 12–99 ans",
+      "description": "Rendez-vous le mercredi 25 novembre à 14h30 à la médiathèque pour un jeu d'enquête coopératif !"
+    },
+    {
+      "title": "Menu Best of : ton nouveau rendez-vous !",
+      "date": "mer. 25 novembre 2026 · 15 h 00",
+      "place": "Tourcoing/Médiathèque Aimé Césaire",
+      "town": "Tourcoing",
+      "kind": "culture",
+      "url": "https://openagenda.com/reseau-des-idees-mediatheques-de-tourcoing/events/13870919_menu-best-of-ton-nouveau-rendez-vous",
+      "source": "Le réseau des bibliothèques et médiathèques de la MEL",
+      "age": "Âge indiqué : 9–99 ans",
+      "description": "Quoi de neuf à la médiathèque : mangas, BD, romans, jeux de société, jeux vidéo..."
+    },
+    {
+      "title": "Juliette raconte",
+      "date": "mer. 25 novembre 2026 · 15 h 30",
+      "place": "Médiathèque André Malraux",
+      "town": "Tourcoing",
+      "kind": "baby",
+      "url": "https://openagenda.com/reseau-des-idees-mediatheques-de-tourcoing/events/51823551_juliette-raconte-4413922",
+      "source": "Le réseau des bibliothèques et médiathèques de la MEL",
+      "age": "Âge indiqué : 0–6 ans",
+      "description": "Venez partager avec vos enfants un moment de douceur autour des albums jeunesse et des comptines. Retrouvez Juliette pour 30 minutes d'émerveillement en famille..."
     },
     {
       "title": "DANIEL ZIMMERMANN",
