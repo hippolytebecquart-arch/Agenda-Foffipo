@@ -1,60 +1,16 @@
 {
-  "updatedAt": "2026-11-22T06:12:53.303522+00:00",
+  "updatedAt": "2026-11-22T17:57:13.220257+00:00",
   "events": [
     {
-      "title": "Un dimanche, un quartier : Lille en guerre 1914-1918",
-      "date": "dim. 22 novembre 2026 · 14 h 00",
-      "place": "Place Rihour",
+      "title": "Murray Head",
+      "date": "dim. 22 novembre 2026 · 19 h 00",
+      "place": "Casino Barrière de Lille",
       "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/ville-dart-et-dhistoire-de-lille/events/96201079_un-dimanche-un-quartier-lille-en-guerre-1914-1918",
-      "source": "Wattrelos Tourisme",
-      "age": "Âge indiqué : 12–99 ans",
-      "description": "Découvrez la ville entre 1914 et 1918 à partir des monuments et statues  érigés dans l'espace public en mémoire de la Première Guerre mondiale."
-    },
-    {
-      "title": "Décorations de Noël Zéro Déchet",
-      "date": "dim. 22 novembre 2026 · 14 h 30",
-      "place": "Médiathèque de Roubaix - La Grand-Plage",
-      "town": "Roubaix",
-      "kind": "culture",
-      "url": "https://openagenda.com/mediatheque-de-roubaix/events/22712936_decorations-de-noel-zero-dechet",
-      "source": "Médiathèque de Roubaix",
-      "age": "Âge conseillé à vérifier",
-      "description": "A partir de livres recyclés"
-    },
-    {
-      "title": "Christine Zayed, la Palestine au coeur | Carte blanche à Attacafa",
-      "date": "dim. 22 novembre 2026 · 15 h 00",
-      "place": "Institut du monde arabe-Tourcoing",
-      "town": "Tourcoing",
-      "kind": "culture",
-      "url": "https://openagenda.com/institut-du-monde-arabe-tourcoing/events/82293759_christine-zayed-la-palestine-au-coeur-or-carte-blanche-a-attacafa",
-      "source": "Institut du monde arabe-Tourcoing",
-      "age": "Âge conseillé à vérifier",
-      "description": "Le projet musical de Christine Zayed est une exploration profondément personnelle, enracinée en Palestine, transformée en un langage universel de connexion."
-    },
-    {
-      "title": "FAKIR TRIO",
-      "date": "dim. 22 novembre 2026 · 17 h 00",
-      "place": "Institut du monde arabe-Tourcoing",
-      "town": "Tourcoing",
-      "kind": "culture",
-      "url": "https://openagenda.com/tourcoing-jazz/events/46837891_fakir-trio-924909",
-      "source": "Tourcoing Jazz",
-      "age": "Âge conseillé à vérifier",
-      "description": "CARTE BLANCHE AU TOURCOING JAZZ POUR LES 10 ANS DE L’INSTITUT DU MONDE ARABE-TOURCOING"
-    },
-    {
-      "title": "Fakir | Carte blanche au Tourcoing Jazz",
-      "date": "dim. 22 novembre 2026 · 17 h 00",
-      "place": "Institut du monde arabe-Tourcoing",
-      "town": "Tourcoing",
-      "kind": "culture",
-      "url": "https://openagenda.com/institut-du-monde-arabe-tourcoing/events/24429578_fakir-or-carte-blanche-au-tourcoing-jazz",
-      "source": "Institut du monde arabe-Tourcoing",
-      "age": "Âge conseillé à vérifier",
-      "description": "Fakir réunit les musiciens Marwan Fakir (violon), Louis Desseigne (guitares et saz) et Pierre-Antoine Despatures (contrebasse)."
+      "kind": "baby",
+      "url": "https://openagenda.com/theatre-barriere-de-lille/events/2056131_murray-head-6574557",
+      "source": "Métropole Européenne de Lille",
+      "age": "Âge indiqué : 0–99 ans",
+      "description": "Le grand Murray Head, artiste incontournable aux succès intemporels, vous donne rendez-vous pour un concert exceptionnel."
     },
     {
       "title": "Le p'tit yogi",
@@ -156,28 +112,6 @@
       "description": "Spectacle pour tout-petits"
     },
     {
-      "title": "Projection de « Hitch, une histoire iranienne », un film documentaire de Chowra Makaremi (France, 2019, 72 minutes)",
-      "date": "sam. 28 novembre 2026 · 14 h 30",
-      "place": "Médiathèque Andrée Chedid",
-      "town": "Tourcoing",
-      "kind": "culture",
-      "url": "https://openagenda.com/reseau-des-idees-mediatheques-de-tourcoing/events/13563522_projection-hitch-une-histoire-iranienne-un-film-documentaire-de-chowra-makaremi-france-2019-72-minutes",
-      "source": "Programmation culturelle du réseau des médiathèques de Tourcoing",
-      "age": "Âge indiqué : 14–99 ans",
-      "description": "La projection de ce film multi-récompensé sera suivie d'un échange avec Chowra Makaremi, anthropologue chargée de recherche au CNRS dont c'est le premier film."
-    },
-    {
-      "title": "Atelier - rencontre : Pour un habitat solidaire avec Victor Missud",
-      "date": "sam. 28 novembre 2026 · 15 h 00",
-      "place": "Médiathèque Andrée Chedid",
-      "town": "Tourcoing",
-      "kind": "culture",
-      "url": "https://openagenda.com/reseau-des-idees-mediatheques-de-tourcoing/events/95361715_atelier-rencontre-pour-un-habitat-solidaire-avec-victor-missud",
-      "source": "Programmation culturelle du réseau des médiathèques de Tourcoing",
-      "age": "Âge indiqué : 8–99 ans",
-      "description": "La médiathèque Andrée Chedid vous propose de rencontrer Victor Missud, artiste issu de la promotion 2024-2026 du Fresnoy, pour un atelier parent/enfant accessible dès 8 ans."
-    },
-    {
       "title": "Création d'un carnet",
       "date": "dim. 29 novembre 2026 · 15 h 00",
       "place": "Médiathèque de Roubaix - La Grand-Plage",
@@ -187,6 +121,28 @@
       "source": "Médiathèque de Roubaix",
       "age": "Âge conseillé à vérifier",
       "description": "Atelier créatif"
+    },
+    {
+      "title": "Entre ombre et lumière !",
+      "date": "mar. 1 décembre 2026 · 18 h 15",
+      "place": "Musée de l'Hospice Comtesse",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/hospice-comtesse/events/48632728_entre-ombre-et-lumiere-1412831",
+      "source": "Vieux-Lille",
+      "age": "Âge indiqué : 16–99 ans",
+      "description": "Stages adulte - session d'automne"
+    },
+    {
+      "title": "Voix de Traverse - Restitution",
+      "date": "mar. 1 décembre 2026 · 19 h 30",
+      "place": "Auditorium du Conservatoire de Lille",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/conservatoiredelille/events/27445333_voix-de-traverse-restitution",
+      "source": "Vieux-Lille",
+      "age": "Âge conseillé à vérifier",
+      "description": "De l'image à l'écrit, de l'écrit à la voix"
     },
     {
       "title": "TÉLÉTHON 2026 du mercredi 02 décembre au samedi 05 décembre 2026.",
@@ -233,6 +189,28 @@
       "description": "Exposition dans le cadre de la Nuit des arts"
     },
     {
+      "title": "Carte blanche à Monsieur Mozart",
+      "date": "ven. 4 décembre 2026 · 18 h 30",
+      "place": "Auditorium du Conservatoire de Lille",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/conservatoiredelille/events/10054746_carte-blanche-a-monsieur-mozart-7420100",
+      "source": "Vieux-Lille",
+      "age": "Âge conseillé à vérifier",
+      "description": "Une aventure musicale avec les cornistes des classes de Lille - Bienvenue chez Mozart"
+    },
+    {
+      "title": "Initiation au jeu masqué",
+      "date": "sam. 5 décembre 2026 · 10 h 00",
+      "place": "Ateliers Théâtre",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/conservatoiredelille/events/80613154_initiation-au-jeu-masque",
+      "source": "Vieux-Lille",
+      "age": "Âge conseillé à vérifier",
+      "description": "Atelier Théâtre Ouvert"
+    },
+    {
       "title": "Cérémonie d’hommage aux Morts",
       "date": "sam. 5 décembre 2026 · 11 h 00",
       "place": "Mémorial",
@@ -242,6 +220,17 @@
       "source": "Ville de Marcq-en-Baroeul",
       "age": "Âge conseillé à vérifier",
       "description": "Cérémonie d’hommage aux Morts"
+    },
+    {
+      "title": "De l’hôpital médiéval au musée d’art et d’histoire de Lille",
+      "date": "sam. 5 décembre 2026 · 15 h 00",
+      "place": "Musée de l'Hospice Comtesse",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/hospice-comtesse/events/43436947_de-lhopital-medieval-au-musee-dart-et-dhistoire-de-lille-7273780",
+      "source": "Vieux-Lille",
+      "age": "Âge indiqué : 10–99 ans",
+      "description": "Laissez-vous conter l’histoire singulière de ce musée chargé d’histoire(s)"
     },
     {
       "title": "Dabkeh palestienienne | Mohammed Alaloul [REPORT]",
@@ -277,6 +266,17 @@
       "description": "En 3h, l'atelier Fresque du Numérique permet de comprendre l'essentiel des enjeux environnementaux liés à l'IA et aux technologies numériques, afin de pouvoir passer à l'action."
     },
     {
+      "title": "Le musée s'ouvre à la poésie",
+      "date": "sam. 12 décembre 2026 · 10 h 00",
+      "place": "Musée de l'Hospice Comtesse",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/hospice-comtesse/events/26411711_le-musee-souvre-a-la-poesie",
+      "source": "Vieux-Lille",
+      "age": "Âge indiqué : 9–99 ans",
+      "description": "En écho au Lille Poésie Festival 2026 et en partenariat avec la bibliothèque du Vieux-lille"
+    },
+    {
       "title": "Rencontre littéraire | Sophie Fontanel - Shéhérazade et la 602e nuit",
       "date": "sam. 12 décembre 2026 · 15 h 00",
       "place": "Théâtre du Nord",
@@ -286,6 +286,50 @@
       "source": "Institut du monde arabe-Tourcoing",
       "age": "Âge conseillé à vérifier",
       "description": "Sophie Fontanel est journaliste. Elle a été rédactrice en chef adjointe de Cosmopolitan, a animé Nulle part ailleurs sur Canal+, puis a été grand reporter à Elle, avant d’entrer à L’Obs."
+    },
+    {
+      "title": "Chambre à Part",
+      "date": "dim. 13 décembre 2026 · 11 h 00",
+      "place": "Auditorium du Conservatoire de Lille",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/conservatoiredelille/events/10034711_chambre-a-part-9925925",
+      "source": "Vieux-Lille",
+      "age": "Âge conseillé à vérifier",
+      "description": "Fauré en miroir"
+    },
+    {
+      "title": "Mon musée de poche",
+      "date": "dim. 13 décembre 2026 · 15 h 30",
+      "place": "Musée de l'Hospice Comtesse",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/hospice-comtesse/events/86405919_mon-musee-de-poche",
+      "source": "Vieux-Lille",
+      "age": "Âge indiqué : 7–99 ans",
+      "description": "Un atelier à expérimenter en famille !"
+    },
+    {
+      "title": "Concert de Simon DIRICQ et des classes de saxophone des Conservatoires de Lille et Lens",
+      "date": "mer. 16 décembre 2026 · 19 h 00",
+      "place": "Auditorium du Conservatoire de Lille",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/conservatoiredelille/events/2200673_concert-des-classes-de-saxophones-des-conservatoires-de-lille-et-lens",
+      "source": "Vieux-Lille",
+      "age": "Âge conseillé à vérifier",
+      "description": "Avec Simon Diricq"
+    },
+    {
+      "title": "Jam Session",
+      "date": "mer. 16 décembre 2026 · 20 h 30",
+      "place": "La malterie",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/conservatoiredelille/events/5312949_jam-session-2692558",
+      "source": "Vieux-Lille",
+      "age": "Âge conseillé à vérifier",
+      "description": "Les jam sessions du Conservatoire sont de retour à la malterie !"
     },
     {
       "title": "Les Rencards du climat à Chaud Bouillon !",
@@ -321,6 +365,39 @@
       "description": "Lors de ce cours d’intitiation, Tarek Abouelgamal propose de vous donner quelques bases de conversation et les principes généraux qui régissent la langue arabe."
     },
     {
+      "title": "Concert de Noël",
+      "date": "sam. 19 décembre 2026 · 20 h 00",
+      "place": "Auditorium du Nouveau Siècle",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/conservatoiredelille/events/82029448_concert-de-noel-3389879",
+      "source": "Vieux-Lille",
+      "age": "Âge conseillé à vérifier",
+      "description": "Concert de Noël du Chœur Régional Hauts-de-France 🎄✨"
+    },
+    {
+      "title": "Match d'Impro",
+      "date": "lun. 21 décembre 2026 · 20 h 00",
+      "place": "Théâtre Charcot",
+      "town": "Marcq-en-Barœul",
+      "kind": "culture",
+      "url": "https://openagenda.com/conservatoiredelille/events/32891171_match-dimpro-2167334",
+      "source": "Vieux-Lille",
+      "age": "Âge conseillé à vérifier",
+      "description": "Match Impro Marcq / Conservatoire"
+    },
+    {
+      "title": "Encre chimérique !",
+      "date": "mar. 12 janvier 2027 · 18 h 15",
+      "place": "Musée de l'Hospice Comtesse",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/hospice-comtesse/events/4352721_encre-chimerique",
+      "source": "Vieux-Lille",
+      "age": "Âge indiqué : 16–99 ans",
+      "description": "Stage Adultes - session d'automne"
+    },
+    {
       "title": "Gang des dévoreurs",
       "date": "sam. 16 janvier 2027 · 15 h 00",
       "place": "Médiathèque La Corderie",
@@ -343,6 +420,17 @@
       "description": "La street food tunisienne, une mémoire sociale et culinaire (Ed. Bande-organisée, 2026) est un livre de recettes consacré à ces cuisines populaires."
     },
     {
+      "title": "Jam Session",
+      "date": "mer. 20 janvier 2027 · 20 h 30",
+      "place": "La malterie",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/conservatoiredelille/events/33759412_jam-session-9457522",
+      "source": "Vieux-Lille",
+      "age": "Âge conseillé à vérifier",
+      "description": "Les jam sessions du Conservatoire sont de retour à la malterie !"
+    },
+    {
       "title": "Les Rencards du climat au Bus Magique !",
       "date": "jeu. 21 janvier 2027 · 19 h 00",
       "place": "Le Bus Magique, Lille",
@@ -352,6 +440,17 @@
       "source": "Fresques Lille Métropole",
       "age": "Âge conseillé à vérifier",
       "description": "Temps de rencontre pour ceux qui s'investissent ou veulent s'investir en faveur de l'environnement"
+    },
+    {
+      "title": "Lire à Voix haute",
+      "date": "sam. 6 février 2027 · 14 h 30",
+      "place": "médiathèque Lille-Moulins",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/conservatoiredelille/events/44929981_lire-a-voix-haute-5150704",
+      "source": "Vieux-Lille",
+      "age": "Âge conseillé à vérifier",
+      "description": "Atelier Théâtre Ouvert"
     },
     {
       "title": "Rencard du climat (lieu à confirmer)",
@@ -365,6 +464,17 @@
       "description": "Temps de rencontre pour ceux qui s'investissent ou veulent s'investir en faveur de l'environnement"
     },
     {
+      "title": "Jam Session",
+      "date": "mer. 17 février 2027 · 20 h 30",
+      "place": "La malterie",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/conservatoiredelille/events/29424762_jam-session-676066",
+      "source": "Vieux-Lille",
+      "age": "Âge conseillé à vérifier",
+      "description": "Les jam sessions du Conservatoire sont de retour à la malterie !"
+    },
+    {
       "title": "Gang des dévoreurs",
       "date": "sam. 13 mars 2027 · 15 h 00",
       "place": "Médiathèque La Corderie",
@@ -376,6 +486,28 @@
       "description": "Club de lecture des 8-12 ans"
     },
     {
+      "title": "Jam Session",
+      "date": "mer. 17 mars 2027 · 20 h 30",
+      "place": "La malterie",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/conservatoiredelille/events/51723176_jam-session-6289861",
+      "source": "Vieux-Lille",
+      "age": "Âge conseillé à vérifier",
+      "description": "Les jam sessions du Conservatoire sont de retour à la malterie !"
+    },
+    {
+      "title": "Jam Session",
+      "date": "mer. 14 avril 2027 · 20 h 30",
+      "place": "La malterie",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/conservatoiredelille/events/54621907_jam-session-3894500",
+      "source": "Vieux-Lille",
+      "age": "Âge conseillé à vérifier",
+      "description": "Les jam sessions du Conservatoire sont de retour à la malterie !"
+    },
+    {
       "title": "Rencard du climat (lieu à confirmer)",
       "date": "jeu. 15 avril 2027 · 19 h 00",
       "place": "Les Sarrazins",
@@ -385,6 +517,17 @@
       "source": "Fresques Lille Métropole",
       "age": "Âge conseillé à vérifier",
       "description": "Temps de rencontre pour ceux qui s'investissent ou veulent s'investir en faveur de l'environnement"
+    },
+    {
+      "title": "Jam Session",
+      "date": "mer. 12 mai 2027 · 20 h 30",
+      "place": "La malterie",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/conservatoiredelille/events/98829513_jam-session-1098208",
+      "source": "Vieux-Lille",
+      "age": "Âge conseillé à vérifier",
+      "description": "Les jam sessions du Conservatoire sont de retour à la malterie !"
     },
     {
       "title": "Rencard du climat +  Vélorution (lieu à confirmer)",
