@@ -1,94 +1,6 @@
 {
-  "updatedAt": "2026-11-21T17:58:02.944289+00:00",
+  "updatedAt": "2026-11-22T06:12:53.303522+00:00",
   "events": [
-    {
-      "title": "10 ans ! Fanfaraï Big Band + Karaoké de bled + Ben Bella Jazz",
-      "date": "sam. 21 novembre 2026 · 19 h 00",
-      "place": "LE GRAND MIX",
-      "town": "Tourcoing",
-      "kind": "culture",
-      "url": "https://openagenda.com/institut-du-monde-arabe-tourcoing/events/77622491_fanfarai-big-band-karaoke-de-bled-ben-bella-jazz",
-      "source": "Tourcoing Tourisme",
-      "age": "Âge conseillé à vérifier",
-      "description": "Une soirée festive aux couleurs du monde pour fêter les 10 ans de l’Institut du monde arabe-Tourcoing !"
-    },
-    {
-      "title": "Voix de Traverse",
-      "date": "sam. 21 novembre 2026 · 19 h 30",
-      "place": "maison Folie Wazemmes",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/conservatoiredelille/events/50763058_voix-de-traverse-restitution-2756521",
-      "source": "Vieux-Lille",
-      "age": "Âge conseillé à vérifier",
-      "description": "De l'image à l'écrit, de l'écrit à la voix"
-    },
-    {
-      "title": "Voix de traverse - Festival des Solidarités Internationales",
-      "date": "sam. 21 novembre 2026 · 19 h 30",
-      "place": "maison Folie Wazemmes",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/maisons-folie/events/91978346_voix-de-traverse-festival-des-solidarites-internationales",
-      "source": "Ville de Lille",
-      "age": "Âge conseillé à vérifier",
-      "description": "Et si l'on prenait le temps d'écouter les jeunes du monde, leurs rêves, leurs défis, leurs engagements et découvrir leurs créations ?"
-    },
-    {
-      "title": "La Grande Sophie",
-      "date": "sam. 21 novembre 2026 · 20 h 00",
-      "place": "Le Splendid",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/la-culture-en-continu/events/69271369_la-grande-sophie-1531985",
-      "source": "Ville de Lille",
-      "age": "Âge conseillé à vérifier",
-      "description": "La Grande Sophie revient seule sur scène le 21 novembre au Splendid !"
-    },
-    {
-      "title": "jam : house",
-      "date": "sam. 21 novembre 2026 · 20 h 00",
-      "place": "FLOW - Centre Eurorégional des Cultures Urbaines",
-      "town": "Lille",
-      "kind": "baby",
-      "url": "https://openagenda.com/flow/events/26211499_jam-house",
-      "source": "Ville de Lille",
-      "age": "Âge indiqué : 0–99 ans",
-      "description": "Jam House"
-    },
-    {
-      "title": "La Grande Sophie",
-      "date": "sam. 21 novembre 2026 · 20 h 00",
-      "place": "Le Splendid",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/ville-de-lille/events/75626064_la-grande-sophie-878597",
-      "source": "Ville de Lille",
-      "age": "Âge conseillé à vérifier",
-      "description": "La Grande Sophie revient seule sur scène le 21 novembre au Splendid !"
-    },
-    {
-      "title": "Release party: Violence Banalisée (punk) + Mere mortals (fast core)",
-      "date": "sam. 21 novembre 2026 · 20 h 30",
-      "place": "le musical",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/max-fb100003037778845/events/5080164_release-party-violence-banalisee-punk-mere-mortals-fast-core",
-      "source": "Ville de Lille",
-      "age": "Âge indiqué : 18–99 ans",
-      "description": "Go release party du nouvel EP de Violence Banalisée avec les colocs de répette de Mere mortals !"
-    },
-    {
-      "title": "Un air de famille",
-      "date": "sam. 21 novembre 2026 · 20 h 30",
-      "place": "Kursaal",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/ville-de-lille/events/99729460_un-air-de-famille-7070795",
-      "source": "Ville de Lille",
-      "age": "Âge conseillé à vérifier",
-      "description": "Vous êtes invité à aimer et détester les membres de la famille Mesnard lors de leur traditionnel dîner du vendredi. Les langues, enfin, vont se délier. Une jolie comédie douce-amère et décalée."
-    },
     {
       "title": "Un dimanche, un quartier : Lille en guerre 1914-1918",
       "date": "dim. 22 novembre 2026 · 14 h 00",
@@ -118,7 +30,7 @@
       "town": "Tourcoing",
       "kind": "culture",
       "url": "https://openagenda.com/institut-du-monde-arabe-tourcoing/events/82293759_christine-zayed-la-palestine-au-coeur-or-carte-blanche-a-attacafa",
-      "source": "Tourcoing Tourisme",
+      "source": "Institut du monde arabe-Tourcoing",
       "age": "Âge conseillé à vérifier",
       "description": "Le projet musical de Christine Zayed est une exploration profondément personnelle, enracinée en Palestine, transformée en un langage universel de connexion."
     },
@@ -140,7 +52,7 @@
       "town": "Tourcoing",
       "kind": "culture",
       "url": "https://openagenda.com/institut-du-monde-arabe-tourcoing/events/24429578_fakir-or-carte-blanche-au-tourcoing-jazz",
-      "source": "Tourcoing Tourisme",
+      "source": "Institut du monde arabe-Tourcoing",
       "age": "Âge conseillé à vérifier",
       "description": "Fakir réunit les musiciens Marwan Fakir (violon), Louis Desseigne (guitares et saz) et Pierre-Antoine Despatures (contrebasse)."
     },
@@ -222,28 +134,6 @@
       "description": "Temps de rencontre pour ceux qui s'investissent ou veulent s'investir en faveur de l'environnement"
     },
     {
-      "title": "Tournoi football entre habitants de Moulins",
-      "date": "ven. 27 novembre 2026 · 17 h 30",
-      "place": "Stade Jean Bouin",
-      "town": "Lille",
-      "kind": "sport",
-      "url": "https://openagenda.com/lille-moulins/events/3914784_tournoi-football-entre-habitants-de-moulins",
-      "source": "Lille-Moulins",
-      "age": "Âge indiqué : 18–99 ans",
-      "description": "Tournoi football entre habitants de Moulins"
-    },
-    {
-      "title": "Kilikili: Chouette, une histoire !",
-      "date": "sam. 28 novembre 2026 · 10 h 30",
-      "place": "Médiathèque de Lille-Moulins",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/bml/events/83208694_kilikili-chouette-une-histoire",
-      "source": "Lille-Moulins",
-      "age": "Âge indiqué : 4–7 ans",
-      "description": "Chouette, une histoire ! Ecouter des histoires, c'est chouette. Alors quand elles racontent sur les chouettes c'est encore mieux..."
-    },
-    {
       "title": "Speed-dating patrimonial",
       "date": "sam. 28 novembre 2026 · 10 h 30",
       "place": "Médiathèque de Roubaix - La Grand-Plage",
@@ -266,6 +156,28 @@
       "description": "Spectacle pour tout-petits"
     },
     {
+      "title": "Projection de « Hitch, une histoire iranienne », un film documentaire de Chowra Makaremi (France, 2019, 72 minutes)",
+      "date": "sam. 28 novembre 2026 · 14 h 30",
+      "place": "Médiathèque Andrée Chedid",
+      "town": "Tourcoing",
+      "kind": "culture",
+      "url": "https://openagenda.com/reseau-des-idees-mediatheques-de-tourcoing/events/13563522_projection-hitch-une-histoire-iranienne-un-film-documentaire-de-chowra-makaremi-france-2019-72-minutes",
+      "source": "Programmation culturelle du réseau des médiathèques de Tourcoing",
+      "age": "Âge indiqué : 14–99 ans",
+      "description": "La projection de ce film multi-récompensé sera suivie d'un échange avec Chowra Makaremi, anthropologue chargée de recherche au CNRS dont c'est le premier film."
+    },
+    {
+      "title": "Atelier - rencontre : Pour un habitat solidaire avec Victor Missud",
+      "date": "sam. 28 novembre 2026 · 15 h 00",
+      "place": "Médiathèque Andrée Chedid",
+      "town": "Tourcoing",
+      "kind": "culture",
+      "url": "https://openagenda.com/reseau-des-idees-mediatheques-de-tourcoing/events/95361715_atelier-rencontre-pour-un-habitat-solidaire-avec-victor-missud",
+      "source": "Programmation culturelle du réseau des médiathèques de Tourcoing",
+      "age": "Âge indiqué : 8–99 ans",
+      "description": "La médiathèque Andrée Chedid vous propose de rencontrer Victor Missud, artiste issu de la promotion 2024-2026 du Fresnoy, pour un atelier parent/enfant accessible dès 8 ans."
+    },
+    {
       "title": "Création d'un carnet",
       "date": "dim. 29 novembre 2026 · 15 h 00",
       "place": "Médiathèque de Roubaix - La Grand-Plage",
@@ -275,28 +187,6 @@
       "source": "Médiathèque de Roubaix",
       "age": "Âge conseillé à vérifier",
       "description": "Atelier créatif"
-    },
-    {
-      "title": "Entre ombre et lumière !",
-      "date": "mar. 1 décembre 2026 · 18 h 15",
-      "place": "Musée de l'Hospice Comtesse",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/hospice-comtesse/events/48632728_entre-ombre-et-lumiere-1412831",
-      "source": "Vieux-Lille",
-      "age": "Âge indiqué : 16–99 ans",
-      "description": "Stages adulte - session d'automne"
-    },
-    {
-      "title": "Voix de Traverse - Restitution",
-      "date": "mar. 1 décembre 2026 · 19 h 30",
-      "place": "Auditorium du Conservatoire de Lille",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/conservatoiredelille/events/27445333_voix-de-traverse-restitution",
-      "source": "Vieux-Lille",
-      "age": "Âge conseillé à vérifier",
-      "description": "De l'image à l'écrit, de l'écrit à la voix"
     },
     {
       "title": "TÉLÉTHON 2026 du mercredi 02 décembre au samedi 05 décembre 2026.",
@@ -343,28 +233,6 @@
       "description": "Exposition dans le cadre de la Nuit des arts"
     },
     {
-      "title": "Carte blanche à Monsieur Mozart",
-      "date": "ven. 4 décembre 2026 · 18 h 30",
-      "place": "Auditorium du Conservatoire de Lille",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/conservatoiredelille/events/10054746_carte-blanche-a-monsieur-mozart-7420100",
-      "source": "Vieux-Lille",
-      "age": "Âge conseillé à vérifier",
-      "description": "Une aventure musicale avec les cornistes des classes de Lille - Bienvenue chez Mozart"
-    },
-    {
-      "title": "Initiation au jeu masqué",
-      "date": "sam. 5 décembre 2026 · 10 h 00",
-      "place": "Ateliers Théâtre",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/conservatoiredelille/events/80613154_initiation-au-jeu-masque",
-      "source": "Vieux-Lille",
-      "age": "Âge conseillé à vérifier",
-      "description": "Atelier Théâtre Ouvert"
-    },
-    {
       "title": "Cérémonie d’hommage aux Morts",
       "date": "sam. 5 décembre 2026 · 11 h 00",
       "place": "Mémorial",
@@ -376,15 +244,26 @@
       "description": "Cérémonie d’hommage aux Morts"
     },
     {
-      "title": "De l’hôpital médiéval au musée d’art et d’histoire de Lille",
-      "date": "sam. 5 décembre 2026 · 15 h 00",
-      "place": "Musée de l'Hospice Comtesse",
-      "town": "Lille",
+      "title": "Dabkeh palestienienne | Mohammed Alaloul [REPORT]",
+      "date": "sam. 5 décembre 2026 · 15 h 30",
+      "place": "Institut du monde arabe-Tourcoing",
+      "town": "Tourcoing",
       "kind": "culture",
-      "url": "https://openagenda.com/hospice-comtesse/events/43436947_de-lhopital-medieval-au-musee-dart-et-dhistoire-de-lille-7273780",
-      "source": "Vieux-Lille",
-      "age": "Âge indiqué : 10–99 ans",
-      "description": "Laissez-vous conter l’histoire singulière de ce musée chargé d’histoire(s)"
+      "url": "https://openagenda.com/institut-du-monde-arabe-tourcoing/events/65409492_dabkeh-palestienienne-or-mohammed-alaloul",
+      "source": "Institut du monde arabe-Tourcoing",
+      "age": "Âge indiqué : 12–99 ans",
+      "description": "La dabkeh est une danse populaire traditionnelle palestinienne qui se pratique en groupe lors des moments festifs et des célébrations."
+    },
+    {
+      "title": "Ateliers calligraphie arabe | Ahmad Dari",
+      "date": "dim. 6 décembre 2026 · 13 h 15",
+      "place": "Institut du monde arabe-Tourcoing",
+      "town": "Tourcoing",
+      "kind": "culture",
+      "url": "https://openagenda.com/institut-du-monde-arabe-tourcoing/events/25567405_ateliers-calligraphie-arabe-or-ahmad-dari",
+      "source": "Institut du monde arabe-Tourcoing",
+      "age": "Âge indiqué : 12–99 ans",
+      "description": "À travers cet atelier, le maître calligraphe Ahmad Dari, originaire de Jérusalem, vous initiera aux secrets du calame et à la subtilité des liés et déliés de la calligraphie arabe."
     },
     {
       "title": "La Fresque du Numérique à Saint-André-lez-Lille",
@@ -398,59 +277,15 @@
       "description": "En 3h, l'atelier Fresque du Numérique permet de comprendre l'essentiel des enjeux environnementaux liés à l'IA et aux technologies numériques, afin de pouvoir passer à l'action."
     },
     {
-      "title": "Le musée s'ouvre à la poésie",
-      "date": "sam. 12 décembre 2026 · 10 h 00",
-      "place": "Musée de l'Hospice Comtesse",
+      "title": "Rencontre littéraire | Sophie Fontanel - Shéhérazade et la 602e nuit",
+      "date": "sam. 12 décembre 2026 · 15 h 00",
+      "place": "Théâtre du Nord",
       "town": "Lille",
       "kind": "culture",
-      "url": "https://openagenda.com/hospice-comtesse/events/26411711_le-musee-souvre-a-la-poesie",
-      "source": "Vieux-Lille",
-      "age": "Âge indiqué : 9–99 ans",
-      "description": "En écho au Lille Poésie Festival 2026 et en partenariat avec la bibliothèque du Vieux-lille"
-    },
-    {
-      "title": "Chambre à Part",
-      "date": "dim. 13 décembre 2026 · 11 h 00",
-      "place": "Auditorium du Conservatoire de Lille",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/conservatoiredelille/events/10034711_chambre-a-part-9925925",
-      "source": "Vieux-Lille",
+      "url": "https://openagenda.com/institut-du-monde-arabe-tourcoing/events/20406388_rencontre-litteraire-or-sophie-fontanel-sheherazade-et-la-602e-nuit",
+      "source": "Institut du monde arabe-Tourcoing",
       "age": "Âge conseillé à vérifier",
-      "description": "Fauré en miroir"
-    },
-    {
-      "title": "Mon musée de poche",
-      "date": "dim. 13 décembre 2026 · 15 h 30",
-      "place": "Musée de l'Hospice Comtesse",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/hospice-comtesse/events/86405919_mon-musee-de-poche",
-      "source": "Vieux-Lille",
-      "age": "Âge indiqué : 7–99 ans",
-      "description": "Un atelier à expérimenter en famille !"
-    },
-    {
-      "title": "Concert de Simon DIRICQ et des classes de saxophone des Conservatoires de Lille et Lens",
-      "date": "mer. 16 décembre 2026 · 19 h 00",
-      "place": "Auditorium du Conservatoire de Lille",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/conservatoiredelille/events/2200673_concert-des-classes-de-saxophones-des-conservatoires-de-lille-et-lens",
-      "source": "Vieux-Lille",
-      "age": "Âge conseillé à vérifier",
-      "description": "Avec Simon Diricq"
-    },
-    {
-      "title": "Jam Session",
-      "date": "mer. 16 décembre 2026 · 20 h 30",
-      "place": "La malterie",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/conservatoiredelille/events/5312949_jam-session-2692558",
-      "source": "Vieux-Lille",
-      "age": "Âge conseillé à vérifier",
-      "description": "Les jam sessions du Conservatoire sont de retour à la malterie !"
+      "description": "Sophie Fontanel est journaliste. Elle a été rédactrice en chef adjointe de Cosmopolitan, a animé Nulle part ailleurs sur Canal+, puis a été grand reporter à Elle, avant d’entrer à L’Obs."
     },
     {
       "title": "Les Rencards du climat à Chaud Bouillon !",
@@ -464,37 +299,26 @@
       "description": "Temps de rencontre pour ceux qui s'investissent ou veulent s'investir en faveur de l'environnement"
     },
     {
-      "title": "Concert de Noël",
-      "date": "sam. 19 décembre 2026 · 20 h 00",
-      "place": "Auditorium du Nouveau Siècle",
-      "town": "Lille",
+      "title": "La langue arabe en Europe | Tarek Abouelgamal",
+      "date": "sam. 19 décembre 2026 · 15 h 00",
+      "place": "Institut du monde arabe-Tourcoing",
+      "town": "Tourcoing",
       "kind": "culture",
-      "url": "https://openagenda.com/conservatoiredelille/events/82029448_concert-de-noel-3389879",
-      "source": "Vieux-Lille",
+      "url": "https://openagenda.com/institut-du-monde-arabe-tourcoing/events/74626928_la-langue-arabe-en-europe-or-tarek-abouelgamal",
+      "source": "Institut du monde arabe-Tourcoing",
       "age": "Âge conseillé à vérifier",
-      "description": "Concert de Noël du Chœur Régional Hauts-de-France 🎄✨"
+      "description": "À l’occasion de la journée de la langue arabe, célébrée chaque année à l’initiative de l’UNESCO, l’IMA-Tourcoing invite un grand spécialiste, Tarek Abouelgamal."
     },
     {
-      "title": "Match d'Impro",
-      "date": "lun. 21 décembre 2026 · 20 h 00",
-      "place": "Théâtre Charcot",
-      "town": "Marcq-en-Barœul",
-      "kind": "culture",
-      "url": "https://openagenda.com/conservatoiredelille/events/32891171_match-dimpro-2167334",
-      "source": "Vieux-Lille",
-      "age": "Âge conseillé à vérifier",
-      "description": "Match Impro Marcq / Conservatoire"
-    },
-    {
-      "title": "Encre chimérique !",
-      "date": "mar. 12 janvier 2027 · 18 h 15",
-      "place": "Musée de l'Hospice Comtesse",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/hospice-comtesse/events/4352721_encre-chimerique",
-      "source": "Vieux-Lille",
-      "age": "Âge indiqué : 16–99 ans",
-      "description": "Stage Adultes - session d'automne"
+      "title": "Cours d'initiation à la langue arabe | Tarek Abouelgamal",
+      "date": "sam. 19 décembre 2026 · 16 h 30",
+      "place": "Institut du monde arabe-Tourcoing",
+      "town": "Tourcoing",
+      "kind": "baby",
+      "url": "https://openagenda.com/institut-du-monde-arabe-tourcoing/events/5654038_cours-dinitiation-a-la-langue-arabe-or-tarek-abouelgamal",
+      "source": "Institut du monde arabe-Tourcoing",
+      "age": "Âge indiqué : 0–99 ans",
+      "description": "Lors de ce cours d’intitiation, Tarek Abouelgamal propose de vous donner quelques bases de conversation et les principes généraux qui régissent la langue arabe."
     },
     {
       "title": "Gang des dévoreurs",
@@ -508,15 +332,15 @@
       "description": "Club de lecture des 8-12 ans"
     },
     {
-      "title": "Jam Session",
-      "date": "mer. 20 janvier 2027 · 20 h 30",
-      "place": "La malterie",
-      "town": "Lille",
+      "title": "Brunch | Street food tunisienne",
+      "date": "dim. 17 janvier 2027 · 13 h 00",
+      "place": "Institut du monde arabe-Tourcoing",
+      "town": "Tourcoing",
       "kind": "culture",
-      "url": "https://openagenda.com/conservatoiredelille/events/33759412_jam-session-9457522",
-      "source": "Vieux-Lille",
+      "url": "https://openagenda.com/institut-du-monde-arabe-tourcoing/events/69553608_brunch-or-street-food-tunisienne",
+      "source": "Institut du monde arabe-Tourcoing",
       "age": "Âge conseillé à vérifier",
-      "description": "Les jam sessions du Conservatoire sont de retour à la malterie !"
+      "description": "La street food tunisienne, une mémoire sociale et culinaire (Ed. Bande-organisée, 2026) est un livre de recettes consacré à ces cuisines populaires."
     },
     {
       "title": "Les Rencards du climat au Bus Magique !",
@@ -530,17 +354,6 @@
       "description": "Temps de rencontre pour ceux qui s'investissent ou veulent s'investir en faveur de l'environnement"
     },
     {
-      "title": "Lire à Voix haute",
-      "date": "sam. 6 février 2027 · 14 h 30",
-      "place": "médiathèque Lille-Moulins",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/conservatoiredelille/events/44929981_lire-a-voix-haute-5150704",
-      "source": "Vieux-Lille",
-      "age": "Âge conseillé à vérifier",
-      "description": "Atelier Théâtre Ouvert"
-    },
-    {
       "title": "Rencard du climat (lieu à confirmer)",
       "date": "mar. 16 février 2027 · 19 h 00",
       "place": "Arkose",
@@ -550,17 +363,6 @@
       "source": "Fresques Lille Métropole",
       "age": "Âge conseillé à vérifier",
       "description": "Temps de rencontre pour ceux qui s'investissent ou veulent s'investir en faveur de l'environnement"
-    },
-    {
-      "title": "Jam Session",
-      "date": "mer. 17 février 2027 · 20 h 30",
-      "place": "La malterie",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/conservatoiredelille/events/29424762_jam-session-676066",
-      "source": "Vieux-Lille",
-      "age": "Âge conseillé à vérifier",
-      "description": "Les jam sessions du Conservatoire sont de retour à la malterie !"
     },
     {
       "title": "Gang des dévoreurs",
@@ -574,28 +376,6 @@
       "description": "Club de lecture des 8-12 ans"
     },
     {
-      "title": "Jam Session",
-      "date": "mer. 17 mars 2027 · 20 h 30",
-      "place": "La malterie",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/conservatoiredelille/events/51723176_jam-session-6289861",
-      "source": "Vieux-Lille",
-      "age": "Âge conseillé à vérifier",
-      "description": "Les jam sessions du Conservatoire sont de retour à la malterie !"
-    },
-    {
-      "title": "Jam Session",
-      "date": "mer. 14 avril 2027 · 20 h 30",
-      "place": "La malterie",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/conservatoiredelille/events/54621907_jam-session-3894500",
-      "source": "Vieux-Lille",
-      "age": "Âge conseillé à vérifier",
-      "description": "Les jam sessions du Conservatoire sont de retour à la malterie !"
-    },
-    {
       "title": "Rencard du climat (lieu à confirmer)",
       "date": "jeu. 15 avril 2027 · 19 h 00",
       "place": "Les Sarrazins",
@@ -605,17 +385,6 @@
       "source": "Fresques Lille Métropole",
       "age": "Âge conseillé à vérifier",
       "description": "Temps de rencontre pour ceux qui s'investissent ou veulent s'investir en faveur de l'environnement"
-    },
-    {
-      "title": "Jam Session",
-      "date": "mer. 12 mai 2027 · 20 h 30",
-      "place": "La malterie",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/conservatoiredelille/events/98829513_jam-session-1098208",
-      "source": "Vieux-Lille",
-      "age": "Âge conseillé à vérifier",
-      "description": "Les jam sessions du Conservatoire sont de retour à la malterie !"
     },
     {
       "title": "Rencard du climat +  Vélorution (lieu à confirmer)",
