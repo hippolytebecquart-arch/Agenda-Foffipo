@@ -1,6 +1,160 @@
 {
-  "updatedAt": "2026-11-23T06:26:52.273019+00:00",
+  "updatedAt": "2026-11-23T18:13:55.989826+00:00",
   "events": [
+    {
+      "title": "Arabrot + Lost in kyiv",
+      "date": "lun. 23 novembre 2026 · 20 h 00",
+      "place": "Le Splendid",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/la-culture-en-continu/events/47348850_arabrot-lost-in-kyiv-6313945",
+      "source": "Ville de Lille",
+      "age": "Âge conseillé à vérifier",
+      "description": "Deux groupes, deux visions radicales du rock contemporain, réunis à Lille le 23 novembre."
+    },
+    {
+      "title": "Julien Lieb",
+      "date": "lun. 23 novembre 2026 · 20 h 00",
+      "place": "Théâtre Sébastopol",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/ville-de-lille/events/47680893_julien-lieb-3333779",
+      "source": "Ville de Lille",
+      "age": "Âge conseillé à vérifier",
+      "description": "Retrouvez Julien Lieb, finaliste de la Star Academy 2024, pour sa première tournée solo."
+    },
+    {
+      "title": "Julien Lieb",
+      "date": "lun. 23 novembre 2026 · 20 h 00",
+      "place": "Théâtre Sébastopol Lille Nord Haut de France",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/ville-de-lille/events/83227307_julien-lieb-4573587",
+      "source": "Ville de Lille",
+      "age": "Âge conseillé à vérifier",
+      "description": "Retrouvez Julien Lieb, finaliste de la Star Academy 2024, pour sa première tournée solo."
+    },
+    {
+      "title": "Arabrot + Lost in Kyiv",
+      "date": "lun. 23 novembre 2026 · 20 h 00",
+      "place": "Le Splendid",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/ville-de-lille/events/85773206_arabrot-lost-in-kyiv",
+      "source": "Ville de Lille",
+      "age": "Âge conseillé à vérifier",
+      "description": "Deux groupes, deux visions radicales du rock contemporain, réunis à Lille le 23 novembre."
+    },
+    {
+      "title": "Concert THE ZAC SCHULZE GANG",
+      "date": "lun. 23 novembre 2026 · 20 h 30",
+      "place": "Boîte À Musiques",
+      "town": "Wattrelos",
+      "kind": "culture",
+      "url": "https://openagenda.com/ville-de-wattrelos/events/67836324_concert-the-zac-schulze-gang",
+      "source": "Métropole Européenne de Lille",
+      "age": "Âge conseillé à vérifier",
+      "description": "à la Boîte à Musiques"
+    },
+    {
+      "title": "Le Truck de Soliha au CH Roubaix pour présenter le dispositif \"Urgence Adaptation\"",
+      "date": "mar. 24 novembre 2026 · 10 h 00",
+      "place": "Hôpital Victor Provo",
+      "town": "Roubaix",
+      "kind": "culture",
+      "url": "https://openagenda.com/roubaix/events/43936314_le-truck-de-soliha-au-ch-roubaix-pour-presenter-le-dispositif-urgence-adaptation",
+      "source": "Métropole Européenne de Lille",
+      "age": "Âge conseillé à vérifier",
+      "description": "Le Truck de Soliha au CH Roubaix pour présenter le dispositif \"Urgence Adaptation\""
+    },
+    {
+      "title": "Repas solidaire - Myäm et Grandes Gamelles",
+      "date": "mar. 24 novembre 2026 · 12 h 00",
+      "place": "Cuisine Commune de Chaud Bouillon",
+      "town": "Lille",
+      "kind": "baby",
+      "url": "https://openagenda.com/ville-de-lille/events/84040628_repas-solidaire-myam-et-grandes-gamelles-1351681",
+      "source": "Ville de Lille",
+      "age": "Âge indiqué : 0–99 ans",
+      "description": "🧡1 repas payé = 1 repas offert à une personne dans le besoin🧡"
+    },
+    {
+      "title": "Aller Savoir Ailleurs - Exposition",
+      "date": "mar. 24 novembre 2026 · 14 h 00",
+      "place": "Maison Folie Moulins",
+      "town": "Lille",
+      "kind": "baby",
+      "url": "https://openagenda.com/maisons-folie/events/56440212_aller-savoir-ailleurs-exposition",
+      "source": "Ville de Lille",
+      "age": "Âge indiqué : 0–99 ans",
+      "description": "Le festival revient pour sa 2e édition avec une exposition-laboratoire unique \"Aller Savoir Ailleurs\""
+    },
+    {
+      "title": "L'égalité, ça s'apprend, ça se vit, ça se préserve !",
+      "date": "mar. 24 novembre 2026 · 15 h 45",
+      "place": "Collège Louise Michel",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/ville-de-lille/events/76281944_legalite-ca-sapprend-ca-se-vit-ca-se-preserve",
+      "source": "Ville de Lille",
+      "age": "Âge conseillé à vérifier",
+      "description": "Vernissage de l'exposition"
+    },
+    {
+      "title": "Comment éviter les hausses de vos contrats de charges courantes",
+      "date": "mar. 24 novembre 2026 · 17 h 30",
+      "place": "En ligne",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/mhd/events/13809659_comment-eviter-les-hausses-de-vos-contrats-de-charges-courantes",
+      "source": "Ville de Lille",
+      "age": "Âge conseillé à vérifier",
+      "description": "Webinaire"
+    },
+    {
+      "title": "Outsider Class - Festival Trouble Fête #2",
+      "date": "mar. 24 novembre 2026 · 18 h 30",
+      "place": "Maison Folie Moulins",
+      "town": "Lille",
+      "kind": "baby",
+      "url": "https://openagenda.com/maisons-folie/events/20291287_outsider-class-festival-trouble-fete-2",
+      "source": "Ville de Lille",
+      "age": "Âge indiqué : 0–99 ans",
+      "description": "Deux soirées, deux thématiques pour prolonger l'exposition \"Aller Savoir Ailleurs\" dans le cadre du festival Trouble Fête #2"
+    },
+    {
+      "title": "Citéphilo - Pourquoi l’Économie Sociale et Solidaire, \nsource et finalité de nombreuses initiatives \nlocales est-elle invisible ?",
+      "date": "mar. 24 novembre 2026 · 18 h 30",
+      "place": "MRES",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/ville-de-lille/events/89379439_citephilo-pourquoi-leconomie-sociale-et-solidaire-source-et-finalite-de-nombreuses-initiatives-locales-est-elle-invisible",
+      "source": "Ville de Lille",
+      "age": "Âge conseillé à vérifier",
+      "description": "Pourquoi l’Économie Sociale et Solidaire,  source et finalité de nombreuses initiatives  locales est-elle invisible ? par Jean-Louis Laville"
+    },
+    {
+      "title": "Minitel",
+      "date": "mar. 24 novembre 2026 · 20 h 00",
+      "place": "Le Splendid",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/ville-de-lille/events/16222760_minitel-3842673",
+      "source": "Ville de Lille",
+      "age": "Âge conseillé à vérifier",
+      "description": "Avec MINITEL, replongez dans l'univers légendaire de Téléphone le temps d'une soirée 100 % rock."
+    },
+    {
+      "title": "Minitel",
+      "date": "mar. 24 novembre 2026 · 20 h 00",
+      "place": "Le Splendid",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/la-culture-en-continu/events/27285655_minitel-6336017",
+      "source": "Ville de Lille",
+      "age": "Âge conseillé à vérifier",
+      "description": "Avec MINITEL, replongez dans l'univers légendaire de Téléphone le temps d'une soirée 100 % rock."
+    },
     {
       "title": "Le p'tit yogi",
       "date": "mer. 25 novembre 2026 · 10 h 30",
@@ -44,17 +198,6 @@
       "source": "Le réseau des bibliothèques et médiathèques de la MEL",
       "age": "Âge indiqué : 0–6 ans",
       "description": "Venez partager avec vos enfants un moment de douceur autour des albums jeunesse et des comptines. Retrouvez Juliette pour 30 minutes d'émerveillement en famille..."
-    },
-    {
-      "title": "DANIEL ZIMMERMANN",
-      "date": "jeu. 26 novembre 2026 · 17 h 30",
-      "place": "Maison Folie Hospice d'Havré",
-      "town": "Tourcoing",
-      "kind": "culture",
-      "url": "https://openagenda.com/tourcoing-jazz/events/14401999_daniel-zimmermann",
-      "source": "Tourcoing Jazz",
-      "age": "Âge conseillé à vérifier",
-      "description": "Tourcoing Jazz Club 2026"
     },
     {
       "title": "Vente Solidaire - Marcq Tiers Monde",
@@ -255,6 +398,17 @@
       "description": "En 3h, l'atelier Fresque du Numérique permet de comprendre l'essentiel des enjeux environnementaux liés à l'IA et aux technologies numériques, afin de pouvoir passer à l'action."
     },
     {
+      "title": "La laine : une grande aventure",
+      "date": "mer. 9 décembre 2026 · 14 h 30",
+      "place": "Ferme Pédagogique Marcel Dhénin",
+      "town": "Lille",
+      "kind": "baby",
+      "url": "https://openagenda.com/nature-lille/events/53728564_la-laine-une-grande-aventure",
+      "source": "Nature à Lille",
+      "age": "Âge indiqué : 3–99 ans",
+      "description": "Les moutons"
+    },
+    {
       "title": "Le musée s'ouvre à la poésie",
       "date": "sam. 12 décembre 2026 · 10 h 00",
       "place": "Musée de l'Hospice Comtesse",
@@ -264,6 +418,17 @@
       "source": "Vieux-Lille",
       "age": "Âge indiqué : 9–99 ans",
       "description": "En écho au Lille Poésie Festival 2026 et en partenariat avec la bibliothèque du Vieux-lille"
+    },
+    {
+      "title": "Marché de Noël de créateurs et streetwear",
+      "date": "sam. 12 décembre 2026 · 12 h 00",
+      "place": "Bazaar St-So",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/lille-centre/events/99519484_week-end-a-lille-les-12-et-13-decembre-marche-de-noel-de-createurs-et-streetwear-gratuit",
+      "source": "Lille-Centre",
+      "age": "Âge conseillé à vérifier",
+      "description": "Pop-up de Noël à Lille : 50+ créateurs et marques streetwear, entrée gratuite"
     },
     {
       "title": "Chambre à Part",
@@ -286,6 +451,17 @@
       "source": "Vieux-Lille",
       "age": "Âge indiqué : 7–99 ans",
       "description": "Un atelier à expérimenter en famille !"
+    },
+    {
+      "title": "Décoration d'hiver",
+      "date": "mer. 16 décembre 2026 · 10 h 30",
+      "place": "Ferme Pédagogique Marcel Dhénin",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/nature-lille/events/92431435_decoration-dhiver",
+      "source": "Nature à Lille",
+      "age": "Âge indiqué : 5–99 ans",
+      "description": "Créativité"
     },
     {
       "title": "Concert de Simon DIRICQ et des classes de saxophone des Conservatoires de Lille et Lens",
@@ -341,6 +517,17 @@
       "source": "Vieux-Lille",
       "age": "Âge conseillé à vérifier",
       "description": "Match Impro Marcq / Conservatoire"
+    },
+    {
+      "title": "Biscuits d'hiver",
+      "date": "jeu. 31 décembre 2026 · 14 h 30",
+      "place": "Ferme Pédagogique Marcel Dhénin",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/nature-lille/events/12462925_biscuits-dhiver-8709811",
+      "source": "Nature à Lille",
+      "age": "Âge indiqué : 5–99 ans",
+      "description": "Bien se nourrir"
     },
     {
       "title": "Encre chimérique !",
