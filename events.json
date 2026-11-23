@@ -1,17 +1,6 @@
 {
-  "updatedAt": "2026-11-22T17:57:13.220257+00:00",
+  "updatedAt": "2026-11-23T06:26:52.273019+00:00",
   "events": [
-    {
-      "title": "Murray Head",
-      "date": "dim. 22 novembre 2026 · 19 h 00",
-      "place": "Casino Barrière de Lille",
-      "town": "Lille",
-      "kind": "baby",
-      "url": "https://openagenda.com/theatre-barriere-de-lille/events/2056131_murray-head-6574557",
-      "source": "Métropole Européenne de Lille",
-      "age": "Âge indiqué : 0–99 ans",
-      "description": "Le grand Murray Head, artiste incontournable aux succès intemporels, vous donne rendez-vous pour un concert exceptionnel."
-    },
     {
       "title": "Le p'tit yogi",
       "date": "mer. 25 novembre 2026 · 10 h 30",
@@ -88,6 +77,28 @@
       "source": "Fresques Lille Métropole",
       "age": "Âge conseillé à vérifier",
       "description": "Temps de rencontre pour ceux qui s'investissent ou veulent s'investir en faveur de l'environnement"
+    },
+    {
+      "title": "Tournoi football entre habitants de Moulins",
+      "date": "ven. 27 novembre 2026 · 17 h 30",
+      "place": "Stade Jean Bouin",
+      "town": "Lille",
+      "kind": "sport",
+      "url": "https://openagenda.com/lille-moulins/events/3914784_tournoi-football-entre-habitants-de-moulins",
+      "source": "Lille-Moulins",
+      "age": "Âge indiqué : 18–99 ans",
+      "description": "Tournoi football entre habitants de Moulins"
+    },
+    {
+      "title": "Kilikili: Chouette, une histoire !",
+      "date": "sam. 28 novembre 2026 · 10 h 30",
+      "place": "Médiathèque de Lille-Moulins",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/bml/events/83208694_kilikili-chouette-une-histoire",
+      "source": "Lille-Moulins",
+      "age": "Âge indiqué : 4–7 ans",
+      "description": "Chouette, une histoire ! Ecouter des histoires, c'est chouette. Alors quand elles racontent sur les chouettes c'est encore mieux..."
     },
     {
       "title": "Speed-dating patrimonial",
@@ -233,28 +244,6 @@
       "description": "Laissez-vous conter l’histoire singulière de ce musée chargé d’histoire(s)"
     },
     {
-      "title": "Dabkeh palestienienne | Mohammed Alaloul [REPORT]",
-      "date": "sam. 5 décembre 2026 · 15 h 30",
-      "place": "Institut du monde arabe-Tourcoing",
-      "town": "Tourcoing",
-      "kind": "culture",
-      "url": "https://openagenda.com/institut-du-monde-arabe-tourcoing/events/65409492_dabkeh-palestienienne-or-mohammed-alaloul",
-      "source": "Institut du monde arabe-Tourcoing",
-      "age": "Âge indiqué : 12–99 ans",
-      "description": "La dabkeh est une danse populaire traditionnelle palestinienne qui se pratique en groupe lors des moments festifs et des célébrations."
-    },
-    {
-      "title": "Ateliers calligraphie arabe | Ahmad Dari",
-      "date": "dim. 6 décembre 2026 · 13 h 15",
-      "place": "Institut du monde arabe-Tourcoing",
-      "town": "Tourcoing",
-      "kind": "culture",
-      "url": "https://openagenda.com/institut-du-monde-arabe-tourcoing/events/25567405_ateliers-calligraphie-arabe-or-ahmad-dari",
-      "source": "Institut du monde arabe-Tourcoing",
-      "age": "Âge indiqué : 12–99 ans",
-      "description": "À travers cet atelier, le maître calligraphe Ahmad Dari, originaire de Jérusalem, vous initiera aux secrets du calame et à la subtilité des liés et déliés de la calligraphie arabe."
-    },
-    {
       "title": "La Fresque du Numérique à Saint-André-lez-Lille",
       "date": "mar. 8 décembre 2026 · 18 h 15",
       "place": "Tiers-Lieu \"So Watt\"",
@@ -275,17 +264,6 @@
       "source": "Vieux-Lille",
       "age": "Âge indiqué : 9–99 ans",
       "description": "En écho au Lille Poésie Festival 2026 et en partenariat avec la bibliothèque du Vieux-lille"
-    },
-    {
-      "title": "Rencontre littéraire | Sophie Fontanel - Shéhérazade et la 602e nuit",
-      "date": "sam. 12 décembre 2026 · 15 h 00",
-      "place": "Théâtre du Nord",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/institut-du-monde-arabe-tourcoing/events/20406388_rencontre-litteraire-or-sophie-fontanel-sheherazade-et-la-602e-nuit",
-      "source": "Institut du monde arabe-Tourcoing",
-      "age": "Âge conseillé à vérifier",
-      "description": "Sophie Fontanel est journaliste. Elle a été rédactrice en chef adjointe de Cosmopolitan, a animé Nulle part ailleurs sur Canal+, puis a été grand reporter à Elle, avant d’entrer à L’Obs."
     },
     {
       "title": "Chambre à Part",
@@ -343,28 +321,6 @@
       "description": "Temps de rencontre pour ceux qui s'investissent ou veulent s'investir en faveur de l'environnement"
     },
     {
-      "title": "La langue arabe en Europe | Tarek Abouelgamal",
-      "date": "sam. 19 décembre 2026 · 15 h 00",
-      "place": "Institut du monde arabe-Tourcoing",
-      "town": "Tourcoing",
-      "kind": "culture",
-      "url": "https://openagenda.com/institut-du-monde-arabe-tourcoing/events/74626928_la-langue-arabe-en-europe-or-tarek-abouelgamal",
-      "source": "Institut du monde arabe-Tourcoing",
-      "age": "Âge conseillé à vérifier",
-      "description": "À l’occasion de la journée de la langue arabe, célébrée chaque année à l’initiative de l’UNESCO, l’IMA-Tourcoing invite un grand spécialiste, Tarek Abouelgamal."
-    },
-    {
-      "title": "Cours d'initiation à la langue arabe | Tarek Abouelgamal",
-      "date": "sam. 19 décembre 2026 · 16 h 30",
-      "place": "Institut du monde arabe-Tourcoing",
-      "town": "Tourcoing",
-      "kind": "baby",
-      "url": "https://openagenda.com/institut-du-monde-arabe-tourcoing/events/5654038_cours-dinitiation-a-la-langue-arabe-or-tarek-abouelgamal",
-      "source": "Institut du monde arabe-Tourcoing",
-      "age": "Âge indiqué : 0–99 ans",
-      "description": "Lors de ce cours d’intitiation, Tarek Abouelgamal propose de vous donner quelques bases de conversation et les principes généraux qui régissent la langue arabe."
-    },
-    {
       "title": "Concert de Noël",
       "date": "sam. 19 décembre 2026 · 20 h 00",
       "place": "Auditorium du Nouveau Siècle",
@@ -407,17 +363,6 @@
       "source": "La Corderie",
       "age": "Âge indiqué : 8–12 ans",
       "description": "Club de lecture des 8-12 ans"
-    },
-    {
-      "title": "Brunch | Street food tunisienne",
-      "date": "dim. 17 janvier 2027 · 13 h 00",
-      "place": "Institut du monde arabe-Tourcoing",
-      "town": "Tourcoing",
-      "kind": "culture",
-      "url": "https://openagenda.com/institut-du-monde-arabe-tourcoing/events/69553608_brunch-or-street-food-tunisienne",
-      "source": "Institut du monde arabe-Tourcoing",
-      "age": "Âge conseillé à vérifier",
-      "description": "La street food tunisienne, une mémoire sociale et culinaire (Ed. Bande-organisée, 2026) est un livre de recettes consacré à ces cuisines populaires."
     },
     {
       "title": "Jam Session",
