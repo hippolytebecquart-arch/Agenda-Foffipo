@@ -1,39 +1,6 @@
 {
-  "updatedAt": "2026-11-25T18:02:23.082739+00:00",
+  "updatedAt": "2026-11-26T06:16:16.750990+00:00",
   "events": [
-    {
-      "title": "Vibrer avec Michel Hubert, Jeannette & MaJ",
-      "date": "mer. 25 novembre 2026 · 19 h 30",
-      "place": "maison Folie Wazemmes",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/maisons-folie/events/97918240_vibrer-avec-michel-hubert-jeannette-and-maj",
-      "source": "Ville de Lille",
-      "age": "Âge conseillé à vérifier",
-      "description": "Dans le cadre du festival Haute Fréquence, Vedanity Affair vous propose une expérience musicale immersive et innovante valorisant des propositions artistiques singulières."
-    },
-    {
-      "title": "Conférence SHIT SHOW + Projection UN APRÈS-MIDI DE CHIEN de Sidney Lumet",
-      "date": "mer. 25 novembre 2026 · 19 h 30",
-      "place": "Auditorium du Palais des Beaux-Arts",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/ville-de-lille/events/38157824_conference-shit-show-projection-un-apres-midi-de-chien-de-sidney-lumet",
-      "source": "Ville de Lille",
-      "age": "Âge indiqué : 16–99 ans",
-      "description": "CYCLE ETATS-UNIS : L'AMERIQUE MALADE. Elle l’a toujours été, comme en témoignent ces films documentaires ou de fiction qui jalonnent l’histoire du cinéma américain."
-    },
-    {
-      "title": "Fest CCBB: La bar-bars Jam du Musical",
-      "date": "mer. 25 novembre 2026 · 20 h 00",
-      "place": "le musical",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/max-fb100003037778845/events/81746363_fest-ccbb-la-bar-bars-jam-du-musical",
-      "source": "Ville de Lille",
-      "age": "Âge indiqué : 18–99 ans",
-      "description": "Aujourd'hui c'est à toi de mettre le feu au festival culture bar bars en venant chauffer la scène du Musical !"
-    },
     {
       "title": "V.I.B. Very Important Baby",
       "date": "jeu. 26 novembre 2026 · 10 h 00",
@@ -46,15 +13,92 @@
       "description": "Des jeux, des livres, une musique douce et une bibliothécaire aux petits soins auprès des plus jeunes et de leurs parents. Tous les jeudis, de 10h à 11h30."
     },
     {
+      "title": "Visitez les ateliers de la maison Lemahieu",
+      "date": "jeu. 26 novembre 2026 · 10 h 30",
+      "place": "Boutique de la Maison Lemahieu",
+      "town": "Saint-André-lez-Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/hello-lille-destination/events/33861020_visitez-les-ateliers-de-la-maison-lemahieu",
+      "source": "Wattrelos Tourisme",
+      "age": "Âge conseillé à vérifier",
+      "description": "Découvrez les coulisses de Maison Lemahieu et son savoir-faire textile français, de la création à la confection."
+    },
+    {
+      "title": "COMPLET/Initiation à l'identification des lichens",
+      "date": "jeu. 26 novembre 2026 · 14 h 00",
+      "place": "Devant le Monument aux Pigeons Voyageurs",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/espaces-naturels-metropolitains/events/25838857_initiation-a-lidentification-des-lichens",
+      "source": "Wattrelos Tourisme",
+      "age": "Âge conseillé à vérifier",
+      "description": "Une sortie à la découverte des lichens, proposée par le Conservatoire Botanique des Hauts de France."
+    },
+    {
+      "title": "Roger Salengro, Lille et les Lillois",
+      "date": "jeu. 26 novembre 2026 · 16 h 00",
+      "place": "Hôtel de Ville",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/ville-dart-et-dhistoire-de-lille/events/48622130_roger-salengro-lille-et-les-lillois",
+      "source": "Wattrelos Tourisme",
+      "age": "Âge indiqué : 16–99 ans",
+      "description": "Découvrez le monument à Gustave Delory et Roger Salengro ainsi que l'héritage laissé par Roger Salengro aux Archives municipales."
+    },
+    {
+      "title": "Visites-concerts de l'opéra autour de l'heure bleue",
+      "date": "jeu. 26 novembre 2026 · 16 h 30",
+      "place": "Opéra de Lille",
+      "town": "Lille",
+      "kind": "baby",
+      "url": "https://openagenda.com/hello-lille-destination/events/26177691_visites-concerts-de-lopera-autour-de-lheure-bleue",
+      "source": "Wattrelos Tourisme",
+      "age": "Âge indiqué : 0–99 ans",
+      "description": "Une visite à deux voix qui vous invite à découvrir l’Opéra autrement, entre coulisses, découverte historique et concert de l’Heure bleue, confortablement allongé et totalement détendu."
+    },
+    {
       "title": "DANIEL ZIMMERMANN",
       "date": "jeu. 26 novembre 2026 · 17 h 30",
       "place": "Maison Folie Hospice d'Havré",
       "town": "Tourcoing",
       "kind": "culture",
       "url": "https://openagenda.com/tourcoing-jazz/events/14401999_daniel-zimmermann",
-      "source": "Tourcoing Tourisme",
+      "source": "Tourcoing Jazz",
       "age": "Âge conseillé à vérifier",
       "description": "Tourcoing Jazz Club 2026"
+    },
+    {
+      "title": "Les procédures suite à des impayés en copropriété",
+      "date": "jeu. 26 novembre 2026 · 17 h 30",
+      "place": "En ligne",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/mhd/events/39028201_les-procedures-suite-a-des-impayes-en-copropriete",
+      "source": "Ville de Lille",
+      "age": "Âge conseillé à vérifier",
+      "description": "Webinaire"
+    },
+    {
+      "title": "Performance & nocturne de l'exposition Mémoire d'enfants",
+      "date": "jeu. 26 novembre 2026 · 18 h 00",
+      "place": "La Pouponnière",
+      "town": "Lille",
+      "kind": "baby",
+      "url": "https://openagenda.com/lapouponniere/events/98384013_performance-and-nocturne-de-lexposition-memoire-denfant",
+      "source": "Ville de Lille",
+      "age": "Âge indiqué : 0–99 ans",
+      "description": "Cet automne, la Pouponnière vous invite à vivre des expériences, partager des rencontres et découvrir des projets où les histoires d’hier nourrissent les créations d’aujourd’hui."
+    },
+    {
+      "title": "Chronochromatic",
+      "date": "jeu. 26 novembre 2026 · 18 h 00",
+      "place": "Opéra de Lille",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/la-culture-en-continu/events/33696458_chronochromatic",
+      "source": "Ville de Lille",
+      "age": "Âge conseillé à vérifier",
+      "description": "Laure M. Hiendl, John Cage"
     },
     {
       "title": "Vente Solidaire - Marcq Tiers Monde",
@@ -77,6 +121,17 @@
       "source": "Fresques Lille Métropole",
       "age": "Âge conseillé à vérifier",
       "description": "Temps de rencontre pour ceux qui s'investissent ou veulent s'investir en faveur de l'environnement"
+    },
+    {
+      "title": "Midi regard",
+      "date": "ven. 27 novembre 2026 · 12 h 30",
+      "place": "Palais des beaux arts",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/vdl-palais-des-beaux-arts/events/69641842_midi-regard-5884341",
+      "source": "Wattrelos Tourisme",
+      "age": "Âge indiqué : 7–99 ans",
+      "description": "Avec Emmelene Landon, écrivaine et peintre."
     },
     {
       "title": "Café langue français langue étrangère (FLE)",
@@ -286,17 +341,6 @@
       "source": "Vieux-Lille",
       "age": "Âge indiqué : 9–99 ans",
       "description": "En écho au Lille Poésie Festival 2026 et en partenariat avec la bibliothèque du Vieux-lille"
-    },
-    {
-      "title": "Marché de Noël de créateurs et streetwear",
-      "date": "sam. 12 décembre 2026 · 12 h 00",
-      "place": "Bazaar St-So",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/lille-centre/events/99519484_week-end-a-lille-les-12-et-13-decembre-marche-de-noel-de-createurs-et-streetwear-gratuit",
-      "source": "Lille-Centre",
-      "age": "Âge conseillé à vérifier",
-      "description": "Pop-up de Noël à Lille : 50+ créateurs et marques streetwear, entrée gratuite"
     },
     {
       "title": "Chambre à Part",
