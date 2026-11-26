@@ -1,126 +1,16 @@
 {
-  "updatedAt": "2026-11-26T06:16:16.750990+00:00",
+  "updatedAt": "2026-11-26T18:08:09.880417+00:00",
   "events": [
     {
-      "title": "V.I.B. Very Important Baby",
-      "date": "jeu. 26 novembre 2026 · 10 h 00",
-      "place": "Médiathèque André Malraux",
-      "town": "Tourcoing",
-      "kind": "baby",
-      "url": "https://openagenda.com/reseau-des-idees-mediatheques-de-tourcoing/events/89223751_vib-very-important-baby-6172821",
-      "source": "Le réseau des bibliothèques et médiathèques de la MEL",
-      "age": "Âge indiqué : 0–3 ans",
-      "description": "Des jeux, des livres, une musique douce et une bibliothécaire aux petits soins auprès des plus jeunes et de leurs parents. Tous les jeudis, de 10h à 11h30."
-    },
-    {
-      "title": "Visitez les ateliers de la maison Lemahieu",
-      "date": "jeu. 26 novembre 2026 · 10 h 30",
-      "place": "Boutique de la Maison Lemahieu",
-      "town": "Saint-André-lez-Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/hello-lille-destination/events/33861020_visitez-les-ateliers-de-la-maison-lemahieu",
-      "source": "Wattrelos Tourisme",
-      "age": "Âge conseillé à vérifier",
-      "description": "Découvrez les coulisses de Maison Lemahieu et son savoir-faire textile français, de la création à la confection."
-    },
-    {
-      "title": "COMPLET/Initiation à l'identification des lichens",
-      "date": "jeu. 26 novembre 2026 · 14 h 00",
-      "place": "Devant le Monument aux Pigeons Voyageurs",
+      "title": "Fest CCBB: Open Mic # 56 du Clan Mc Leod",
+      "date": "jeu. 26 novembre 2026 · 20 h 00",
+      "place": "le musical",
       "town": "Lille",
       "kind": "culture",
-      "url": "https://openagenda.com/espaces-naturels-metropolitains/events/25838857_initiation-a-lidentification-des-lichens",
-      "source": "Wattrelos Tourisme",
-      "age": "Âge conseillé à vérifier",
-      "description": "Une sortie à la découverte des lichens, proposée par le Conservatoire Botanique des Hauts de France."
-    },
-    {
-      "title": "Roger Salengro, Lille et les Lillois",
-      "date": "jeu. 26 novembre 2026 · 16 h 00",
-      "place": "Hôtel de Ville",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/ville-dart-et-dhistoire-de-lille/events/48622130_roger-salengro-lille-et-les-lillois",
-      "source": "Wattrelos Tourisme",
-      "age": "Âge indiqué : 16–99 ans",
-      "description": "Découvrez le monument à Gustave Delory et Roger Salengro ainsi que l'héritage laissé par Roger Salengro aux Archives municipales."
-    },
-    {
-      "title": "Visites-concerts de l'opéra autour de l'heure bleue",
-      "date": "jeu. 26 novembre 2026 · 16 h 30",
-      "place": "Opéra de Lille",
-      "town": "Lille",
-      "kind": "baby",
-      "url": "https://openagenda.com/hello-lille-destination/events/26177691_visites-concerts-de-lopera-autour-de-lheure-bleue",
-      "source": "Wattrelos Tourisme",
-      "age": "Âge indiqué : 0–99 ans",
-      "description": "Une visite à deux voix qui vous invite à découvrir l’Opéra autrement, entre coulisses, découverte historique et concert de l’Heure bleue, confortablement allongé et totalement détendu."
-    },
-    {
-      "title": "DANIEL ZIMMERMANN",
-      "date": "jeu. 26 novembre 2026 · 17 h 30",
-      "place": "Maison Folie Hospice d'Havré",
-      "town": "Tourcoing",
-      "kind": "culture",
-      "url": "https://openagenda.com/tourcoing-jazz/events/14401999_daniel-zimmermann",
-      "source": "Tourcoing Jazz",
-      "age": "Âge conseillé à vérifier",
-      "description": "Tourcoing Jazz Club 2026"
-    },
-    {
-      "title": "Les procédures suite à des impayés en copropriété",
-      "date": "jeu. 26 novembre 2026 · 17 h 30",
-      "place": "En ligne",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/mhd/events/39028201_les-procedures-suite-a-des-impayes-en-copropriete",
-      "source": "Ville de Lille",
-      "age": "Âge conseillé à vérifier",
-      "description": "Webinaire"
-    },
-    {
-      "title": "Performance & nocturne de l'exposition Mémoire d'enfants",
-      "date": "jeu. 26 novembre 2026 · 18 h 00",
-      "place": "La Pouponnière",
-      "town": "Lille",
-      "kind": "baby",
-      "url": "https://openagenda.com/lapouponniere/events/98384013_performance-and-nocturne-de-lexposition-memoire-denfant",
-      "source": "Ville de Lille",
-      "age": "Âge indiqué : 0–99 ans",
-      "description": "Cet automne, la Pouponnière vous invite à vivre des expériences, partager des rencontres et découvrir des projets où les histoires d’hier nourrissent les créations d’aujourd’hui."
-    },
-    {
-      "title": "Chronochromatic",
-      "date": "jeu. 26 novembre 2026 · 18 h 00",
-      "place": "Opéra de Lille",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/la-culture-en-continu/events/33696458_chronochromatic",
-      "source": "Ville de Lille",
-      "age": "Âge conseillé à vérifier",
-      "description": "Laure M. Hiendl, John Cage"
-    },
-    {
-      "title": "Vente Solidaire - Marcq Tiers Monde",
-      "date": "jeu. 26 novembre 2026 · 18 h 30",
-      "place": "Salle Jean Degros",
-      "town": "Marcq-en-Barœul",
-      "kind": "culture",
-      "url": "https://openagenda.com/ville-de-marcq-en-baroeul/events/16088055_vente-solidaire-marcq-tiers-monde",
-      "source": "Ville de Marcq-en-Baroeul",
-      "age": "Âge conseillé à vérifier",
-      "description": "Vente solidaire - Marcq Tiers Monde"
-    },
-    {
-      "title": "Les Rencards du climat au Bus Magique !",
-      "date": "jeu. 26 novembre 2026 · 19 h 00",
-      "place": "Le Bus Magique, Lille",
-      "town": "Lille",
-      "kind": "culture",
-      "url": "https://openagenda.com/les-rencards-du-climat-metropole-lilloise/events/86586114_rencard-du-climat-lieu-a-confirmer-285794",
-      "source": "Fresques Lille Métropole",
-      "age": "Âge conseillé à vérifier",
-      "description": "Temps de rencontre pour ceux qui s'investissent ou veulent s'investir en faveur de l'environnement"
+      "url": "https://openagenda.com/max-fb100003037778845/events/17455320_fest-ccbb-open-mic-56-du-clan-mc-leod",
+      "source": "Office de Tourisme de la Métropole Européenne de Lille",
+      "age": "Âge indiqué : 18–99 ans",
+      "description": "Que tu rappes depuis 20 ans ou que tu débutes seulement, ramène tes meilleurs 16 mesures, inscris-toi auprès de Zeuzloo, et dès que l'open mic démarre : les immortel•les t'appellent !"
     },
     {
       "title": "Midi regard",
