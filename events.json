@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-11-26T18:08:09.880417+00:00",
+  "updatedAt": "2026-11-27T06:21:14.422115+00:00",
   "events": [
     {
-      "title": "Fest CCBB: Open Mic # 56 du Clan Mc Leod",
-      "date": "jeu. 26 novembre 2026 · 20 h 00",
-      "place": "le musical",
+      "title": "Les rencontres des pratiques brutes - Festival Trouble Fête #2",
+      "date": "ven. 27 novembre 2026 · 09 h 00",
+      "place": "Gare Saint Sauveur",
       "town": "Lille",
       "kind": "culture",
-      "url": "https://openagenda.com/max-fb100003037778845/events/17455320_fest-ccbb-open-mic-56-du-clan-mc-leod",
-      "source": "Office de Tourisme de la Métropole Européenne de Lille",
-      "age": "Âge indiqué : 18–99 ans",
-      "description": "Que tu rappes depuis 20 ans ou que tu débutes seulement, ramène tes meilleurs 16 mesures, inscris-toi auprès de Zeuzloo, et dès que l'open mic démarre : les immortel•les t'appellent !"
+      "url": "https://openagenda.com/gare-saint-sauveur/events/60291323_les-rencontres-des-pratiques-brutes-festival-trouble-fete-2",
+      "source": "Ville de Lille",
+      "age": "Âge conseillé à vérifier",
+      "description": "Les Rencontres des pratiques brutes débarquent pour la 2ème année à Lille. Deux jours de discussions, performances, projections !"
     },
     {
       "title": "Midi regard",
@@ -22,6 +22,28 @@
       "source": "Wattrelos Tourisme",
       "age": "Âge indiqué : 7–99 ans",
       "description": "Avec Emmelene Landon, écrivaine et peintre."
+    },
+    {
+      "title": "Ateliers numériques",
+      "date": "ven. 27 novembre 2026 · 14 h 00",
+      "place": "Ville de Lille",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/ville-de-lille/events/47834777_ateliers-numeriques-4767370",
+      "source": "Ville de Lille",
+      "age": "Âge conseillé à vérifier",
+      "description": "Pour progresser dans ses usages"
+    },
+    {
+      "title": "Petits travaux dans le logement : l’électricité",
+      "date": "ven. 27 novembre 2026 · 14 h 00",
+      "place": "Lille",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/mhd/events/9391922_petits-travaux-dans-le-logement-lelectricite",
+      "source": "Ville de Lille",
+      "age": "Âge conseillé à vérifier",
+      "description": "Atelier de bricolage"
     },
     {
       "title": "Café langue français langue étrangère (FLE)",
@@ -41,9 +63,20 @@
       "town": "Lille",
       "kind": "sport",
       "url": "https://openagenda.com/lille-moulins/events/3914784_tournoi-football-entre-habitants-de-moulins",
-      "source": "Lille-Moulins",
+      "source": "Ville de Lille",
       "age": "Âge indiqué : 18–99 ans",
       "description": "Tournoi football entre habitants de Moulins"
+    },
+    {
+      "title": "BINGO DRAG",
+      "date": "ven. 27 novembre 2026 · 18 h 00",
+      "place": "Maison Quartier Wazemmes",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/wazemmes/events/11778107_bingo-drag-2786293",
+      "source": "Ville de Lille",
+      "age": "Âge conseillé à vérifier",
+      "description": "DU GLAMOUR, DU SHOW ET DU BINGO !"
     },
     {
       "title": "L'avant prix",
@@ -55,6 +88,94 @@
       "source": "Le réseau des bibliothèques et médiathèques de la MEL",
       "age": "Âge indiqué : 18–99 ans",
       "description": "Lecture d’extraits des 5 livres finalistes du prix Des racines et des mots par LA BOCCA, association de littérature partagée à haute voix."
+    },
+    {
+      "title": "Soirée des Talentueuses",
+      "date": "ven. 27 novembre 2026 · 19 h 00",
+      "place": "Cave des Celestines",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/ville-de-lille/events/61064613_soiree-des-talentueuses",
+      "source": "Ville de Lille",
+      "age": "Âge conseillé à vérifier",
+      "description": "Scène ouverte exclusivement féminine: rap - chant - danse ou tout autre art!"
+    },
+    {
+      "title": "Pièce de théâtre : 27 novembre 2026",
+      "date": "ven. 27 novembre 2026 · 19 h 00",
+      "place": "Centre social Albert Jacquard",
+      "town": "Lille",
+      "kind": "baby",
+      "url": "https://openagenda.com/st-maurice-pellevoisin/events/67299060_piece-de-theatre-27-novembre-2026",
+      "source": "Ville de Lille",
+      "age": "Âge indiqué : 0–99 ans",
+      "description": "Par la compagnie Prise de Textes"
+    },
+    {
+      "title": "Omar EK + Méri + QT.allstars",
+      "date": "ven. 27 novembre 2026 · 20 h 00",
+      "place": "La malterie",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/la-culture-en-continu/events/79346291_omar-ek-meri-qtallstars-3523041",
+      "source": "Ville de Lille",
+      "age": "Âge conseillé à vérifier",
+      "description": "Quelle Timeline! présente une soirée survoltée entre le live gnaoua-électro d’Omar EK, le set de meri [GARAGE 83C] et la pochette surprise QT.ALLSTARS."
+    },
+    {
+      "title": "Fest CCBB: Live: Zababoum (Musique Brésilloise) + Rua Philadelphia (choro fivois)",
+      "date": "ven. 27 novembre 2026 · 20 h 00",
+      "place": "le musical",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/max-fb100003037778845/events/14462176_fest-ccbb-live-zababoum-musique-bresilloise-rua-philadelphia-choro-fivois",
+      "source": "Ville de Lille",
+      "age": "Âge indiqué : 18–99 ans",
+      "description": "Grosse soirée de musique Brésilienne pour ce festival Culture Bar Bars avec Rua Philadelphia et Zababoum qui remettent le feu au Musical !"
+    },
+    {
+      "title": "Boy Harsher et Choir Boy",
+      "date": "ven. 27 novembre 2026 · 20 h 00",
+      "place": "L'Aéronef",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/la-culture-en-continu/events/31661696_boy-harsher-et-choir-boy",
+      "source": "Ville de Lille",
+      "age": "Âge conseillé à vérifier",
+      "description": "Bienvenue dans l'univers dark-wave du tandem Boy Harsher."
+    },
+    {
+      "title": "concert : Kulturr",
+      "date": "ven. 27 novembre 2026 · 20 h 00",
+      "place": "FLOW - Centre Eurorégional des Cultures Urbaines",
+      "town": "Lille",
+      "kind": "baby",
+      "url": "https://openagenda.com/flow/events/52066473_concert-kulturr",
+      "source": "Ville de Lille",
+      "age": "Âge indiqué : 0–99 ans",
+      "description": "À l'occasion du festival solidaire \"Le Père Noël est-il un Rocker ?\", Kulturr sera présent le 27 novembre 2026 au Flow !"
+    },
+    {
+      "title": "Zélie",
+      "date": "ven. 27 novembre 2026 · 20 h 00",
+      "place": "Le Splendid",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/ville-de-lille/events/91403358_zelie-93421",
+      "source": "Ville de Lille",
+      "age": "Âge conseillé à vérifier",
+      "description": "Retrouvez Zélie, une artiste intense et bouillonnante. Sur des sonorités électroniques ey des rythmes énergisants, elle chante et danse sa force avec une sensibilité crue."
+    },
+    {
+      "title": "Krinator_Ron Pon_Harry Merry_Chevalier Surprise_DJ Blondin- Festival Trouble Fête #2",
+      "date": "ven. 27 novembre 2026 · 20 h 30",
+      "place": "Salle des Fêtes de Fives",
+      "town": "Lille",
+      "kind": "culture",
+      "url": "https://openagenda.com/fives/events/83556635_krinatorron-ponharry-merrychevalier-surprisedj-blondin-festival-trouble-fete-2",
+      "source": "Ville de Lille",
+      "age": "Âge conseillé à vérifier",
+      "description": "Des concerts hors normes, des artistes singuliers, bienvenue dans les soirées concerts de Trouble Fête. 2ème rendez-vous à la Salle des Fêtes de Fives le vendredi 27 novembre !"
     },
     {
       "title": "Kilikili: Chouette, une histoire !",
@@ -90,6 +211,17 @@
       "description": "Spectacle pour tout-petits"
     },
     {
+      "title": "Murmuration Level 2",
+      "date": "sam. 28 novembre 2026 · 16 h 00",
+      "place": "Le Colisée",
+      "town": "Roubaix",
+      "kind": "culture",
+      "url": "https://openagenda.com/le-colisee-theatre-de-roubaix/events/95067892_murmuration-level-2-9018193",
+      "source": "Le Colisée Théâtre de Roubaix",
+      "age": "Âge conseillé à vérifier",
+      "description": "Après son triomphe au Colisée en 2025, le chorégraphe phénomène Sadeck Berrabah repousse les limites de son art avec une version 2.0 de son spectacle hypnotique."
+    },
+    {
       "title": "Création d'un carnet",
       "date": "dim. 29 novembre 2026 · 15 h 00",
       "place": "Médiathèque de Roubaix - La Grand-Plage",
@@ -121,6 +253,17 @@
       "source": "Vieux-Lille",
       "age": "Âge conseillé à vérifier",
       "description": "De l'image à l'écrit, de l'écrit à la voix"
+    },
+    {
+      "title": "Ligue d'Improvisation de Marcq-en-Barœul",
+      "date": "mar. 1 décembre 2026 · 20 h 00",
+      "place": "Le Colisée",
+      "town": "Roubaix",
+      "kind": "culture",
+      "url": "https://openagenda.com/le-colisee-theatre-de-roubaix/events/45522974_ligue-dimprovisation-de-marcq-en-baroeul-1102338",
+      "source": "Le Colisée Théâtre de Roubaix",
+      "age": "Âge conseillé à vérifier",
+      "description": "Rendez-vous incontournable et festif du Colisée, la Ligue d’Impro de Marcq-en-Barœul célèbre sa 35ᵉ édition en affrontant une redoutable équipe internationale : les 5 Nations."
     },
     {
       "title": "TÉLÉTHON 2026 du mercredi 02 décembre au samedi 05 décembre 2026.",
